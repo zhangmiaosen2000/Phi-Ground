@@ -6,13 +6,14 @@
 
 Home page for Microsoft Phi-Ground tech-report
 
-![overview](docs/static/images/abstract.png)
+### IMPORTANT: The official repository of Phi-Ground has been transfer to [here](https://github.com/microsoft/Phi-Ground)
 
+![overview](docs/static/images/abstract.png)
 
 
 ## Release Plans
 
-- [ ] [Phi-Ground-4B-7C](https://huggingface.co/microsoft/Phi-Ground)
+- [x] [Phi-Ground-4B-7C](https://huggingface.co/microsoft/Phi-Ground)
 - [x] Evaluation code for benchmarks
 - [x] [GPT-4O & O4-mini's planning data for evaluation](benchmark/new_annotations)
 
